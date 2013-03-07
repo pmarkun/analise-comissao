@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  
+  <head>
+    <title>CDHM</title>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-responsive.css"> 
+    <script src="vendor/js/jquery.min.js"></script>
+    <script src="vendor/js/bootstrap.min.js"></script>
+    <script src="vendor/js/tempo.js"></script>
+</head>
+    <body>
+        <div class="container">
+            <h1>CDHM - Membros e PLs (2011/2012)</h1>
+            
+            <div id="parlamentares">
+                <div id="{{id}}"class="row" data-template>
+                    <div class="span4 parlamentar"><h3>{{nome}} - {{partido}}/{{estado}}</h3></div>
+                    <div class="span8 projetos"></div>
+                </div>
+            </div>
+        </div>
+    <script>
+    function loadJson(url) {
+            var json = '';
+            $.ajax({
+            'async': false,
+            'global': false,
+            'url': url,
+            'dataType': "json",
+            'success': function (data) {
+                    json = data;
+                }
+            });
+            return json;
+        };
+	
+     $(document).ready(function() {
+        data = loadJson('cdhm.json');
+        Tempo.prepare("parlamentares").render(data);
+     
+        $.each(data, function(x, parlamentar) {
+            $.each(parlamentar.proposicoes, function (x, proposicao) {
+                $("#"+parlamentar.id+ " .projetos").append("<b>"+proposicao.nome+":</b> <span>"+proposicao.ementa+"</span><br />");
+            });
+            
+        });
+     });
+    
+    </script>
+    
+    </body>
+</html>
