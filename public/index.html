@@ -80,7 +80,7 @@
         //Usando Jquery novamente para inserir informação dentro de cada parlamentar.
         $.each(data, function(x, parlamentar) {
             $.each(parlamentar.proposicoes, function (x, proposicao) {
-                $("#"+parlamentar.id+ " .projetos").append("<div class='projeto'><b>"+proposicao.nome+":</b> <span>"+proposicao.ementa+"</span></div>");
+                $("#"+parlamentar.id+ " .projetos").append("<div class='projeto'><b><a href='http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao="+proposicao.id+"'>"+proposicao.nome+"</a>:</b> <span>"+proposicao.ementa+"</span></div>");
             });
             
         });
