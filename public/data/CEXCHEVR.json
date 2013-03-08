@@ -1,0 +1,313 @@
+[
+    {
+        "comissoes": [
+            "CEXCHEVR",
+            "CME",
+            "SUBEALBR"
+        ],
+        "estado": "BA",
+        "id": "160676",
+        "nome": "FERNANDO TORRES",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Estabelece normas para apresenta\u00e7\u00e3o de trios el\u00e9tricos, carros de som ou similares que transitem com pessoas na parte superior, e d\u00e1 outras provid\u00eancias.",
+                "id": "518082",
+                "nome": "PL 2179/2011"
+            },
+            {
+                "ementa": "Regulamenta a profiss\u00e3o de fot\u00f3grafo e d\u00e1 outras provid\u00eancias",
+                "id": "518047",
+                "nome": "PL 2176/2011"
+            },
+            {
+                "ementa": "Estabelece normas para apresenta\u00e7\u00e3o de filmes em \u00f4nibus interestaduais.",
+                "id": "518046",
+                "nome": "PL 2175/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, obrigando as prestadoras dos servi\u00e7os de telefonia fixa e m\u00f3vel a emitirem sinaliza\u00e7\u00e3o sonora nas liga\u00e7\u00f5es telef\u00f4nicas originadas e terminadas no \u00e2mbito da rede da pr\u00f3pria prestadora.",
+                "id": "518043",
+                "nome": "PL 2174/2011"
+            },
+            {
+                "ementa": "Determina normas para escolas p\u00fablicas e d\u00e1 outras provid\u00eancias.",
+                "id": "509128",
+                "nome": "PL 1600/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.260, de 12 de julho de 2001, que disp\u00f5e sobre o Fundo de Financiamento ao Estudante do Ensino Superior - Fies.",
+                "id": "509126",
+                "nome": "PL 1599/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a instala\u00e7\u00e3o de detectores de metais em estabelecimentos de ensino em todo o territ\u00f3rio nacional.",
+                "id": "501515",
+                "nome": "PL 1294/2011"
+            },
+            {
+                "ementa": "Institui gratifica\u00e7\u00e3o para os empregados em geral.",
+                "id": "548101",
+                "nome": "PL 4065/2012"
+            },
+            {
+                "ementa": "Altera o art. 198 da Constitui\u00e7\u00e3o Federal e d\u00e1 outras provid\u00eancias.",
+                "id": "543841",
+                "nome": "PEC 167/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXCHEVR",
+            "CFFC",
+            "SUBSAUDE"
+        ],
+        "estado": "RJ",
+        "id": "74017",
+        "nome": "PAULO FEIJ\u00d3",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a atualiza\u00e7\u00e3o peri\u00f3dica dos mapas dos sistemas de navega\u00e7\u00e3o para dispositivos de sistema de posicionamento global - GPS.",
+                "id": "541441",
+                "nome": "PL 3699/2012"
+            },
+            {
+                "ementa": "Altera o art. 16-A da Lei n\u00ba 9.504, de 30 de setembro de 1997, para estabelecer a nulidade, para todos os efeitos, dos votos atribu\u00eddos a candidatos que n\u00e3o tenham o registro de candidatura deferido at\u00e9 a data da elei\u00e7\u00e3o.  ",
+                "id": "537107",
+                "nome": "PL 3426/2012"
+            },
+            {
+                "ementa": "Altera os arts. 14 e 16 da Lei n\u00ba 3.820, de 11 de novembro de 1960, para dispor sobre a responsabilidade t\u00e9cnica do t\u00e9cnico de farm\u00e1cia e sua inscri\u00e7\u00e3o nos Conselhos Regionais de Farm\u00e1cia. ",
+                "id": "536121",
+                "nome": "PL 3360/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre identifica\u00e7\u00e3o da profiss\u00e3o ou atividade laborativa de pessoas aposentadas nos meios de comunica\u00e7\u00e3o.",
+                "id": "534688",
+                "nome": "PL 3219/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CEXCHEVR",
+            "CEXCOPA",
+            "SUBCOPA",
+            "SUBEERJ",
+            "SUBSETEL",
+            "CDC",
+            "CFFC",
+            "SUBCEF",
+            "SUBSAUDE"
+        ],
+        "estado": "RJ",
+        "id": "76287",
+        "nome": "MARCELO MATOS",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados (IPI) sobre os ve\u00edculos utilizados no transporte escolar, nas condi\u00e7\u00f5es que determina.",
+                "id": "521998",
+                "nome": "PL 2421/2011"
+            },
+            {
+                "ementa": "Cria o Fundo de Apoio a Programas de Gest\u00e3o e Tratamento de Res\u00edduos S\u00f3lidos e Hospitalares Urbanos - Funalixo.",
+                "id": "500796",
+                "nome": "PL 1253/2011"
+            },
+            {
+                "ementa": "Regulamenta a venda de bilhetes para apresenta\u00e7\u00f5es art\u00edsticas e jogos de futebol.",
+                "id": "499754",
+                "nome": "PL 1182/2011"
+            },
+            {
+                "ementa": "Institui a meia-entrada para professores da rede p\u00fablica e privada em estabelecimentos que promovam lazer e cultura e d\u00e1 outras provid\u00eancias.",
+                "id": "497444",
+                "nome": "PL 932/2011"
+            },
+            {
+                "ementa": "Altera o Art. 20 da Lei n\u00ba 8.742, de 07 de dezembro de 1993, para estender benef\u00edcio ao respons\u00e1vel que comprove dedica\u00e7\u00e3o integral ao idoso e/ou ao portador de defici\u00eancia, beneficiado pela presta\u00e7\u00e3o continuada da assist\u00eancia social.",
+                "id": "497025",
+                "nome": "PL 890/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.899, de 29 de junho de 1994, para dispor sobre a gratuidade para os acompanhantes de pessoas com defici\u00eancia.",
+                "id": "495536",
+                "nome": "PL 780/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.069, de 13 de julho de 1990, restringindo a veicula\u00e7\u00e3o de propaganda de produtos infantis.",
+                "id": "494596",
+                "nome": "PL 702/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.433, de 8 de janeiro de 1997, que institui a Pol\u00edtica Nacional de Recursos H\u00eddricos, para destinar parcela da cobran\u00e7a do uso de recursos h\u00eddricos aos munic\u00edpios formadores da respectiva bacia hidrogr\u00e1fica.",
+                "id": "494140",
+                "nome": "PL 655/2011"
+            },
+            {
+                "ementa": "Institui diretrizes para a reutiliza\u00e7\u00e3o e  reciclagem de res\u00edduos de constru\u00e7\u00e3o civil e d\u00e1 outras provid\u00eancias. ",
+                "id": "493858",
+                "nome": "PL 640/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 7\u00ba ao art. 6\u00ba da Lei n\u00ba 10.820, de 17 de dezembro de 2003, que \"Disp\u00f5e sobre a autoriza\u00e7\u00e3o para desconto de presta\u00e7\u00f5es em folha de pagamento, e d\u00e1 outras provid\u00eancias\", com a finalidade de vedar a contrata\u00e7\u00e3o n\u00e3o presencial nas opera\u00e7\u00f5es de cr\u00e9dito consignado com titulares de benef\u00edcios de aposentadoria e pens\u00e3o do Regime Geral de Previd\u00eancia Social.",
+                "id": "557471",
+                "nome": "PL 4582/2012"
+            },
+            {
+                "ementa": "Acrescenta novo \u00a7 2\u00ba ao art. 17 da Lei n\u00ba 8.245, de 18 de outubro de 1991, que disp\u00f5e sobre as loca\u00e7\u00f5es dos im\u00f3veis urbanos e os procedimentos a ela pertinentes, para disciplinar a cobran\u00e7a de aluguel em centros comerciais (\"Shopping centers\"). ",
+                "id": "556007",
+                "nome": "PL 4447/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CESEGUR",
+            "CEXCHEVR",
+            "CEXLXHOS",
+            "CEXPARA",
+            "CSPCCO",
+            "GTCL",
+            "PL602505",
+            "PL682610",
+            "SUBOPOL",
+            "CEREFPOL",
+            "CTD",
+            "PEC01095",
+            "SUBSEGPU",
+            "SUBSISTE"
+        ],
+        "estado": "SP",
+        "id": "160606",
+        "nome": "DELEGADO PROT\u00d3GENES",
+        "partido": "PCdoB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 10.446, de 08 de maio de 2002, para dispor sobre a participa\u00e7\u00e3o da Pol\u00edcia Federal na investiga\u00e7\u00e3o de crimes em que houver omiss\u00e3o ou inefici\u00eancia das esferas competentes e em crimes contra a atividade jornal\u00edstica.",
+                "id": "498538",
+                "nome": "PL 1078/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Povo Mu\u00e7ulmano.",
+                "id": "498536",
+                "nome": "PL 1077/2011"
+            },
+            {
+                "ementa": "Altera dispositivos da Lei n\u00ba 9.433, de 8 de janeiro de 1997, que disp\u00f5e sobre utiliza\u00e7\u00e3o de recursos h\u00eddricos e d\u00e1 outras provid\u00eancias.",
+                "id": "495666",
+                "nome": "PL 796/2011"
+            },
+            {
+                "ementa": "Altera o Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, o Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, e a Lei n\u00ba 8.429, de 2 de junho de 1992, que disp\u00f5e sobre as san\u00e7\u00f5es aplic\u00e1veis aos agentes p\u00fablicos nos casos de enriquecimento il\u00edcito no exerc\u00edcio de mandato, cargo, emprego ou fun\u00e7\u00e3o na Administra\u00e7\u00e3o P\u00fablica direta, indireta ou fundacional, e d\u00e1 outras provid\u00eancias",
+                "id": "490910",
+                "nome": "PL 21/2011"
+            },
+            {
+                "ementa": "Acrescenta a al\u00ednea \"e\", ao inciso II do art. 96 da Constitui\u00e7\u00e3o Federal, sobre  a remunera\u00e7\u00e3o m\u00ednima dos Servidores dos Tribunais de Justi\u00e7a.",
+                "id": "518294",
+                "nome": "PEC 77/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CEXCHEVR",
+            "CEXCOPA",
+            "CEXINDI",
+            "CEXJUVE",
+            "CSPCCO",
+            "PEC03711",
+            "PEC44309",
+            "PL540301",
+            "PL767210",
+            "SUBARMA",
+            "SUBCRIPE",
+            "CE",
+            "GTCL",
+            "PEC20712",
+            "PL157211",
+            "PL682610",
+            "PL749506",
+            "PL803510",
+            "SUBPROEX"
+        ],
+        "estado": "RJ",
+        "id": "160511",
+        "nome": "ALESSANDRO MOLON",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Determina a comunica\u00e7\u00e3o compuls\u00f3ria ao Minist\u00e9rio P\u00fablico, por parte dos estabelecimentos de ensino, de ato de matr\u00edcula ou transfer\u00eancia de menor de idade cuja paternidade n\u00e3o esteja definida.",
+                "id": "533023",
+                "nome": "PL 3041/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a inclus\u00e3o de alerta nos r\u00f3tulos e/ou embalagens e nas campanhas publicit\u00e1rias de bebidas alco\u00f3licas sobre os riscos de consumo de \u00e1lcool durante a gravidez, como preven\u00e7\u00e3o \u00e0 S\u00edndrome Alco\u00f3lica Fetal (SAF) e d\u00e1 outras provid\u00eancias.",
+                "id": "523385",
+                "nome": "PL 2512/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a inclus\u00e3o de alerta nos r\u00f3tulos e/ou embalagens e nas campanhas publicit\u00e1rias de bebidas alco\u00f3licas sobre os riscos de consumo de \u00e1lcool durante a gravidez, como preven\u00e7\u00e3o \u00e0 S\u00edndrome Alco\u00f3lica Fetal (SAF) e d\u00e1 outras provid\u00eancias.",
+                "id": "520928",
+                "nome": "PL 2386/2011"
+            },
+            {
+                "ementa": "Suprime o inciso XXIV, do art. 24, da Lei n\u00ba 8.666, de 21 de junho de 1993, alterada pela Lei n\u00ba 9.648, de 27 de maio de 1998.",
+                "id": "519734",
+                "nome": "PL 2296/2011"
+            },
+            {
+                "ementa": "Estabelece crit\u00e9rios para o repasse de recursos federais para programas de seguran\u00e7a p\u00fablica aos Estados, Distrito Federal e Munic\u00edpios.",
+                "id": "517889",
+                "nome": "PL 2161/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 2\u00b0 A \u00e0 Lei n\u00ba 12.191, de 13 de janeiro de 2010.",
+                "id": "506664",
+                "nome": "PL 1524/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 132 da Lei n\u00ba 8.069, de 13 de julho de 1990, que \"Disp\u00f5e sobre o Estatuto da Crian\u00e7a e do Adolescente\", acrescentando par\u00e1grafos para definir quantidade e distribui\u00e7\u00e3o dos Conselhos Tutelares.",
+                "id": "500823",
+                "nome": "PL 1265/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 2\u00ba-A \u00e0 Lei n\u00ba 9.455, de 7 de abril de 1997 que define os crimes de tortura e d\u00e1 outras provid\u00eancias.",
+                "id": "497667",
+                "nome": "PL 958/2011"
+            },
+            {
+                "ementa": "Acrescenta o inciso VII ao art. 67 da lei n\u00ba 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional.",
+                "id": "497000",
+                "nome": "PL 885/2011"
+            },
+            {
+                "ementa": "Estabelece princ\u00edpios e diretrizes para promo\u00e7\u00e3o e instala\u00e7\u00e3o de programas, projetos e a\u00e7\u00f5es de pacifica\u00e7\u00e3o social, policiamento comunit\u00e1rio e Unidades de Pol\u00edcia Pacificadora ou \u00f3rg\u00e3os assemelhados em todo territ\u00f3rio nacional e d\u00e1 outras provid\u00eancias.",
+                "id": "491819",
+                "nome": "PL 370/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.608, de 10 de abril de 2012, que \"Institui a Pol\u00edtica Nacional de Prote\u00e7\u00e3o e Defesa Civil - PNPDEC; disp\u00f5e sobre o Sistema Nacional de Prote\u00e7\u00e3o e Defesa Civil - SINPDEC e o Conselho Nacional de Prote\u00e7\u00e3o e Defesa Civil - CONPDEC; autoriza a cria\u00e7\u00e3o de sistema de informa\u00e7\u00f5es e monitoramento de desastres; altera as Leis n\u00bas 12.340, de 1\u00ba de dezembro de 2010, 10.257, de 10 de julho de 2001, 6.766, de 19 de dezembro de 1979, 8.239, de 4 de outubro de 1991, e 9.394, de 20 de dezembro de 1996; e d\u00e1 outras provid\u00eancias.\"",
+                "id": "552120",
+                "nome": "PL 4232/2012"
+            },
+            {
+                "ementa": "Acrescenta os \u00a7\u00a7 2\u00b0 e 3\u00b0 ao art. 459 do Decreto-Lei n\u00ba 5.452, de 1\u00ba  de maio de 1943, que \"Aprova a Consolida\u00e7\u00e3o das Leis do Trabalho\". ",
+                "id": "543388",
+                "nome": "PL 3808/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.496, de 11 de setembro de 1997, que \"Estabelece crit\u00e9rios para a consolida\u00e7\u00e3o, a assun\u00e7\u00e3o e o refinanciamento, pela Uni\u00e3o, da d\u00edvida p\u00fablica mobili\u00e1ria e outras que especifica, de responsabilidade dos Estados e do Distrito Federal\" e d\u00e1 outras provid\u00eancias.",
+                "id": "537666",
+                "nome": "PL 3467/2012"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "comissoes": [
+            "CPITRAES",
+            "CREDN",
+            "OUVIDOR",
+            "PEC00511",
+            "CAPADR"
+        ],
+        "estado": "SP",
+        "id": "73553",
+        "nome": "NELSON MARQUEZELLI",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Altera os limites do Parque Nacional das Nascentes do Rio Parna\u00edba, nos Estados do Piau\u00ed, Maranh\u00e3o, Bahia e Tocantins criado pelo decreto de 16 de julho de 2002.",
+                "id": "525563",
+                "nome": "PL 2618/2011"
+            },
+            {
+                "ementa": "Denomina \"Aeroporto Internacional Governador Orestes Qu\u00e9rcia\" o Aeroporto Internacional de Viracopos localizado na cidade de Campinas, Estado de S\u00e3o Paulo.",
+                "id": "494235",
+                "nome": "PL 664/2011"
+            },
+            {
+                "ementa": "Altera o art. 5-A, da Lei n\u00ba 11.442, de 5 de janeiro de 2007 e d\u00e1 outras provid\u00eancias.",
+                "id": "556573",
+                "nome": "PL 4496/2012"
+            },
+            {
+                "ementa": "Altera o art. 30-A da Lei n\u00ba 9.504, de 30 de setembro de 1997, a fim de definir expressamente os legitimados a requisitar, \u00e0 Justi\u00e7a Eleitoral, abertura de investiga\u00e7\u00e3o judicial para apurar condutas em desacordo com as normas da referida lei.",
+                "id": "547738",
+                "nome": "PL 4048/2012"
+            },
+            {
+                "ementa": "Altera o inciso XV do art. 48 e revoga os incisos VII e VIII do art. 49 para estabelecer que os subs\u00eddios do Presidente e Vice-Presidente da Rep\u00fablica, Ministros de Estado, Senadores e Deputados Federais s\u00e3o id\u00eanticos aos dos Ministros do Supremo Tribunal Federal.",
+                "id": "493860",
+                "nome": "PEC 5/2011"
+            }
+        ]
+    }
+]

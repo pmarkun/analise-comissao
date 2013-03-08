@@ -1,0 +1,320 @@
+[
+    {
+        "comissoes": [
+            "ALTOSEST",
+            "CVT",
+            "PEC01095",
+            "PL157211",
+            "PL346004",
+            "SUBPACMU",
+            "SUBPORTO",
+            "SUBTAV",
+            "SUBTRACA",
+            "CCJC",
+            "CMO",
+            "PL766310",
+            "SUBRETRA"
+        ],
+        "estado": "MG",
+        "id": "74665",
+        "nome": "JAIME MARTINS",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Altera as Leis n\u00ba 7.990, de 28 de dezembro de 1989, e n\u00ba 8.001, de 13 de mar\u00e7o de 1990, que regulamentam a compensa\u00e7\u00e3o financeira pela explora\u00e7\u00e3o de recursos minerais.",
+                "id": "517027",
+                "nome": "PL 2103/2011"
+            },
+            {
+                "ementa": "Altera dispositivos do Decreto-Lei n\u00ba 227, de 28 de fevereiro de 1967, e da Lei n\u00ba 8.001, de 13 de mar\u00e7o de 1990.",
+                "id": "492271",
+                "nome": "PL 463/2011"
+            },
+            {
+                "ementa": "Altera o art. 155, \u00a7 2\u00ba, X, \"a\", da Constitui\u00e7\u00e3o Federal para excluir incentivos fiscais decorrentes da isen\u00e7\u00e3o de opera\u00e7\u00f5es que destinem mercadorias para o exterior dos produtos prim\u00e1rios n\u00e3o renov\u00e1veis.",
+                "id": "530743",
+                "nome": "PEC 122/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEREFPOL",
+            "CVT",
+            "PEC01095",
+            "CREDN",
+            "PL540301",
+            "SUBRETRA"
+        ],
+        "estado": "MG",
+        "id": "74750",
+        "nome": "NEWTON CARDOSO",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a adequa\u00e7\u00e3o tecnol\u00f3gica de sinais de radiocomunica\u00e7\u00e3o via uso de protocolos de seguran\u00e7a e d\u00e1 outras provid\u00eancias.",
+                "id": "522964",
+                "nome": "PL 2482/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "PEC03711",
+            "SUBRETRA",
+            "SUBTRACA",
+            "CVT",
+            "PL157211"
+        ],
+        "estado": "MG",
+        "id": "160654",
+        "nome": "RENZO BRAZ",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do caput do art. 88 da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre a entrega ou reabertura de rodovias ao tr\u00e2nsito.",
+                "id": "528566",
+                "nome": "PL 2769/2011"
+            },
+            {
+                "ementa": "Altera os arts. 20 e 24 e acrescenta o art. 20-A \u00e0 Lei n\u00ba 8.212, de 24 de julho de 1991, que disp\u00f5e sobre a organiza\u00e7\u00e3o da Seguridade Social, institui Plano de Custeio e d\u00e1 outras provid\u00eancias, para reduzir a contribui\u00e7\u00e3o previdenci\u00e1ria do empregado e empregador dom\u00e9stico.",
+                "id": "525549",
+                "nome": "PL 2616/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para limitar e fiscalizar o tempo de dire\u00e7\u00e3o do condutor de transporte de cargas e de transporte coletivo de passageiros trafegando em rodovias e estradas. ",
+                "id": "522929",
+                "nome": "PL 2477/2011"
+            },
+            {
+                "ementa": "Altera o caput do art. 487 da Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), aprovada pelo Decreto-lei n\u00ba 5.452, de 1\u00ba de maio de 1943, a fim de disciplinar sobre o aviso-pr\u00e9vio proporcional ao tempo de servi\u00e7o. ",
+                "id": "520808",
+                "nome": "PL 2379/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de as empresas prestadoras do servi\u00e7o de telefonia m\u00f3vel garantir a cobertura total em localidades com popula\u00e7\u00e3o maior que mil habitantes.",
+                "id": "513405",
+                "nome": "PL 1893/2011"
+            },
+            {
+                "ementa": "Passa a ser denominado \"Viaduto Durval Jos\u00e9 Moreira\" o viaduto localizado no Km 674 da BR-116, no Estado de Minas Gerais.",
+                "id": "510683",
+                "nome": "PL 1719/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CME",
+            "SUBPORTO",
+            "SUBRETRA",
+            "CVT",
+            "SUBPACMU",
+            "SUBTAV",
+            "SUBTRACA"
+        ],
+        "estado": "BA",
+        "id": "160547",
+        "nome": "LUIZ ARG\u00d4LO",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 10.826, de 22 de dezembro de 2003 - Estatuto do Desarmamento, para dispor sobre armas menos letais. ",
+                "id": "529083",
+                "nome": "PL 2801/2011"
+            },
+            {
+                "ementa": "Estabelece a obrigatoriedade da doa\u00e7\u00e3o regular de sangue ser fator de desempate em concursos p\u00fablicos",
+                "id": "522923",
+                "nome": "PL 2474/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto de Importa\u00e7\u00e3o incidente sobre mem\u00f3rias em estado s\u00f3lido (SSD).",
+                "id": "510679",
+                "nome": "PL 1718/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CVT",
+            "SUBPACMU",
+            "SUBRETRA",
+            "CME",
+            "SUBCOPAC"
+        ],
+        "estado": "BA",
+        "id": "74635",
+        "nome": "M\u00c1RIO NEGROMONTE",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o de dispositivos da Lei n\u00ba 9.504, de 30 de setembro de 1997 (Lei das Elei\u00e7\u00f5es), para fixar o per\u00edodo  das conven\u00e7\u00f5es partid\u00e1rias entre os dias 1\u00ba e 20 de agosto dos anos em que se realizarem elei\u00e7\u00f5es, e proibir a realiza\u00e7\u00e3o de carreatas na campanha eleitoral.",
+                "id": "558452",
+                "nome": "PL 4649/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a exclus\u00e3o dos custos de transmiss\u00e3o de energia el\u00e9trica da base de c\u00e1lculo da tarifa de energia el\u00e9trica incidente sobre as unidades consumidoras localizadas nos Munic\u00edpios que possuem hidrel\u00e9tricas.",
+                "id": "557451",
+                "nome": "PL 4579/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CESEGUR",
+            "CME",
+            "CPICRIAN",
+            "SUBMIHPA",
+            "SUBPORTO",
+            "SUBTRACA",
+            "COETICA",
+            "CSPCCO",
+            "PEC03711",
+            "PL355504",
+            "PL540301",
+            "SUBRETRA"
+        ],
+        "estado": "SC",
+        "id": "160515",
+        "nome": "RONALDO BENEDET",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera dispositivo na Lei n\u00ba 6.938, de 31 de agosto de 1981, e d\u00e1 outras provid\u00eancias.",
+                "id": "531322",
+                "nome": "PL 2941/2011"
+            },
+            {
+                "ementa": "Altera o inciso XIV do art. 6\u00ba da Lei n\u00ba 7.713, de 22 de dezembro de 1988 - Isen\u00e7\u00e3o de IRPF para Deficientes.",
+                "id": "531321",
+                "nome": "PL 2940/2011"
+            },
+            {
+                "ementa": "Altera dispositivos na Lei n\u00ba 9.610, de 19 de fevereiro de 1998 e d\u00e1 outras provid\u00eancias.",
+                "id": "531320",
+                "nome": "PL 2939/2011"
+            },
+            {
+                "ementa": "Denomina Ponte \"Anita Garibaldi\" a ponte que ser\u00e1 constru\u00edda na travessia da Lagoa da Cabe\u00e7uda e do Canal Laranjeira da duplica\u00e7\u00e3o da BR-101/Sul, no Munic\u00edpio de Laguna - SC.",
+                "id": "520020",
+                "nome": "PL 2324/2011"
+            },
+            {
+                "ementa": "Inclui dispositivos na Lei n\u00ba 8.906, de 4 de julho de 1994; altera dispositivo da Lei n\u00ba 7.347, de 24 de julho de 1985; altera dispositivo da Lei n\u00ba 8.069, de 13 de julho de 1990; e d\u00e1 outras provid\u00eancias.",
+                "id": "511090",
+                "nome": "PL 1755/2011"
+            },
+            {
+                "ementa": "Altera, inclui e revoga dispositivos na Lei n\u00ba 8.906,  de 4 de julho de 1994;  revoga dispositivo da  Lei  n\u00ba 9.527, de 10 de dezembro  de 1997; e d\u00e1 outras provid\u00eancias.",
+                "id": "511089",
+                "nome": "PL 1754/2011"
+            },
+            {
+                "ementa": "D\u00e1 denomina\u00e7\u00e3o a viaduto que especifica.",
+                "id": "511088",
+                "nome": "PL 1753/2011"
+            },
+            {
+                "ementa": "Isenta do pagamento de ped\u00e1gio em via federal ve\u00edculos automotores de duas rodas cujo motor possua capacidade inferior a 300 cm\u00b3 de cilindrada.",
+                "id": "504656",
+                "nome": "PL 1473/2011"
+            },
+            {
+                "ementa": "Denomina \"Ponte Willy Zumblick\" a ponte localizada na travessia a montante do Rio Tubar\u00e3o no Km 338 da BR-101, no Munic\u00edpio de Tubar\u00e3o, Estado de Santa Catarina",
+                "id": "557441",
+                "nome": "PL 4578/2012"
+            },
+            {
+                "ementa": "Altera dispositivo na Lei n\u00ba 8.036, de 11 de maio de 1990, e d\u00e1 outras provid\u00eancias.",
+                "id": "547787",
+                "nome": "PL 4050/2012"
+            },
+            {
+                "ementa": "Altera e inclui dispositivos na Lei n\u00ba 8.906, de 04 de julho de 1994, e no Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940, revoga dispositivo do Decreto-Lei n\u00ba 3.688, de 3 de outubro de 1941, e d\u00e1 outras provid\u00eancias.",
+                "id": "546114",
+                "nome": "PL 3962/2012"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de S\u00e3o Joaquim, no Estado de Santa Catarina, o t\u00edtulo de \"Capital Nacional da Ma\u00e7\u00e3\". \n",
+                "id": "546112",
+                "nome": "PL 3961/2012"
+            },
+            {
+                "ementa": "Denomina \"Elevado Ot\u00e1vio Simon\", o elevado localizado no Km 437 da BR-101, no trevo de acesso principal da cidade de Sombrio, Estado de Santa Catarina, que especifica.",
+                "id": "546110",
+                "nome": "PL 3960/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a atividade de revenda varejista de eletricidade para abastecimento de ve\u00edculo automotor el\u00e9trico ou el\u00e9trico h\u00edbrido.",
+                "id": "545232",
+                "nome": "PL 3895/2012"
+            },
+            {
+                "ementa": "Concede ao Munic\u00edpio de Bra\u00e7o do Norte o t\u00edtulo de Capital Nacional do Gado Jersey.",
+                "id": "544013",
+                "nome": "PL 3838/2012"
+            },
+            {
+                "ementa": "Altera dispositivos na Lei n\u00ba 8.069, de 13 de julho de 1990 - Altera o Estatuto da Crian\u00e7a e do Adolescente.",
+                "id": "538328",
+                "nome": "PL 3503/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CMO",
+            "COETICA",
+            "CVT",
+            "PEC00511",
+            "SUBPROEX",
+            "SUBRETRA",
+            "SUBTAV",
+            "CPICRIAN",
+            "SUBPACMU",
+            "SUBTRACA"
+        ],
+        "estado": "MG",
+        "id": "74749",
+        "nome": "MAURO LOPES",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre o processo de forma\u00e7\u00e3o de condutores.",
+                "id": "556055",
+                "nome": "PL 4449/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a op\u00e7\u00e3o pelo lucro presumido das pessoas jur\u00eddicas obrigadas ao lucro real que ingressaram no Programa de Recupera\u00e7\u00e3o Fiscal - Refis.",
+                "id": "536957",
+                "nome": "PL 3414/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CVT",
+            "SUBPORTO",
+            "SUBRETRA",
+            "CCJC"
+        ],
+        "estado": "BA",
+        "id": "74566",
+        "nome": "GERALDO SIM\u00d5ES",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a incorpora\u00e7\u00e3o do cacau como mat\u00e9ria prima nos produtos que especifica. ",
+                "id": "496374",
+                "nome": "PL 851/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a adapta\u00e7\u00e3o de contratos de arrendamento de terminais e \u00e1reas portu\u00e1rias, celebrados antes da Lei n\u00ba 8.630, de 1993, e d\u00e1 outras provid\u00eancias.",
+                "id": "493034",
+                "nome": "PL 502/2011"
+            }
+        ]
+    }
+]

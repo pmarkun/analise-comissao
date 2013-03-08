@@ -1,0 +1,83 @@
+[
+    {
+        "comissoes": [
+            "CEREFPOL",
+            "CSSF",
+            "GTLEIELE",
+            "PEC01095",
+            "SUBRHSUS",
+            "CFT",
+            "CMO",
+            "GTCL"
+        ],
+        "estado": "MG",
+        "id": "159238",
+        "nome": "MARCUS PESTANA",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "533884",
+                "nome": "PL 3120/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDC",
+            "CEREFPOL",
+            "GTLEIELE",
+            "PEC01095",
+            "CVT"
+        ],
+        "estado": "GO",
+        "id": "74371",
+        "nome": "RUBENS OTONI",
+        "partido": "PT",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CE",
+            "CEREFPOL",
+            "GTLEIELE",
+            "PEC01095"
+        ],
+        "estado": "GO",
+        "id": "74813",
+        "nome": "RONALDO CAIADO",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 10.308, de 20 de novembro de 2001, estabelecendo que a constru\u00e7\u00e3o de dep\u00f3sito intermedi\u00e1rio ou final de rejeitos radioativos dever\u00e1 ser aprovada, previamente, por meio de plebiscito.",
+                "id": "511883",
+                "nome": "PL 1801/2011"
+            },
+            {
+                "ementa": "Obriga os estabelecimentos de ensino b\u00e1sico do pa\u00eds a divulgarem o \u00edndice IDEB.",
+                "id": "506781",
+                "nome": "PL 1530/2011"
+            },
+            {
+                "ementa": "Acrescenta o par\u00e1grafo 4\u00ba do art. 56 da Constitui\u00e7\u00e3o Federal.",
+                "id": "491640",
+                "nome": "PEC 2/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "GTLEIELE",
+            "PEC00511",
+            "CAINDR",
+            "CEREFPOL",
+            "PEC01095"
+        ],
+        "estado": "PI",
+        "id": "74460",
+        "nome": "MARCELO CASTRO",
+        "partido": "PMDB",
+        "proposicoes": []
+    }
+]

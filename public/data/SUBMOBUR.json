@@ -1,0 +1,183 @@
+[
+    {
+        "comissoes": [
+            "CSSF",
+            "PL346004",
+            "PL766310",
+            "SUBCOPAC",
+            "SUBMOBUR",
+            "SUBRESOL",
+            "CDU",
+            "CEREFPOL",
+            "PEC01095",
+            "PL712310",
+            "PL749506",
+            "SUBILPUB",
+            "SUBSEGAL"
+        ],
+        "estado": "PR",
+        "id": "160614",
+        "nome": "ROSANE FERREIRA",
+        "partido": "PV",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 7.802, de 11 de julho de 1989, que disp\u00f5e sobre agrot\u00f3xicos, fazendo incluir nos r\u00f3tulos dos produtos imagens realistas sobre preju\u00edzos \u00e0 sa\u00fade causados pelos pesticidas sobre a sa\u00fade humana.",
+                "id": "512587",
+                "nome": "PL 1854/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade da presen\u00e7a de bula em medicamentos manipulados por farm\u00e1cias e ervan\u00e1rias.",
+                "id": "495804",
+                "nome": "PL 808/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a forma\u00e7\u00e3o continuada dos profissionais de enfermagem.",
+                "id": "563775",
+                "nome": "PL 4868/2012"
+            },
+            {
+                "ementa": "Acrescenta o art. 46-A \u00e0 Lei n\u00ba 9.504, de 30 de setembro de 1997 (Lei das Elei\u00e7\u00f5es), para dispor sobre a realiza\u00e7\u00e3o obrigat\u00f3ria de debates entre os candidatos a cargos eletivos do Poder Executivo, durante o per\u00edodo destinado \u00e0 propaganda eleitoral gratuita.   ",
+                "id": "562070",
+                "nome": "PL 4792/2012"
+            },
+            {
+                "ementa": "Altera o art. 182 do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal.",
+                "id": "558759",
+                "nome": "PL 4661/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "SUBMOBUR",
+            "CSSF",
+            "SUBMUNIC"
+        ],
+        "estado": "SP",
+        "id": "160589",
+        "nome": "BRUNA FURLAN",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a obriga\u00e7\u00e3o de os cinemas realizarem a higieniza\u00e7\u00e3o dos \u00f3culos especiais utilizados para visualiza\u00e7\u00e3o de filmes em tr\u00eas dimens\u00f5es.",
+                "id": "515051",
+                "nome": "PL 1992/2011"
+            },
+            {
+                "ementa": "Permite \u00e0 pessoa f\u00edsica contribuinte do imposto de renda deduzir da renda tribut\u00e1vel as despesas com pagamento de pr\u00eamio de seguro de vida, de im\u00f3vel ou de autom\u00f3vel, acrescentando al\u00ednea \"h\" ao inciso II do art. 8\u00ba da Lei n\u00ba 9.250, de 26 de dezembro de 1995.",
+                "id": "510670",
+                "nome": "PL 1717/2011"
+            },
+            {
+                "ementa": "Obriga a afixa\u00e7\u00e3o de avisos sobre o Seguro contra Danos Pessoais Causados por Ve\u00edculos Automotores de Via Terrestre (DPVAT) em \u00e1reas de pronto atendimento.",
+                "id": "510669",
+                "nome": "PL 1716/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 129-A na Lei n\u00ba 9.472, de 16 de julho de 1997, para dispor sobre o envio de mensagens de texto de utilidade p\u00fablica pela prestadora de servi\u00e7o de telecomunica\u00e7\u00f5es. ",
+                "id": "504171",
+                "nome": "PL 1461/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre isen\u00e7\u00e3o de cobran\u00e7a de taxa relativa \u00e0 inspe\u00e7\u00e3o de ve\u00edculos de condu\u00e7\u00e3o de escolares.",
+                "id": "503872",
+                "nome": "PL 1443/2011"
+            },
+            {
+                "ementa": "Acresce \u00a7 3\u00ba ao art. 33 da Lei n\u00ba 12.305, de 2 de agosto de 2010.",
+                "id": "503870",
+                "nome": "PL 1442/2011"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a criar a Universidade Federal da Regi\u00e3o Oeste de S\u00e3o Paulo, com sede no Munic\u00edpio de Osasco, Estado de S\u00e3o Paulo.",
+                "id": "499934",
+                "nome": "PL 1203/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre o Cadastro Nacional Positivo de Condutores de Ve\u00edculos Automotores, e estabelece desconto no valor do Imposto sobre Produtos Industrializados - IPI - na aquisi\u00e7\u00e3o de autom\u00f3veis pelos condutores inclu\u00eddos nesse cadastro.",
+                "id": "499933",
+                "nome": "PL 1202/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o uso de material perme\u00e1vel na pavimenta\u00e7\u00e3o de estacionamentos abertos. ",
+                "id": "497588",
+                "nome": "PL 953/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 1997 e a Lei n\u00ba 9.998, de 2000 para permitir o uso dos recursos do FUST - Fundo de Universaliza\u00e7\u00e3o dos Servi\u00e7os de Telecomunica\u00e7\u00f5es - na forma de subven\u00e7\u00f5es para entidades da sociedade civil sem fins lucrativos que atuam na democratiza\u00e7\u00e3o da inform\u00e1tica.",
+                "id": "495969",
+                "nome": "PL 830/2011"
+            },
+            {
+                "ementa": "Veda a constitui\u00e7\u00e3o de cadastros de reserva em concursos p\u00fablicos levados a termo por \u00f3rg\u00e3os e entidades integrantes da Administra\u00e7\u00e3o P\u00fablica federal direta e indireta.",
+                "id": "495031",
+                "nome": "PL 749/2011"
+            },
+            {
+                "ementa": "Modifica a reda\u00e7\u00e3o do art. 2.038 do C\u00f3digo Civil. ",
+                "id": "558377",
+                "nome": "PL 4644/2012"
+            },
+            {
+                "ementa": "Autoriza a cria\u00e7\u00e3o de Fundo Patrimonial (endowment fund) nas institui\u00e7\u00f5es federais de ensino superior.",
+                "id": "558376",
+                "nome": "PL 4643/2012"
+            },
+            {
+                "ementa": "Altera o art. 61 do Decreto-lei n\u00ba 2.848, de 7 de dezembro de 1940, C\u00f3digo Penal.",
+                "id": "558375",
+                "nome": "PL 4642/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.098, de 19 de dezembro de 2000, que trata de acessibilidade, para obrigar as locadoras a ofertarem ve\u00edculos adaptados. ",
+                "id": "553778",
+                "nome": "PL 4334/2012"
+            },
+            {
+                "ementa": "Modifica a Lei n\u00ba 4.117, de 27 de agosto de 1962, que institui o C\u00f3digo Brasileiro de Telecomunica\u00e7\u00f5es, tipificando a infra\u00e7\u00e3o de interfer\u00eancia em opera\u00e7\u00e3o policial.",
+                "id": "543297",
+                "nome": "PL 3801/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDU",
+            "PL346004",
+            "SUBILPUB",
+            "SUBMOBUR",
+            "SUBPACMU",
+            "SUBTRAGE",
+            "CVT",
+            "SUBRESOL",
+            "SUBTRACA"
+        ],
+        "estado": "SC",
+        "id": "141507",
+        "nome": "MAURO MARIANI",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a identifica\u00e7\u00e3o pr\u00e9via da operadora nas chamadas telef\u00f4nicas. ",
+                "id": "519331",
+                "nome": "PL 2266/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 338 da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para obrigar os importadores e fabricantes de bicicletas a fornecer, no ato da comercializa\u00e7\u00e3o do ve\u00edculo, manual contendo normas de circula\u00e7\u00e3o, penalidades, dire\u00e7\u00e3o defensiva, primeiros socorros e Anexos do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+                "id": "505170",
+                "nome": "PL 1493/2011"
+            },
+            {
+                "ementa": "Estende os benef\u00edcios da Lei n\u00ba 8.248, de 23 de outubro de 1991, a jogos eletr\u00f4nicos de uso domiciliar.",
+                "id": "497107",
+                "nome": "PL 899/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Administrador P\u00fablico.",
+                "id": "493127",
+                "nome": "PL 518/2011"
+            }
+        ]
+    }
+]

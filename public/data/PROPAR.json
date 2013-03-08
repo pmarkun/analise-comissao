@@ -1,0 +1,65 @@
+[
+    {
+        "comissoes": [
+            "CREDN",
+            "PROPAR",
+            "SUBCOPLP"
+        ],
+        "estado": "BA",
+        "id": "74537",
+        "nome": "CLAUDIO CAJADO",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre normas para o registro de dom\u00ednios de internet nas categorias sob o .br ",
+                "id": "496040",
+                "nome": "PL 835/2011"
+            },
+            {
+                "ementa": "Institui o ano de 2013 como o Ano da Coreia do Sul no Brasil. ",
+                "id": "558077",
+                "nome": "PL 4621/2012"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do caput do art. 36 da Lei n\u00ba 9.504, de 30 de setembro de 1997, que estabelece normas para as elei\u00e7\u00f5es, a fim de reduzir o tempo de propaganda das elei\u00e7\u00f5es. ",
+                "id": "557704",
+                "nome": "PL 4592/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.429, de 2 de junho de 1992, para caracterizar como improbidade administrativa a descontinuidade imotivada de projetos e programas iniciados em gest\u00f5es anteriores. ",
+                "id": "556990",
+                "nome": "PL 4539/2012"
+            },
+            {
+                "ementa": "Institui o ano de 2013 como Ano da Coreia do Sul no Brasil.",
+                "id": "547287",
+                "nome": "PL 4029/2012"
+            },
+            {
+                "ementa": "Modifica a Lei n\u00ba 7.565, de 19 de dezembro de 1986 - C\u00f3digo Brasileiro de Aeron\u00e1utica, para impor limite a taxas de administra\u00e7\u00e3o ou servi\u00e7o cobradas do passageiro que solicita a remarca\u00e7\u00e3o do hor\u00e1rio ou da data de in\u00edcio da execu\u00e7\u00e3o do contrato de transporte a\u00e9reo.",
+                "id": "540457",
+                "nome": "PL 3643/2012"
+            },
+            {
+                "ementa": "Revoga os incisos I e III do art. 122 da Lei n\u00ba 7.210, de 11 de junho de 1984 - Lei de Execu\u00e7\u00e3o Penal.",
+                "id": "537672",
+                "nome": "PL 3468/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade da exist\u00eancia, nos aeroportos brasileiros administrados pela Infraero, de detectores de metal dos tipos p\u00f3rtico e manual.",
+                "id": "535993",
+                "nome": "PL 3338/2012"
+            },
+            {
+                "ementa": "Restringe a veicula\u00e7\u00e3o de publicidade nos canais de televis\u00e3o por assinatura.",
+                "id": "534033",
+                "nome": "PL 3131/2012"
+            },
+            {
+                "ementa": "Regulamenta a cobran\u00e7a por servi\u00e7o de estacionamento de ve\u00edculo automotor em \u00e1rea de \"shopping center\", centro comercial, supermercado e estabelecimento assemelhado.",
+                "id": "534032",
+                "nome": "PL 3130/2012"
+            }
+        ]
+    }
+]

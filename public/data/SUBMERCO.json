@@ -1,0 +1,535 @@
+[
+    {
+        "comissoes": [
+            "CAPADR",
+            "PEC20712",
+            "PEC44309",
+            "PL712310",
+            "SUBMERCO",
+            "CCJC",
+            "CEAGRIRU",
+            "MERCOSUL",
+            "PEC00511",
+            "SUBCANA",
+            "SUBFUSAO"
+        ],
+        "estado": "PR",
+        "id": "73768",
+        "nome": "DILCEU SPERAFICO",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao inciso XXXIII do art. 7\u00ba da Constitui\u00e7\u00e3o Federal, para autorizar o trabalho sob o regime de tempo parcial a partir dos quatorze anos de idade.",
+                "id": "500183",
+                "nome": "PEC 18/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CPITRAPE",
+            "CSPCCO",
+            "PEC00511",
+            "PL355504",
+            "SUBMERCO",
+            "CCJC",
+            "CMADS",
+            "CPITRAES",
+            "PEC03711",
+            "PEC11111",
+            "PEC44309",
+            "PL157211",
+            "PL161096",
+            "PL602505",
+            "SUBCANA",
+            "SUBFUSAO",
+            "SUBLEITE"
+        ],
+        "estado": "RO",
+        "id": "141537",
+        "nome": "MOREIRA MENDES",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre o conceito de trabalho an\u00e1logo ao de escravo.",
+                "id": "544185",
+                "nome": "PL 3842/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CMMC",
+            "CSSF",
+            "SUBAPROF",
+            "SUBMERCO",
+            "CAPADR",
+            "CPITRAES",
+            "PL749506",
+            "SUBFUSAO",
+            "SUBSANCA"
+        ],
+        "estado": "PR",
+        "id": "74377",
+        "nome": "ANDR\u00c9 ZACHAROW",
+        "partido": "PMDB",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CSPCCO",
+            "PL712310",
+            "SUBMERCO",
+            "CDU",
+            "CEESTA"
+        ],
+        "estado": "PR",
+        "id": "74378",
+        "nome": "ASSIS DO COUTO",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a Pol\u00edtica de Desenvolvimento do Brasil Rural (PDBR) e o Plano Nacional de Desenvolvimento do Brasil Rural (PNDBR). ",
+                "id": "490957",
+                "nome": "PL 54/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a participa\u00e7\u00e3o dos agricultores no processo de classifica\u00e7\u00e3o e recebimento do fumo de estufa e de galp\u00e3o.",
+                "id": "490956",
+                "nome": "PL 53/2011"
+            },
+            {
+                "ementa": "Institui o Sistema Nacional de Certifica\u00e7\u00e3o da Produ\u00e7\u00e3o da Agricultura Familiar e cria o Selo da Produ\u00e7\u00e3o da Agricultura Familiar.",
+                "id": "490955",
+                "nome": "PL 52/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CPITRAES",
+            "SUBCANA",
+            "SUBFUSAO",
+            "CMADS",
+            "SUBENDIV",
+            "SUBMERCO"
+        ],
+        "estado": "MT",
+        "id": "141448",
+        "nome": "HOMERO PEREIRA",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.972, de 2000, que institui a classifica\u00e7\u00e3o de produtos vegetais, subprodutos e res\u00edduos de valor econ\u00f4mico, e d\u00e1 outras provid\u00eancias.",
+                "id": "518113",
+                "nome": "PL 2182/2011"
+            },
+            {
+                "ementa": "Institui o Programa \"Horta na Escola\" e d\u00e1 outras provid\u00eancias.",
+                "id": "518110",
+                "nome": "PL 2181/2011"
+            },
+            {
+                "ementa": "Institui o Programa \"Horta na Escola\", que disp\u00f5e sobre medidas de incentivo \u00e0 utiliza\u00e7\u00e3o de hortas nas escolas como meio de promo\u00e7\u00e3o da educa\u00e7\u00e3o e do desenvolvimento, acrescendo o inciso VII, no art. 11, da Lei n\u00ba 9.394, de 20 de dezembro de 1996.",
+                "id": "556698",
+                "nome": "PL 4516/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CEREFPOL",
+            "CTASP",
+            "MERCOSUL",
+            "PEC01095",
+            "SUBLEITE",
+            "SUBMERCO"
+        ],
+        "estado": "RS",
+        "id": "160538",
+        "nome": "BOHN GASS",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta artigo \u00e0 Lei n\u00ba 8.987, de 13 de fevereiro de 1995, para isentar do pagamento de ped\u00e1gio os condutores que tenham resid\u00eancia permanente ou exer\u00e7am atividades profissionais no mesmo Munic\u00edpio onde funcione pra\u00e7a para a arrecada\u00e7\u00e3o dessa tarifa.",
+                "id": "530283",
+                "nome": "PL 2858/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.742, de 7 de dezembro de 1993, para considerar os servi\u00e7os de extens\u00e3o rural como a\u00e7\u00f5es de assist\u00eancia social em conson\u00e2ncia com a referida lei, possibilitando base legal para apoio financeiro e recebimento de isen\u00e7\u00f5es fiscais e previdenci\u00e1rias pelas institui\u00e7\u00f5es e organiza\u00e7\u00f5es que realizam servi\u00e7os de extens\u00e3o rural destinados aos benefici\u00e1rios das Leis n\u00ba 11.326 de 24 de julho de 2006 e n\u00ba 12.188 de 11 de janeiro de 2010, respectivamente.",
+                "id": "553639",
+                "nome": "PL 4327/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.257, de 10 de julho 2001, que regulamenta os arts. 182 e 183 da Constitui\u00e7\u00e3o Federal, estabelece diretrizes gerais da pol\u00edtica urbana e d\u00e1 outras provid\u00eancias, no sentido da promo\u00e7\u00e3o do equil\u00edbrio ambiental e das cidades sustent\u00e1veis.",
+                "id": "548629",
+                "nome": "PL 4095/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as \u00e1reas consolidadas em \u00e1reas de preserva\u00e7\u00e3o permanente e em \u00e1reas de reserva legal, e d\u00e1 outras provid\u00eancias.",
+                "id": "543949",
+                "nome": "PL 3835/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CTD",
+            "PL766310",
+            "CAPADR",
+            "MERCOSUL",
+            "SUBMERCO"
+        ],
+        "estado": "RS",
+        "id": "136811",
+        "nome": "AFONSO HAMM",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 11.705, de 19 de junho de 2008, para dispor sobre a degusta\u00e7\u00e3o e a comercializa\u00e7\u00e3o de vinhos, em estabelecimentos vin\u00edcolas instalados em faixa de dom\u00ednio de rodovia federal ou em terrenos cont\u00edguos a essa faixa, em zona rural. ",
+                "id": "523025",
+                "nome": "PL 2487/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Plantio Direto.",
+                "id": "563836",
+                "nome": "PL 4872/2012"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo ao art. 6\u00ba da Medida Provis\u00f3ria n\u00ba 2.178-36, de 24 de agosto de 2001, para tornar a carne su\u00edna obrigat\u00f3ria nos card\u00e1pios das refei\u00e7\u00f5es fornecidas pelo programa de alimenta\u00e7\u00e3o escolar nas escolas.",
+                "id": "551686",
+                "nome": "PL 4195/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 11.438, de 29 de dezembro de 2006, que disp\u00f5e sobre incentivos e benef\u00edcios para fomentar as atividades de car\u00e1ter desportivo e d\u00e1 outras provid\u00eancias.",
+                "id": "545575",
+                "nome": "PL 3921/2012"
+            },
+            {
+                "ementa": "Permite \u00e0 pessoa jur\u00eddica optante pelo regime de tributa\u00e7\u00e3o com base no lucro presumido usufruir do incentivo fiscal para fomentar as atividades de car\u00e1ter desportivo institu\u00eddo pela Lei n\u00ba 11.438, de 29 de dezembro de 2006.",
+                "id": "545574",
+                "nome": "PL 3920/2012"
+            },
+            {
+                "ementa": "Altera o Decreto-Lei n\u00ba 791, de 27 de agosto de 1969, para isentar os ve\u00edculos transportando pessoas com defici\u00eancia do pagamento de ped\u00e1gio nas rodovias federais.",
+                "id": "540166",
+                "nome": "PL 3624/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CMO",
+            "CPITRAES",
+            "PL161096",
+            "SUBCANA",
+            "CVT",
+            "SUBAGRIF",
+            "SUBMERCO"
+        ],
+        "estado": "PA",
+        "id": "74077",
+        "nome": "GIOVANNI QUEIROZ",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Inclui na rela\u00e7\u00e3o do Sistema Rodovi\u00e1rio Federal, integrante do Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Via\u00e7\u00e3o, a liga\u00e7\u00e3o rodovi\u00e1ria entre Marab\u00e1 e Bel\u00e9m.",
+                "id": "539072",
+                "nome": "PL 3556/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos arts. 7\u00ba e 10 da Lei n\u00ba 9.709, de 18 de novembro de 1998, que regulamenta o disposto nos incisos I, II e III do art. 14 da Constitui\u00e7\u00e3o Federal.",
+                "id": "537400",
+                "nome": "PL 3453/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CEXSANTA",
+            "CPITRAES",
+            "SUBMERCO",
+            "CFT",
+            "SUBAGRIF"
+        ],
+        "estado": "RS",
+        "id": "73483",
+        "nome": "LUIS CARLOS HEINZE",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o de Zona de Processamento de Exporta\u00e7\u00e3o (ZPE) no Munic\u00edpio de S\u00e3o Borja, no Estado do Rio Grande do Sul.",
+                "id": "519321",
+                "nome": "PL 2262/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a presen\u00e7a de policial militar nas escolas das redes p\u00fablica e privada durante todos os per\u00edodos de funcionamento desses estabelecimentos de ensino.",
+                "id": "504020",
+                "nome": "PL 1457/2011"
+            },
+            {
+                "ementa": "Cria o Programa Nacional de Apoio \u00e0s Microdestilarias de \u00c1lcool - Pronama - estabelece crit\u00e9rios para a produ\u00e7\u00e3o e a comercializa\u00e7\u00e3o de \u00e1lcool hidratado e d\u00e1 outras provid\u00eancias.",
+                "id": "496303",
+                "nome": "PL 849/2011"
+            },
+            {
+                "ementa": "Dispensa a reten\u00e7\u00e3o e o recolhimento, ou o recolhimento por sub-roga\u00e7\u00e3o, da contribui\u00e7\u00e3o social \u00e0 seguridade social, nos casos que especifica.",
+                "id": "496302",
+                "nome": "PL 848/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Jos\u00e9 Pereira Alvarez\" o trecho da BR-287, entre as cidades de S\u00e3o Borja e Santiago, e \"Rodovia Jos\u00e9 Francisco Gorski\" na extens\u00e3o da BR-287, entre as cidades de Santiago e Santa Maria, no estado do Rio Grande do Sul.  ",
+                "id": "533813",
+                "nome": "PL 3102/2012"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 159 da Constitui\u00e7\u00e3o Federal, amplia o percentual de distribui\u00e7\u00e3o dos recursos arrecadados pela Uni\u00e3o e inclui a Regi\u00e3o Sul entre as benefici\u00e1rias dos Fundos Constitucionais.",
+                "id": "535868",
+                "nome": "PEC 139/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CESEGUR",
+            "CMO",
+            "CPITRAES",
+            "PEC03711",
+            "PEC11111",
+            "PEC44309",
+            "PEC47810",
+            "PL157211",
+            "SUBMERCO",
+            "CCJC",
+            "MERCOSUL",
+            "PL161096",
+            "SUBENDIV"
+        ],
+        "estado": "MS",
+        "id": "160615",
+        "nome": "REINALDO AZAMBUJA",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta o art. 42-B e par\u00e1grafo  \u00fanico \u00e0 Se\u00e7\u00e3o V do Cap\u00edtulo V da Lei n\u00ba 8.078 de 11 de setembro de 1990, que \"Disp\u00f5e sobre a prote\u00e7\u00e3o do consumidor e d\u00e1 outras provid\u00eancias\".",
+                "id": "522525",
+                "nome": "PL 2445/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do par\u00e1grafo \u00fanico, art. 54 e acrescenta dispositivos aos arts. 10 e 35 da Lei n\u00ba 9.099, de 26 de setembro de 1995, que \"Disp\u00f5e sobre os Juizados Especiais C\u00edveis e Criminais e d\u00e1 outras provid\u00eancias.\"",
+                "id": "521810",
+                "nome": "PL 2413/2011"
+            },
+            {
+                "ementa": "Acrescenta a Subse\u00e7\u00e3o XIII \u00e0 Se\u00e7\u00e3o V do Cap\u00edtulo II da Lei n\u00ba  8.213, de 24 de julho de 1991, que \"Disp\u00f5e sobre os Planos de Benef\u00edcios da Previd\u00eancia Social e d\u00e1 outras provid\u00eancias.\"",
+                "id": "521802",
+                "nome": "PL 2412/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00e0 Lei n\u00ba 8.069, de 13 de julho de 1990, que \"Disp\u00f5e sobre o Estatuto da Crian\u00e7a e do Adolescente e d\u00e1 outras provid\u00eancias\", os dispositivos que menciona.",
+                "id": "520575",
+                "nome": "PL 2360/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 57-A, incisos e par\u00e1grafos; art. 57-B e art. 255-A a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, proibindo o uso de capacetes, ou equipamentos que dificultem a identifica\u00e7\u00e3o, pelo condutor e pelo passageiro de motociclos nas situa\u00e7\u00f5es  que especifica. ",
+                "id": "520573",
+                "nome": "PL 2359/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 Lei n\u00ba 9.503, de 23 de setembro de 1997, que Institui o C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+                "id": "519636",
+                "nome": "PL 2290/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 1\u00ba da Lei n\u00ba 5.616, de 14 de outubro de 1970.",
+                "id": "517876",
+                "nome": "PL 2160/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 8.078, de 11 de setembro de 1990, que \"Disp\u00f5e sobre a prote\u00e7\u00e3o do consumidor e d\u00e1 outras provid\u00eancias.\"",
+                "id": "517875",
+                "nome": "PL 2159/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do cabe\u00e7o do art. 1 \u00ba ;  do art. 10 e do Inciso I do art. 12 e acrescenta o Inciso VI ao art. 37, da Lei n\u00ba 8.934 de 18 de novembro de 1994, que \"Disp\u00f5e sobre o registro P\u00fablico de Empresas Mercantis e Atividades Afins e da outras provid\u00eancias\".",
+                "id": "514409",
+                "nome": "PL 1953/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a denomina\u00e7\u00e3o da  \"Rodovia Vice-Presidente Jos\u00e9  Alencar\"  a rodovia federal - BR 262, no trecho que liga Campo Grande-MS a Tr\u00eas Lagoas-MS",
+                "id": "498059",
+                "nome": "PL 1002/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a denomina\u00e7\u00e3o da \"Rodovia Senador L\u00fadio Coelho\" BR 267, no trecho entre Rio Brilhante-Nova Alvorada do Sul-MS \u00e0 divisa com o Estado de S\u00e3o Paulo",
+                "id": "498057",
+                "nome": "PL 1001/2011"
+            },
+            {
+                "ementa": "Institui a data de 15 de dezembro como o Dia Nacional do Arquiteto e do Urbanista.",
+                "id": "563909",
+                "nome": "PL 4875/2012"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 9.096, de 19 de setembro de 1995, que \"Disp\u00f5e sobre partidos pol\u00edticos, regulamenta os arts. 17 e 14, \u00a7 3\u00ba, inciso V, da Constitui\u00e7\u00e3o Federal.\"",
+                "id": "540192",
+                "nome": "PL 3628/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao \u00a7 4\u00ba  do art. 225 da Constitui\u00e7\u00e3o Federal.",
+                "id": "521816",
+                "nome": "PEC 88/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 5\u00ba ao art. 159 da Constitui\u00e7\u00e3o Federal.",
+                "id": "499028",
+                "nome": "PEC 16/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 98 e par\u00e1grafo \u00fanico aos Atos de Disposi\u00e7\u00f5es  Constitucionais Transit\u00f3rias da Constitui\u00e7\u00e3o Federal, que institui no \"\u00c2mbito  do Poder Executivo Federal,  Fundo Nacional de Atendimento e Recupera\u00e7\u00e3o Urgente de Comunidades Atingidas por Cat\u00e1strofes Naturais.\"",
+                "id": "533892",
+                "nome": "PEC 132/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "PL712310",
+            "SUBAPROF",
+            "SUBENDIV",
+            "CEAGRIRU",
+            "CREDN",
+            "MERCOSUL",
+            "SUBMERCO"
+        ],
+        "estado": "PR",
+        "id": "162332",
+        "nome": "LUIZ NISHIMORI",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Confere ao Munic\u00edpio de Santa F\u00e9, Estado do Paran\u00e1, o t\u00edtulo de \"Capital da Fotografia\".",
+                "id": "513461",
+                "nome": "PL 1900/2011"
+            },
+            {
+                "ementa": "Institui do Dia do Brasil Sustent\u00e1vel.",
+                "id": "510542",
+                "nome": "PL 1708/2011"
+            },
+            {
+                "ementa": "Revoga o \u00a73\u00ba do art. 180 do Decreto-lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, a fim de suprimir o crime de recepta\u00e7\u00e3o em sua forma culposa.",
+                "id": "510540",
+                "nome": "PL 1707/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto de Importa\u00e7\u00e3o incidente sobre a importa\u00e7\u00e3o de produtos esportivos n\u00e3o produzidos no Brasil destinados \u00e0 Copa do Mundo e \u00e0s Olimp\u00edadas e tamb\u00e9m para os esportistas amadores.",
+                "id": "510538",
+                "nome": "PL 1706/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CEAGRIRU",
+            "CEREFPOL",
+            "PEC01095",
+            "SUBLEITE",
+            "CAPADR",
+            "CESEGUR",
+            "CPITRAES",
+            "SUBMERCO"
+        ],
+        "estado": "RS",
+        "id": "160559",
+        "nome": "ALCEU MOREIRA",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Estabelece Responsabilidade penal de dirigentes de entidades esportivas.",
+                "id": "529772",
+                "nome": "PL 2832/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o de Zona de Processamento de Exporta\u00e7\u00e3o (ZPE) no Munic\u00edpio de S\u00e3o Jos\u00e9 do Norte, no Estado do Rio Grande do Sul.",
+                "id": "529771",
+                "nome": "PL 2831/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o de Zona de Processamento de Exporta\u00e7\u00e3o (ZPE) no Munic\u00edpio de Jaguar\u00e3o, no Estado do Rio Grande do Sul.",
+                "id": "529769",
+                "nome": "PL 2830/2011"
+            },
+            {
+                "ementa": "Altera o art. 140 da Lei n\u00ba 9.503, de 1997.",
+                "id": "529764",
+                "nome": "PL 2828/2011"
+            },
+            {
+                "ementa": "Altera o art. 12 da Lei n\u00ba 9.393, de 20 de dezembro de 1996, autorizando o parcelamento do Imposto Territorial Rural - ITR em at\u00e9 06 (seis) cotas.",
+                "id": "529763",
+                "nome": "PL 2827/2011"
+            },
+            {
+                "ementa": "Submete ao Congresso Nacional a demarca\u00e7\u00e3o de terras tradicionalmente ocupadas pelos \u00edndios.",
+                "id": "522949",
+                "nome": "PL 2479/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o planejamento de a\u00e7\u00f5es de pol\u00edtica agr\u00edcola.",
+                "id": "522948",
+                "nome": "PL 2478/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 9\u00ba ao art. 15 da Lei n\u00ba 8.666, de 21 de junho de 1993, para vedar a aquisi\u00e7\u00e3o de leite importado no \u00e2mbito da administra\u00e7\u00e3o p\u00fablica direta e indireta.",
+                "id": "520505",
+                "nome": "PL 2353/2011"
+            },
+            {
+                "ementa": "Remite d\u00edvidas; institui medidas de est\u00edmulo \u00e0 liquida\u00e7\u00e3o ou regulariza\u00e7\u00e3o de d\u00edvidas origin\u00e1rias de opera\u00e7\u00f5es de cr\u00e9dito, tendo como benefici\u00e1rios aquicultores, pescadores, col\u00f4nias de pesca, associa\u00e7\u00f5es ou cooperativas de pesca ou aquicultura; e d\u00e1 outras provid\u00eancias. ",
+                "id": "495906",
+                "nome": "PL 820/2011"
+            },
+            {
+                "ementa": "Reduz a zero as al\u00edquotas da Contribui\u00e7\u00e3o para o Pis/Pasep e da Cofins incidentes sobre opera\u00e7\u00f5es com produtos destinados \u00e0 alimenta\u00e7\u00e3o de bovinos, ovinos e caprinos.",
+                "id": "554254",
+                "nome": "PL 4378/2012"
+            },
+            {
+                "ementa": "Altera os artigos 3\u00ba e 3\u00ba-A da Lei n\u00ba 8.427, de 27 de maio de 1992.",
+                "id": "554253",
+                "nome": "PL 4377/2012"
+            },
+            {
+                "ementa": "Altera o art. 9\u00ba da Lei n\u00ba 7.713, de 22 de dezembro de 1988, para reduzir a base de c\u00e1lculo do imposto de renda das pessoas f\u00edsicas no caso de rendimentos da presta\u00e7\u00e3o de servi\u00e7os de transporte, em ve\u00edculo pr\u00f3prio, locado, ou adquirido com reserva de dom\u00ednio.",
+                "id": "554252",
+                "nome": "PL 4376/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a revis\u00e3o quinquenal da Lei que institui o C\u00f3digo Florestal Brasileiro.",
+                "id": "536240",
+                "nome": "PL 3371/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 1997, que instituiu o C\u00f3digo de Tr\u00e2nsito Brasileiro, para desobrigar as m\u00e1quinas agr\u00edcolas do registro e licenciamento anual.",
+                "id": "535625",
+                "nome": "PL 3312/2012"
+            }
+        ]
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "comissoes": [
+            "CFFC",
+            "PL346004",
+            "SUBCOPA",
+            "SUBFTREM",
+            "CEANISTI",
+            "CSPCCO",
+            "SUBSAUDE",
+            "SUBTELMO"
+        ],
+        "estado": "RJ",
+        "id": "141419",
+        "nome": "EDSON SANTOS",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Institui o Programa de Prote\u00e7\u00e3o e Promo\u00e7\u00e3o dos Mestres e Mestras dos Saberes e Fazeres das Culturas Populares.",
+                "id": "499716",
+                "nome": "PL 1176/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), para dispor sobre a estabilidade no emprego do trabalhador portador de doen\u00e7a grave.",
+                "id": "494861",
+                "nome": "PL 727/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CE",
+            "CFFC",
+            "CMO",
+            "CTASP",
+            "SUBFTREM",
+            "SUBPNBL"
+        ],
+        "estado": "CE",
+        "id": "74456",
+        "nome": "MANOEL SALVIANO",
+        "partido": "PSD",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CEANISTI",
+            "CVT",
+            "PL540301",
+            "SUBFTREM",
+            "SUBSAUDE",
+            "SUBTAV",
+            "CFFC",
+            "CPICRIAN",
+            "SUBFIPAC",
+            "SUBPORTO"
+        ],
+        "estado": "SP",
+        "id": "141553",
+        "nome": "VANDERLEI MACRIS",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de veicular nota de alerta em publicidade que induza ao cr\u00e9dito.",
+                "id": "522610",
+                "nome": "PL 2455/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, para dispor sobre a sinaliza\u00e7\u00e3o em sem\u00e1foros fora de opera\u00e7\u00e3o. ",
+                "id": "522533",
+                "nome": "PL 2447/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 8.069, de 13 de julho de 1990, para responsabilizar administrativamente empres\u00e1rio, encarregado de servi\u00e7o, preposto, respons\u00e1vel por estabelecimento comercial ou por evento de outra natureza que comercializam ou fornecem bebida alco\u00f3lica a pessoa menor de 18 anos de idade.",
+                "id": "516710",
+                "nome": "PL 2077/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.294, de 15 de julho de 1996,  que disp\u00f5e sobre as restri\u00e7\u00f5es ao uso e \u00e0 propaganda de produtos fum\u00edgeros, bebidas alcoolicas, medicamentos, terapias e defensivos agr\u00edcolas, para proibir a indu\u00e7\u00e3o ao uso exagerado ou irrespons\u00e1vel de bebida alco\u00f3lica. ",
+                "id": "561457",
+                "nome": "PL 4772/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CECONST",
+            "CFT",
+            "PEC00511",
+            "SUBFTREM",
+            "SUBRETRI",
+            "CCJC",
+            "CESEGUR",
+            "PEC03711",
+            "PEC44309",
+            "SUBASFED"
+        ],
+        "estado": "SP",
+        "id": "73682",
+        "nome": "JO\u00c3O DADO",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a Contribui\u00e7\u00e3o para o Programa de Integra\u00e7\u00e3o Social e de Forma\u00e7\u00e3o do Patrim\u00f4nio do Servidor P\u00fablico - PIS/PASEP e a Contribui\u00e7\u00e3o para Seguridade Social - COFINS devidas pelas sociedades cooperativas de educa\u00e7\u00e3o.",
+                "id": "533043",
+                "nome": "PL 3049/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.961, de 28 de janeiro de 2000, que \"Cria a Ag\u00eancia Nacional de Sa\u00fade Suplementar - ANS e d\u00e1 outras provid\u00eancias\". ",
+                "id": "527709",
+                "nome": "PL 2734/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.294, de 15 de julho de 1996, que disp\u00f5e sobre as restri\u00e7\u00f5es ao uso e \u00e0 propaganda de produtos fum\u00edgeros, bebidas alco\u00f3licas, medicamentos, terapias e defensivos agr\u00edcolas, nos termos do \u00a7 4\u00ba do art. 220 da Constitui\u00e7\u00e3o Federal, para estabelecer limita\u00e7\u00f5es adicionais \u00e0 propaganda comercial de bebidas alco\u00f3licas. ",
+                "id": "525357",
+                "nome": "PL 2601/2011"
+            },
+            {
+                "ementa": "Acrescenta hip\u00f3tese de limita\u00e7\u00e3o dos direitos autorais. ",
+                "id": "522825",
+                "nome": "PL 2471/2011"
+            },
+            {
+                "ementa": "Atualiza a reda\u00e7\u00e3o da Consolida\u00e7\u00e3o das Leis do Trabalho, aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, na parte que disp\u00f5e sobre os \u00f3rg\u00e3os da Justi\u00e7a do Trabalho, e d\u00e1 outras provid\u00eancias.",
+                "id": "519870",
+                "nome": "PL 2322/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, dispondo sobre a fiscaliza\u00e7\u00e3o remota das redes e servi\u00e7os de telecomunica\u00e7\u00f5es de interesse coletivo.",
+                "id": "510607",
+                "nome": "PL 1712/2011"
+            },
+            {
+                "ementa": "Isenta do Imposto sobre Produtos Industrializados os ve\u00edculos de transporte de carga, nas condi\u00e7\u00f5es que estabelece.",
+                "id": "510603",
+                "nome": "PL 1711/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI e do Imposto de Importa\u00e7\u00e3o de aparelhos auditivos e cadeiras de rodas com dispositivo de propuls\u00e3o el\u00e9trico ou eletr\u00f4nico ou manual, adquiridos para uso de portador de defici\u00eancia auditiva e f\u00edsica.",
+                "id": "508922",
+                "nome": "PL 1577/2011"
+            },
+            {
+                "ementa": "Altera o Decreto-lei n\u00ba 1.593, de 21 de dezembro de 1977, a legisla\u00e7\u00e3o do Imposto sobre  Produtos Industrializados - IPI sobre os produtos classificados no c\u00f3digo 2402.20.00 da TIPI e d\u00e1 outras provid\u00eancias.",
+                "id": "503981",
+                "nome": "PL 1454/2011"
+            },
+            {
+                "ementa": "Altera o art. 21 da Lei n\u00ba 5.991, de 17 de dezembro de 1973, que disp\u00f5e sobre o controle sanit\u00e1rio do com\u00e9rcio de drogas, medicamentos, insumos farmac\u00eauticos e correlatos, para incluir o transporte desses produtos como atividade sujeita a licenciamento dos \u00f3rg\u00e3os sanit\u00e1rios.",
+                "id": "493240",
+                "nome": "PL 538/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Auditor de Controle Externo, e d\u00e1 outras provid\u00eancias.",
+                "id": "559605",
+                "nome": "PL 4708/2012"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 4\u00ba ao art. 15 da Lei n\u00b0 5.991, de 17 de dezembro de 1973, que disp\u00f5e sobre o controle sanit\u00e1rio do com\u00e9rcio de drogas, medicamentos, insumos farmac\u00eauticos e correlatos, e d\u00e1 outras provid\u00eancias.",
+                "id": "539358",
+                "nome": "PL 3569/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a redu\u00e7\u00e3o da carga tribut\u00e1ria de artigos e equipamentos de desportos.",
+                "id": "536325",
+                "nome": "PL 3386/2012"
+            },
+            {
+                "ementa": "Define, para efeito do disposto no art. 247 da Constitui\u00e7\u00e3o Federal, as atividades consideradas exclusivas de Estado, e d\u00e1 outras provid\u00eancias.",
+                "id": "536054",
+                "nome": "PL 3351/2012"
+            }
+        ]
+    }
+]

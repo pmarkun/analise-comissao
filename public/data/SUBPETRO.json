@@ -1,0 +1,230 @@
+[
+    {
+        "comissoes": [
+            "CDEIC",
+            "PL157211",
+            "SUBPETRO",
+            "CFT",
+            "CME",
+            "CMO",
+            "MERCOSUL"
+        ],
+        "estado": "CE",
+        "id": "74213",
+        "nome": "ANTONIO BALHMANN",
+        "partido": "PSB",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CMO",
+            "MERCOSUL",
+            "PL157211",
+            "PL682610",
+            "SUBPETRO",
+            "PEC01011"
+        ],
+        "estado": "RS",
+        "id": "141527",
+        "nome": "RENATO MOLLING",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do inciso I  do art. 230  da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, e acrescenta inciso ao referido artigo, para dispor sobre a infra\u00e7\u00e3o de conduzir ve\u00edculo com lacre da placa rompido. ",
+                "id": "499731",
+                "nome": "PL 1179/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre os aspectos trabalhista, previdenci\u00e1rio e tribut\u00e1rio das quantias espontaneamente pagas pelas empresas a seus empregados a t\u00edtulo de pr\u00eamio por desempenho.",
+                "id": "497688",
+                "nome": "PL 961/2011"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Novo Hamburgo, no Estado do Rio Grande do Sul, o t\u00edtulo de Capital Nacional do Cal\u00e7ado.",
+                "id": "545077",
+                "nome": "PL 3890/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.427, de 26 de dezembro de 1996, estabelecendo que o Poder Concedente dever\u00e1 outorgar autoriza\u00e7\u00e3o condicionada para implanta\u00e7\u00e3o de aproveitamento de potencial hidr\u00e1ulico com caracter\u00edsticas de pequena central hidrel\u00e9trica.",
+                "id": "541735",
+                "nome": "PL 3711/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CEXLXHOS",
+            "CPITRAPE",
+            "CSPCCO",
+            "SUBSEGPU",
+            "CE",
+            "CESEGUR",
+            "GTCL",
+            "PEC03711",
+            "SUBOPOL",
+            "SUBPETRO"
+        ],
+        "estado": "PE",
+        "id": "160661",
+        "nome": "JOS\u00c9 AUGUSTO MAIA",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o de Zona de Processamento de Exporta\u00e7\u00e3o (ZPE) no Munic\u00edpio  de Santa Cruz do Capibaribe, no  Estado de Pernambuco.",
+                "id": "506954",
+                "nome": "PL 1537/2011"
+            },
+            {
+                "ementa": "Modifica a reda\u00e7\u00e3o da Lei n\u00ba 10.201, de 14 de fevereiro de 2001, que institui o Fundo Nacional de Seguran\u00e7a P\u00fablica - FNSP, estabelecendo condi\u00e7\u00f5es para o recebimento do FNSP pelos Munic\u00edpios. ",
+                "id": "504752",
+                "nome": "PL 1478/2011"
+            },
+            {
+                "ementa": "Modifica o art. 144 da Constitui\u00e7\u00e3o Federal, incluindo a previs\u00e3o de realiza\u00e7\u00e3o de atividades subsidi\u00e1rias \u00e0 seguran\u00e7a p\u00fablica pelas guardas municipais.",
+                "id": "509592",
+                "nome": "PEC 43/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFT",
+            "CDEIC",
+            "CEENSI",
+            "CEESTA",
+            "SUBPETRO"
+        ],
+        "estado": "BA",
+        "id": "160508",
+        "nome": "AFONSO FLORENCE",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o da Universidade Federal da Chapada Diamantina - UFCD, no Estado da Bahia e d\u00e1 outras provid\u00eancias.",
+                "id": "548628",
+                "nome": "PL 4094/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.088, de 16 de julho de 1974, que disp\u00f5e sobre a cria\u00e7\u00e3o da Companhia de Desenvolvimento do Vale do S\u00e3o Francisco - Codevasf, incluindo a Bacia do Rio Paragua\u00e7u entre suas \u00e1reas de atua\u00e7\u00e3o, nos termos que especifica e d\u00e1 outras provid\u00eancias. ",
+                "id": "543699",
+                "nome": "PL 3813/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CEXSANTA",
+            "SUBPETRO",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CVT"
+        ],
+        "estado": "RS",
+        "id": "160594",
+        "nome": "RONALDO ZULKE",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Confere ao Munic\u00edpio de Teut\u00f4nia, no Estado do Rio Grande do Sul, o t\u00edtulo de Capital Nacional dos Corais.",
+                "id": "530042",
+                "nome": "PL 2853/2011"
+            },
+            {
+                "ementa": "Institui cr\u00e9dito presumido em favor das empresas estaduais e municipais de abastecimento de \u00e1gua e de saneamento b\u00e1sico, correspondente ao valor dos investimentos realizados na presta\u00e7\u00e3o desses servi\u00e7os e compens\u00e1vel com os valores devidos a t\u00edtulo de Contribui\u00e7\u00e3o para o PIS/PASEP e Cofins.",
+                "id": "529766",
+                "nome": "PL 2829/2011"
+            },
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "529622",
+                "nome": "PL 2821/2011"
+            },
+            {
+                "ementa": "Denomina \"Ponte Presidente Jo\u00e3o Goulart\" a ponte sobre o rio Gravata\u00ed, que ligar\u00e1 as cidade de Porto Alegre e Canoas, pela BR 448, no Rio Grande do Sul.",
+                "id": "523097",
+                "nome": "PL 2490/2011"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da profiss\u00e3o de Quiropraxista. ",
+                "id": "503822",
+                "nome": "PL 1436/2011"
+            },
+            {
+                "ementa": "Acrescenta inciso V ao caput do art. 3\u00ba da Lei n\u00ba 12.512, de 14 de outubro de 2011, para dispor sobre amplia\u00e7\u00e3o da rela\u00e7\u00e3o de benefici\u00e1rios do Programa de Apoio \u00e0 Conserva\u00e7\u00e3o Ambiental.",
+                "id": "536507",
+                "nome": "PL 3398/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CMO",
+            "SUBPETRO",
+            "CFT",
+            "PEC03711"
+        ],
+        "estado": "RN",
+        "id": "141459",
+        "nome": "JO\u00c3O MAIA",
+        "partido": "PR",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CEESTA",
+            "CEREFPOL",
+            "GTCL",
+            "PEC01011",
+            "PEC01095",
+            "PL602505",
+            "PL742006",
+            "SUBCRIPE",
+            "CE",
+            "PEC03711",
+            "PL355504",
+            "PL803510",
+            "SUBPETRO"
+        ],
+        "estado": "SC",
+        "id": "160649",
+        "nome": "ESPERIDI\u00c3O AMIN",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Campus Ademar Pedro Baldissera\" o campus do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de Santa Catarina, localizado no Munic\u00edpio de S\u00e3o Miguel do Oeste, no Estado de Santa Catarina.",
+                "id": "514834",
+                "nome": "PL 1970/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.277, de 10 de maio de 1996, para dispor sobre a cobran\u00e7a de ped\u00e1gio. ",
+                "id": "498347",
+                "nome": "PL 1023/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre informa\u00e7\u00f5es acerca das condi\u00e7\u00f5es de presta\u00e7\u00e3o de servi\u00e7os que devem ser obrigatoriamente ofertadas por prestadores do Servi\u00e7o M\u00f3vel Pessoal - SMP.",
+                "id": "543259",
+                "nome": "PL 3796/2012"
+            },
+            {
+                "ementa": "Disciplina o acompanhamento, a fiscaliza\u00e7\u00e3o e a avalia\u00e7\u00e3o de parcerias e conv\u00eanios entre \u00f3rg\u00e3os p\u00fablicos e organiza\u00e7\u00f5es n\u00e3o governamentais.",
+                "id": "533801",
+                "nome": "PL 3098/2012"
+            },
+            {
+                "ementa": "Altera a Constitui\u00e7\u00e3o Federal para determinar a institui\u00e7\u00e3o, pelo poder p\u00fablico, de programas de recupera\u00e7\u00e3o do meio ambiente degradado, quando o fato decorrer de sua a\u00e7\u00e3o e omiss\u00e3o.",
+                "id": "550443",
+                "nome": "PEC 193/2012"
+            },
+            {
+                "ementa": "Introduz inciso no \u00a7 5\u00ba do art. 165 da Constitui\u00e7\u00e3o Federal determinando a inclus\u00e3o do reajuste geral do funcionalismo, previsto no art. 37, X, da Constitui\u00e7\u00e3o Federal, na lei or\u00e7ament\u00e1ria",
+                "id": "539890",
+                "nome": "PEC 156/2012"
+            }
+        ]
+    }
+]

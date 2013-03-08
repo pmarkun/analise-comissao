@@ -1,0 +1,626 @@
+[
+    {
+        "comissoes": [
+            "CEAGRIRU",
+            "CME",
+            "CPITRAES",
+            "PEC20712",
+            "PL161096",
+            "SUBEALBR",
+            "SUBROYAL",
+            "CAPADR",
+            "CMADS",
+            "CMMC",
+            "PEC03711",
+            "PEC44309",
+            "SUBCORIO"
+        ],
+        "estado": "MG",
+        "id": "109152",
+        "nome": "BERNARDO SANTANA DE VASCONCELLOS",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 8.171, de 17 de janeiro de 1991, que disp\u00f5e sobre a pol\u00edtica agr\u00edcola, acrescentando dispositivos referentes \u00e0 atividade agr\u00edcola florestal. ",
+                "id": "526974",
+                "nome": "PL 2679/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre a obrigatoriedade de emiss\u00e3o de Boletins Informativos em caso de interdi\u00e7\u00e3o das rodovias federais.",
+                "id": "521598",
+                "nome": "PL 2408/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Jos\u00e9 Alencar\" o trecho da rodovia BR-381 Norte, entre as cidades de Belo Horizonte a Governador Valadares, no Estado de Minas Gerais.",
+                "id": "499345",
+                "nome": "PL 1141/2011"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da atividade das Cooperativas de Profissionais da Sa\u00fade que menciona e d\u00e1 outras provid\u00eancias.",
+                "id": "491631",
+                "nome": "PL 318/2011"
+            },
+            {
+                "ementa": "Determina que o cultivo de florestas plantadas ser\u00e1 enquadrado como atividade agr\u00edcola, revoga dispositivos que determinam o enquadramento dessas florestas como nativas, passa tal cultivo \u00e0 compet\u00eancia do Minist\u00e9rio da Agricultura, e d\u00e1 outras provid\u00eancias.",
+                "id": "491520",
+                "nome": "PL 288/2011"
+            },
+            {
+                "ementa": "Insere novo par\u00e1grafo ao art. 224 da Lei n\u00ba 4.737, de 15 de julho de 1965, C\u00f3digo Eleitoral, para determinar a realiza\u00e7\u00e3o de novas elei\u00e7\u00f5es quando o mandato de titular do Poder Executivo for cassado.",
+                "id": "491031",
+                "nome": "PL 86/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Benedito de Paula Nascimento\" o trecho da rodovia BR-146, entre as cidades de Arax\u00e1 e Patos de Minas, no Estado de Minas Gerais.",
+                "id": "491039",
+                "nome": "PL 93/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o penhor rural de madeira, produtos madeireiros e demais produtos da floresta plantada.",
+                "id": "491028",
+                "nome": "PL 83/2011"
+            },
+            {
+                "ementa": "Modifica a Lei  n\u00ba 10.833, de 29 de dezembro de 2003, que \"altera a Legisla\u00e7\u00e3o Tribut\u00e1ria Federal e d\u00e1 outras provid\u00eancias.\"",
+                "id": "491036",
+                "nome": "PL 90/2011"
+            },
+            {
+                "ementa": "Altera os arts. 1\u00ba, 2\u00ba e 3\u00ba do Decreto-lei n\u00ba 1.305, de 8 de janeiro de 1974, que disp\u00f5e sobre as contribui\u00e7\u00f5es de que tratam o art. 1\u00ba, do Decreto-lei n\u00ba 6.246, de 5 de fevereiro de 1944, e o art. 24, da Lei n\u00ba  5.107, de 13 de setembro de 1966, alterada pelo Decreto-lei n\u00ba 20, de 14 de setembro de 1966, para destin\u00e1-las ao\nServi\u00e7o Social do Transporte - SEST e ao Servi\u00e7o Nacional de Aprendizagem do Transporte - SENAT.",
+                "id": "491022",
+                "nome": "PL 77/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 6.015, de 31 dezembro de 1973, que disp\u00f5e sobre  Registros P\u00fablicos e \u00e0 Lei n\u00ba 10.406,  de 10 de janeiro de 2002, que instituiu o C\u00f3digo C\u00edvil , conferindo aos condom\u00ednios edilicios a oportunidade de se constitu\u00edrem como pessoas jur\u00eddicas.",
+                "id": "491025",
+                "nome": "PL 80/2011"
+            },
+            {
+                "ementa": "Denomina \"Viaduto Francisco Bilac Moreira Pinto\" o viaduto localizado na altura do Km 102 da BR-459  cruzamento com a Avenida Tuany Toledo, no Munic\u00edpio de Pouso Alegre, no Estado de Minas Gerais.",
+                "id": "546500",
+                "nome": "PL 3983/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 129 da Constitui\u00e7\u00e3o Federal, para facultar a propositura de a\u00e7\u00e3o penal subsidi\u00e1ria, nos casos de omiss\u00e3o injustificada do Minist\u00e9rio P\u00fablico e d\u00e1 outras provid\u00eancias.",
+                "id": "551490",
+                "nome": "PEC 194/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao caput do art. 62 da Constitui\u00e7\u00e3o Federal, para determinar o n\u00famero m\u00e1ximo de medidas provis\u00f3rias editadas por ano civil.",
+                "id": "544937",
+                "nome": "PEC 173/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "COETICA",
+            "PEC00511",
+            "SUBRADIG",
+            "SUBROYAL",
+            "CME"
+        ],
+        "estado": "PA",
+        "id": "73930",
+        "nome": "WLADIMIR COSTA",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para autorizar o maior de 16 anos desde que emancipado, a obter habilita\u00e7\u00e3o de motorista.",
+                "id": "493308",
+                "nome": "PL 571/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEESTA",
+            "CTASP",
+            "PEC00511",
+            "PEC40509",
+            "PL157211",
+            "PL682610",
+            "SUBMIHPA",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CCJC",
+            "CPITRAES",
+            "PEC20712",
+            "PEC47810",
+            "PL161096"
+        ],
+        "estado": "SE",
+        "id": "151208",
+        "nome": "LAERCIO OLIVEIRA",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 7.713, de 22 de dezembro de 1988, determinando atualiza\u00e7\u00e3o monet\u00e1ria do valor retido na fonte no momento da restitui\u00e7\u00e3o ao contribuinte.",
+                "id": "531962",
+                "nome": "PL 2985/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a disponibiliza\u00e7\u00e3o permanente de Desfibrilador Card\u00edaco Externo Autom\u00e1tico em locais p\u00fablicos.",
+                "id": "531961",
+                "nome": "PL 2984/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre normas relativas \u00e0 presta\u00e7\u00e3o de servi\u00e7os de cart\u00f5es de cr\u00e9dito e d\u00e9bito.",
+                "id": "527015",
+                "nome": "PL 2688/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 11.901, de 12 de janeiro de 2009.",
+                "id": "526014",
+                "nome": "PL 2639/2011"
+            },
+            {
+                "ementa": "Altera o texto da Lei n\u00ba 12.513, de 26 de outubro de 2011, que \"Institui o Programa Nacional de Acesso ao Ensino T\u00e9cnico e Emprego (Pronatec); altera as Leis n\u00ba 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador (FAT), n\u00ba 8.212, de 24 de julho de 1991, que disp\u00f5e sobre a organiza\u00e7\u00e3o da Seguridade Social e institui Plano de Custeio, n\u00ba 10.260, de 12 de julho de 2001, que disp\u00f5e sobre o Fundo de Financiamento ao Estudante do Ensino Superior, e n\u00ba 11.129, de 30 de junho de 2005, que institui o Programa Nacional de Inclus\u00e3o de Jovens (ProJovem); e d\u00e1 outras provid\u00eancias\".",
+                "id": "526013",
+                "nome": "PL 2638/2011"
+            },
+            {
+                "ementa": "Institui a obrigatoriedade de ascensorista em edifica\u00e7\u00f5es comerciais e pr\u00e9dios p\u00fablicos n\u00e3o residenciais com elevador.",
+                "id": "526012",
+                "nome": "PL 2637/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.989, de 24 de fevereiro de 1995.",
+                "id": "524274",
+                "nome": "PL 2558/2011"
+            },
+            {
+                "ementa": "Institui o C\u00f3digo de Defesa do Contribuinte brasileiro.",
+                "id": "524272",
+                "nome": "PL 2557/2011"
+            },
+            {
+                "ementa": "Revoga artigos da Lei n\u00ba 12.431, de 27 de junho de 2011.",
+                "id": "521423",
+                "nome": "PL 2401/2011"
+            },
+            {
+                "ementa": "Altera o art. 193 da Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para conceder adicional de periculosidade aos trabalhadores, redefinindo os crit\u00e9rios para caracteriza\u00e7\u00e3o das atividades ou opera\u00e7\u00f5es perigosas.  ",
+                "id": "519800",
+                "nome": "PL 2314/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a reinser\u00e7\u00e3o dos trabalhadores apenados no regime semiaberto e egressos do sistema prisional brasileiro no mercado de trabalho.",
+                "id": "518238",
+                "nome": "PL 2189/2011"
+            },
+            {
+                "ementa": "Altera artigo da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o \"C\u00f3digo de Tr\u00e2nsito Brasileiro\", permitindo a doa\u00e7\u00e3o de ve\u00edculos e a venda de sucata abandonados.",
+                "id": "517565",
+                "nome": "PL 2145/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dedu\u00e7\u00e3o do gasto com atividades esportivas, para fins de imposto de renda das pessoas f\u00edsicas.",
+                "id": "517564",
+                "nome": "PL 2144/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o de imposto de renda e de recolhimento do INSS aos aposentados.",
+                "id": "515935",
+                "nome": "PL 2047/2011"
+            },
+            {
+                "ementa": "Institui aplicabilidade ao quadro administrativo da empresa contratante ou mediante frente de servi\u00e7o dos percentuais referidos no art. 93, da Lei n\u00ba 8.213, de 24 de julho de 1991.",
+                "id": "509994",
+                "nome": "PL 1653/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dedu\u00e7\u00e3o do lucro tribut\u00e1vel, para fins de imposto sobre a renda das pessoas jur\u00eddicas, do dobro das despesas realizadas em projetos de forma\u00e7\u00e3o profissional, e d\u00e1 outras provid\u00eancias.",
+                "id": "509991",
+                "nome": "PL 1652/2011"
+            },
+            {
+                "ementa": "Altera a Consolida\u00e7\u00e3o das Leis do Trabalho (CLT) a fim de atualizar a base da c\u00e1lculo da contribui\u00e7\u00e3o sindical patronal.",
+                "id": "505152",
+                "nome": "PL 1491/2011"
+            },
+            {
+                "ementa": "Veda a participa\u00e7\u00e3o, em licita\u00e7\u00f5es, de cooperativas nos casos que especifica e d\u00e1 outras provid\u00eancias.",
+                "id": "505151",
+                "nome": "PL 1490/2011"
+            },
+            {
+                "ementa": "Institui a obrigatoriedade de discrimina\u00e7\u00e3o, nas notas e cupons fiscais de todos os bens e servi\u00e7os comercializados, o valor total de impostos incidentes.",
+                "id": "505150",
+                "nome": "PL 1489/2011"
+            },
+            {
+                "ementa": "Condiciona a libera\u00e7\u00e3o das parcelas do seguro-desemprego \u00e0 comprova\u00e7\u00e3o de freq\u00fc\u00eancia a curso de qualifica\u00e7\u00e3o profissional.",
+                "id": "502141",
+                "nome": "PL 1343/2011"
+            },
+            {
+                "ementa": "Altera o art. 134, do Estatuto da Crian\u00e7a e do Adolescente, institu\u00eddo pela Lei n\u00ba 8.069, de 13 de julho de 1990.",
+                "id": "501893",
+                "nome": "PL 1335/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 3\u00ba-A, da Lei n\u00ba 8.859, de 11 de novembro de 1972, tornando obrigat\u00f3ria a inclus\u00e3o de empregado dom\u00e9stico no Fundo de Garantia por Tempo de Servi\u00e7o - FGTS.",
+                "id": "501891",
+                "nome": "PL 1334/2011"
+            },
+            {
+                "ementa": "Possibiita que a pessoa jur\u00eddica deduza do imposto de renda metade do sal\u00e1rio pago a empregado com idade igual ou superior a 50 anos",
+                "id": "500790",
+                "nome": "PL 1252/2011"
+            },
+            {
+                "ementa": "Cria o Programa Nacional do Trabalho na \"Melhor Idade\" e d\u00e1 outras provid\u00eancias.",
+                "id": "500789",
+                "nome": "PL 1251/2011"
+            },
+            {
+                "ementa": "Altera o art. 280 da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para determinar que a infra\u00e7\u00e3o de tr\u00e2nsito n\u00e3o ser\u00e1 comprovada por lombada eletr\u00f4nica.",
+                "id": "498988",
+                "nome": "PL 1120/2011"
+            },
+            {
+                "ementa": "Altera a Consolida\u00e7\u00e3o da Leis do Trabalho, a fim de alterar a reda\u00e7\u00e3o do \u00a7 2\u00ba do art. 477 da CLT, que trata dos efeitos da quita\u00e7\u00e3o das verbas rescis\u00f3rias.",
+                "id": "497536",
+                "nome": "PL 948/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 1\u00ba do art. 10 da Lei 9.795, de 27 de abril de 1999, que disp\u00f5e sobre a educa\u00e7\u00e3o ambiental, institui a Pol\u00edtica nacional de Educa\u00e7\u00e3o Ambiental e d\u00e1 outras provid\u00eancias.",
+                "id": "496949",
+                "nome": "PL 876/2011"
+            },
+            {
+                "ementa": "Obriga a manuten\u00e7\u00e3o, pelos fornecedores,  de atendimento telef\u00f4nico gratuito aos consumidores e veda a utiliza\u00e7\u00e3o de sistemas automatizados nesse atendimento",
+                "id": "496239",
+                "nome": "PL 847/2011"
+            },
+            {
+                "ementa": "Denomina de BOA LUZ, o viaduto localizado na BR 235, Km 16, entre as cidades  de  Aracaju e Laranjeiras,  no Estado de Sergipe.",
+                "id": "495235",
+                "nome": "PL 769/2011"
+            },
+            {
+                "ementa": "Autoriza o revendedor varejista de combust\u00edveis a recarregar vasilhames de g\u00e1s liquefeito de petr\u00f3leo no estabelecimento denominado posto revendedor.",
+                "id": "493480",
+                "nome": "PL 602/2011"
+            },
+            {
+                "ementa": "Altera dispositivo do Decreto-Lei n\u00ba 2.398, de 21 de dezembro de 1987, para reduzir o valor do laud\u00eamio relativo a im\u00f3veis de propriedade da Uni\u00e3o.",
+                "id": "493135",
+                "nome": "PL 520/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a realiza\u00e7\u00e3o de licita\u00e7\u00e3o na modalidade Preg\u00e3o Eletr\u00f4nico no \u00e2mbito da Administra\u00e7\u00e3o Federal.",
+                "id": "492360",
+                "nome": "PL 468/2011"
+            },
+            {
+                "ementa": "Regulamenta o art. 19 da Lei n\u00ba 8.078,  de 11de setembro de 1990 para disciplinar  a venda ou troca de botij\u00f5es de G\u00e1s Liquefeito de Petr\u00f3leo para uso dom\u00e9stico.",
+                "id": "492359",
+                "nome": "PL 467/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.294, de 15 de julho de 1996.",
+                "id": "563635",
+                "nome": "PL 4860/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.833, de 29 de dezembro de 2003.",
+                "id": "563633",
+                "nome": "PL 4859/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a transpar\u00eancia nos editais de concursos p\u00fablicos.",
+                "id": "562018",
+                "nome": "PL 4790/2012"
+            },
+            {
+                "ementa": "Altera o art. 91 da Lei n\u00ba 9.504, de 30 de setembro de 1997.",
+                "id": "557373",
+                "nome": "PL 4575/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.305, de 2 de agosto de 2010.",
+                "id": "555250",
+                "nome": "PL 4409/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997.",
+                "id": "555248",
+                "nome": "PL 4408/2012"
+            },
+            {
+                "ementa": "Institui o Servi\u00e7o Social Obrigat\u00f3rio.",
+                "id": "555247",
+                "nome": "PL 4407/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00b0 6.496, de 7 de dezembro de 1977.",
+                "id": "553030",
+                "nome": "PL 4304/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.404, de 15 de dezembro de 1976, para criar e disciplinar a sociedade an\u00f4nima simplificada (SAS).",
+                "id": "553029",
+                "nome": "PL 4303/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.666, de 21 de junho de 1993.",
+                "id": "553028",
+                "nome": "PL 4302/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.433, de 8 de janeiro de 1997.",
+                "id": "553027",
+                "nome": "PL 4301/2012"
+            },
+            {
+                "ementa": "Institui o Programa Nacional de Conserva\u00e7\u00e3o, Uso Racional e Reaproveitamento das \u00c1guas.",
+                "id": "549441",
+                "nome": "PL 4109/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.112, de 11 de dezembro de 1990, estabelecendo casos que impedem a nomea\u00e7\u00e3o em cargo p\u00fablico.",
+                "id": "547018",
+                "nome": "PL 4013/2012"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Cicloturismo.",
+                "id": "547016",
+                "nome": "PL 4012/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.250, de 26 de dezembro de 1995.",
+                "id": "545634",
+                "nome": "PL 3930/2012"
+            },
+            {
+                "ementa": "Institui o contrato de trabalho intermitente.",
+                "id": "543121",
+                "nome": "PL 3785/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.666, de 21 de junho de 1993.",
+                "id": "539512",
+                "nome": "PL 3574/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.036, de 11 de maio de 1990, que \"disp\u00f5e sobre o Fundo de Garantia por Tempo de Servi\u00e7o, e d\u00e1 outras provid\u00eancias\".",
+                "id": "537216",
+                "nome": "PL 3438/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que \"institui o C\u00f3digo de Tr\u00e2nsito Brasileiro\".",
+                "id": "537215",
+                "nome": "PL 3437/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.019, de 3 de janeiro de 1974, que disp\u00f5e sobre o trabalho tempor\u00e1rio nas empresas urbanas, e d\u00e1 outras provid\u00eancias.",
+                "id": "537211",
+                "nome": "PL 3436/2012"
+            },
+            {
+                "ementa": "Regulamenta profiss\u00e3o de cinegrafista.",
+                "id": "534925",
+                "nome": "PL 3242/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.989, de 24 de fevereiro de 1995.",
+                "id": "534315",
+                "nome": "PL 3171/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a inclus\u00e3o das receitas decorrentes dos servi\u00e7os de m\u00e3o de obra tempor\u00e1ria e presta\u00e7\u00e3o de servi\u00e7os de limpeza e conserva\u00e7\u00e3o no regime de cumulatividade do PIS e da COFINS.",
+                "id": "534314",
+                "nome": "PL 3170/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "SUBFIPAC",
+            "SUBROYAL",
+            "CDEIC"
+        ],
+        "estado": "MA",
+        "id": "141402",
+        "nome": "CARLOS BRAND\u00c3O",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a regulamenta\u00e7\u00e3o da profiss\u00e3o de vaqueiro.",
+                "id": "562678",
+                "nome": "PL 4831/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o de um campus da Universidade Federal do Maranh\u00e3o no Munic\u00edpio de Colinas, a ser transformado na Universidade Federal do Sert\u00e3o Maranhense.",
+                "id": "558505",
+                "nome": "PL 4654/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEANISTI",
+            "CME",
+            "PEC47810",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CEREFPOL",
+            "CREDN",
+            "PEC01095"
+        ],
+        "estado": "BA",
+        "id": "74133",
+        "nome": "LUIZ ALBERTO",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta artigo ao Ato da Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias determinando a reserva de vagas na C\u00e2mara dos Deputados, nas assembleias legislativas e na C\u00e2mara Legislativa, por cinco legislaturas, para parlamentares oriundos da popula\u00e7\u00e3o negra.",
+                "id": "529275",
+                "nome": "PEC 116/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCULT",
+            "CREDN",
+            "MERCOSUL",
+            "PEC01095",
+            "PEC40509",
+            "SUBAPROF",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CEREFPOL",
+            "SUBCOPLP"
+        ],
+        "estado": "MG",
+        "id": "141441",
+        "nome": "GEORGE HILTON",
+        "partido": "PRB",
+        "proposicoes": [
+            {
+                "ementa": "Pro\u00edbe, em todo territ\u00f3rio nacional, a comercializa\u00e7\u00e3o e uso da subst\u00e2ncia salvinorina e da planta da qual pode ser extra\u00edda, da esp\u00e9cie Salvia divinorum.",
+                "id": "497065",
+                "nome": "PL 897/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CEXSANTA",
+            "SUBPETRO",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CVT"
+        ],
+        "estado": "RS",
+        "id": "160594",
+        "nome": "RONALDO ZULKE",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Confere ao Munic\u00edpio de Teut\u00f4nia, no Estado do Rio Grande do Sul, o t\u00edtulo de Capital Nacional dos Corais.",
+                "id": "530042",
+                "nome": "PL 2853/2011"
+            },
+            {
+                "ementa": "Institui cr\u00e9dito presumido em favor das empresas estaduais e municipais de abastecimento de \u00e1gua e de saneamento b\u00e1sico, correspondente ao valor dos investimentos realizados na presta\u00e7\u00e3o desses servi\u00e7os e compens\u00e1vel com os valores devidos a t\u00edtulo de Contribui\u00e7\u00e3o para o PIS/PASEP e Cofins.",
+                "id": "529766",
+                "nome": "PL 2829/2011"
+            },
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "529622",
+                "nome": "PL 2821/2011"
+            },
+            {
+                "ementa": "Denomina \"Ponte Presidente Jo\u00e3o Goulart\" a ponte sobre o rio Gravata\u00ed, que ligar\u00e1 as cidade de Porto Alegre e Canoas, pela BR 448, no Rio Grande do Sul.",
+                "id": "523097",
+                "nome": "PL 2490/2011"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da profiss\u00e3o de Quiropraxista. ",
+                "id": "503822",
+                "nome": "PL 1436/2011"
+            },
+            {
+                "ementa": "Acrescenta inciso V ao caput do art. 3\u00ba da Lei n\u00ba 12.512, de 14 de outubro de 2011, para dispor sobre amplia\u00e7\u00e3o da rela\u00e7\u00e3o de benefici\u00e1rios do Programa de Apoio \u00e0 Conserva\u00e7\u00e3o Ambiental.",
+                "id": "536507",
+                "nome": "PL 3398/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCTCI",
+            "CPITRAPE",
+            "SUBROYAL",
+            "CME",
+            "PL602505"
+        ],
+        "estado": "MG",
+        "id": "141516",
+        "nome": "PAULO ABI-ACKEL",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Inclui o nome do cidad\u00e3o J\u00falio Prestes na galeria dos que foram ungidos pela Na\u00e7\u00e3o Brasileira para a Suprema Magistratura.",
+                "id": "514019",
+                "nome": "PL 1938/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o prazo de restitui\u00e7\u00e3o do Imposto de Renda Pessoa F\u00edsica (IRPF).",
+                "id": "501873",
+                "nome": "PL 1333/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00e0 Lei n\u00ba 5.478 de 25 de Julho de 1968,  que regulamenta a a\u00e7\u00e3o de alimentos, o art. 24-A para dispor sobre a inclus\u00e3o, em Servi\u00e7os de Prote\u00e7\u00e3o ao Cr\u00e9dito, daquele que deixar, sem justo motivo, de pagar a pens\u00e3o aliment\u00edcia judicialmente fixada.",
+                "id": "495675",
+                "nome": "PL 799/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de serem subterr\u00e2neas as instala\u00e7\u00f5es de distribui\u00e7\u00e3o de energia el\u00e9trica, quando realizadas em ruas das cidades que tenham setores de valor hist\u00f3rico, reconhecidos por \u00f3rg\u00e3os estatais, especialmente os tombados pelo Instituto do Patrim\u00f4nio e Art\u00edstico Nacional - IPHAN.",
+                "id": "495674",
+                "nome": "PL 798/2011"
+            },
+            {
+                "ementa": "Altera o art. 50 da Lei n\u00ba 9.099, de 26 de setembro de 1995.",
+                "id": "545811",
+                "nome": "PL 3947/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.001, de 13 de mar\u00e7o de 1990, para reduzir o percentual da Compensa\u00e7\u00e3o Financeira pela Explora\u00e7\u00e3o de Recursos Minerais (CFEM) incidente sobre \u00e1guas minerais.",
+                "id": "544879",
+                "nome": "PL 3882/2012"
+            },
+            {
+                "ementa": "Altera a Lei 11.788, de 25 de setembro de 2008.",
+                "id": "534171",
+                "nome": "PL 3158/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEREFPOL",
+            "CMMC",
+            "PEC01095",
+            "SUBROYAL",
+            "CEENSI",
+            "CPITRAPE",
+            "PEC00511",
+            "PL161096"
+        ],
+        "estado": "RS",
+        "id": "74395",
+        "nome": "JOS\u00c9 OT\u00c1VIO GERMANO",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Rodovia Lu\u00eds Ant\u00f4nio Trindade Amin\" o trecho da BR-153, compreendido entre a Empresa Horbach e o acesso \u00e0 Empresa Granol, na cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.",
+                "id": "514926",
+                "nome": "PL 1977/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para estabelecer a obrigatoriedade do uso etil\u00f4metro como equipamento nos ve\u00edculos automotores.",
+                "id": "562666",
+                "nome": "PL 4829/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o exerc\u00edcio da atividade de gandula.",
+                "id": "547009",
+                "nome": "PL 4011/2012"
+            },
+            {
+                "ementa": "Determina a substitui\u00e7\u00e3o integral de medidores de energia el\u00e9trica eletromec\u00e2nicos por medidores eletr\u00f4nicos e d\u00e1 outras provid\u00eancias. ",
+                "id": "535991",
+                "nome": "PL 3337/2012"
+            }
+        ]
+    }
+]

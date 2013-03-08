@@ -1,0 +1,345 @@
+[
+    {
+        "comissoes": [
+            "MESA",
+            "SUBSISFI"
+        ],
+        "estado": "PR",
+        "id": "141378",
+        "nome": "ANDRE VARGAS",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Institui, no Calend\u00e1rio Oficial Nacional, o dia 22 de julho como o Dia da Paz e da Concilia\u00e7\u00e3o.",
+                "id": "524191",
+                "nome": "PL 2546/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.630, de 25 de fevereiro de 1993, para a inclus\u00e3o da atividade de amarra\u00e7\u00e3o de navios no trabalho portu\u00e1rio executado nos portos organizados, e d\u00e1 outras provid\u00eancias.",
+                "id": "548442",
+                "nome": "PL 4083/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o exerc\u00edcio do direito de resposta previsto no art. 5\u00ba, inciso V, da Constitui\u00e7\u00e3o Federal, e d\u00e1 outras providencias.",
+                "id": "538530",
+                "nome": "PL 3523/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFT",
+            "SUBRETRI",
+            "SUBSISFI",
+            "CPITRAES",
+            "CVT",
+            "PEC00511"
+        ],
+        "estado": "MG",
+        "id": "141372",
+        "nome": "AELTON FREITAS",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Viaduto Ma Shou Tao\" o viaduto localizado no km 198 da BR-050 (Rodovia Francisco C\u00e2ndido Xavier) no entroncamento com a BR-464, Estado de Minas Gerais. ",
+                "id": "500768",
+                "nome": "PL 1243/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o da figura do advogado profissional individual e sua equipara\u00e7\u00e3o \u00e0 sociedade de advogados para efeitos tribut\u00e1rios.",
+                "id": "553469",
+                "nome": "PL 4318/2012"
+            },
+            {
+                "ementa": "Denomina \"Viaduto Wilson Franco Filho\" o viaduto localizado no km 805 da BR-262, na cidade de Uberaba, Estado de Minas Gerais. ",
+                "id": "536015",
+                "nome": "PL 3342/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFT",
+            "PL712310",
+            "SUBASFED",
+            "CAPADR",
+            "CEAGRIRU",
+            "CEREFPOL",
+            "PEC01095",
+            "PL157211",
+            "PL602505",
+            "PL803510",
+            "SUBRETRI",
+            "SUBSISFI"
+        ],
+        "estado": "PR",
+        "id": "141454",
+        "nome": "ALFREDO KAEFER",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 12.213, de 20 de janeiro de 2010, que \"Institui o Fundo Nacional do Idoso e autoriza deduzir do imposto de renda devido pelas pessoas f\u00edsicas e jur\u00eddicas as doa\u00e7\u00f5es efetuadas aos Fundos Municipais, Estaduais e Nacional do Idoso; e altera a Lei n\u00ba 9.250, de 26 de dezembro de 1995\", estabelecendo limite isolado para dedu\u00e7\u00e3o do imposto de renda referente \u00e0s doa\u00e7\u00f5es feitas pelas pessoas jur\u00eddicas aos Fundos do Idoso.",
+                "id": "525299",
+                "nome": "PL 2599/2011"
+            },
+            {
+                "ementa": "Altera o art. 12 da Lei n\u00ba 9.250, de 26 de dezembro de 1995, que \"altera a legisla\u00e7\u00e3o do imposto de renda das pessoas f\u00edsicas e d\u00e1 outras provid\u00eancias\", para possibilitar que sejam deduzidos do imposto de renda apurado os valores despendidos at\u00e9 o momento da entrega tempestiva da Declara\u00e7\u00e3o de Ajuste Anual.",
+                "id": "519787",
+                "nome": "PL 2311/2011"
+            },
+            {
+                "ementa": "Altera o art. 25 da Lei n\u00ba 8.212, de 24 de julho de 1991, restabelecendo exclus\u00e3o, da base de c\u00e1lculo da contribui\u00e7\u00e3o do empregador rural pessoa f\u00edsica, das receitas que especifica.",
+                "id": "517224",
+                "nome": "PL 2123/2011"
+            },
+            {
+                "ementa": "Altera o art. 655 da Lei n\u00ba 5.869, de 11 de janeiro de 1973 - C\u00f3digo de Processo Civil.",
+                "id": "514482",
+                "nome": "PL 1956/2011"
+            },
+            {
+                "ementa": "Altera dispositivo da Lei n\u00ba 6.830, de 22 de setembro de 1980, que \"disp\u00f5e sobre a cobran\u00e7a judicial da D\u00edvida Ativa da Fazenda P\u00fablica, e d\u00e1 outras provid\u00eancias\".",
+                "id": "514481",
+                "nome": "PL 1955/2011"
+            },
+            {
+                "ementa": "Modifica o inciso VII do art. 12 da Lei n\u00ba 9.250, de 26 de dezembro de 1995, que \"altera a legisla\u00e7\u00e3o do imposto de renda das pessoas f\u00edsicas e d\u00e1 outras provid\u00eancias\", para prorrogar a dedu\u00e7\u00e3o da contribui\u00e7\u00e3o patronal do imposto de renda apurado na declara\u00e7\u00e3o de ajuste anual.",
+                "id": "495845",
+                "nome": "PL 811/2011"
+            },
+            {
+                "ementa": "Altera os prazos de vencimento do Imposto sobre Produtos Industrializados (IPI), do Imposto de Renda devido pelas pessoas jur\u00eddicas (IRPJ), da Contribui\u00e7\u00e3o Social sobre o Lucro (CSLL), da Contribui\u00e7\u00e3o para o Financiamento da Seguridade Social (Cofins) e da Contribui\u00e7\u00e3o para os Programas PIS/Pasep.",
+                "id": "558136",
+                "nome": "PL 4630/2012"
+            },
+            {
+                "ementa": "Autoriza o Poder P\u00fablico a realizar a interna\u00e7\u00e3o compuls\u00f3ria, para tratamento m\u00e9dico especializado, de crian\u00e7as, adolescentes e adultos apreendidos em situa\u00e7\u00e3o de risco e fixa outras provid\u00eancias.",
+                "id": "537319",
+                "nome": "PL 3450/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CE",
+            "SUBSISFI",
+            "CDEIC",
+            "PEC03299",
+            "PL742006",
+            "SUBMICRO"
+        ],
+        "estado": "MG",
+        "id": "141457",
+        "nome": "JO\u00c3O BITTAR",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Denomina-se \"Aeroporto de S\u00e3o Paulo/Congonhas - Deputado Freitas Nobre\" o aeroporto da cidade de S\u00e3o Paulo, capital do Estado de S\u00e3o Paulo.\n\nNOVA EMENTA: Denomina Aeroporto de S\u00e3o Paulo/Congonhas - Deputado Freitas Nobre o aeroporto da cidade de S\u00e3o Paulo, capital do Estado de S\u00e3o Paulo.",
+                "id": "513865",
+                "nome": "PL 1923/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCULT",
+            "COETICA",
+            "CVT",
+            "MERCOSUL",
+            "SUBSISFI",
+            "SUBTRACA",
+            "CE",
+            "PEC20712",
+            "PL767210",
+            "SUBPORTO"
+        ],
+        "estado": "RS",
+        "id": "160607",
+        "nome": "JOSE ST\u00c9DILE",
+        "partido": "PSB",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta inciso ao art. 19 da Lei n\u00ba 7.102, de 20 de junho de 1983, para disciplinar o intervalo intrajornada do vigilante para descanso dos membros inferiores.",
+                "id": "514134",
+                "nome": "PL 1943/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Empregado Sindical.",
+                "id": "511072",
+                "nome": "PL 1750/2011"
+            },
+            {
+                "ementa": "Determina a obrigatoriedade de matr\u00edcula em institui\u00e7\u00e3o de ensino aos atletas com menos de 18 anos e que n\u00e3o tenham conclu\u00eddo o ensino m\u00e9dio, vinculados a entidades desportivas profissionais ou entidades de pr\u00e1tica desportiva formadoras de atleta, bem como benefici\u00e1rios da Bolsa-Atleta.",
+                "id": "510500",
+                "nome": "PL 1702/2011"
+            },
+            {
+                "ementa": "Aumenta o rol de deveres e obriga\u00e7\u00f5es dos servidores p\u00fablicos e parlamentares no exerc\u00edcio de suas fun\u00e7\u00f5es.",
+                "id": "505410",
+                "nome": "PL 1506/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o princ\u00edpio da universaliza\u00e7\u00e3o das bibliotecas p\u00fablicas no Pa\u00eds.",
+                "id": "541906",
+                "nome": "PL 3727/2012"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da profiss\u00e3o de T\u00e9cnico de Seguran\u00e7a do Tr\u00e2nsito.",
+                "id": "541905",
+                "nome": "PL 3726/2012"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Empregado Sindical.",
+                "id": "539216",
+                "nome": "PL 3562/2012"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o de dispositivos do Decreto-Lei n\u00ba 4.238, de 8 de abril de 1942, que disp\u00f5e sobre a fabrica\u00e7\u00e3o, o com\u00e9rcio e o uso de artigos pirot\u00e9cnicos e d\u00e1 outras provid\u00eancias.",
+                "id": "535195",
+                "nome": "PL 3271/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFT",
+            "COETICA",
+            "CPITRAES",
+            "PEC03299",
+            "PEC20712",
+            "PEC44309",
+            "SUBREGIN",
+            "CSPCCO",
+            "CSSF",
+            "PEC03711",
+            "PEC47810",
+            "PL161096",
+            "PL346004",
+            "PL749506",
+            "SUBSEGAL",
+            "SUBSISFI"
+        ],
+        "estado": "BA",
+        "id": "160603",
+        "nome": "AMAURI TEIXEIRA",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a incid\u00eancia de imposto de renda sobre a distribui\u00e7\u00e3o de lucro ou dividendo, revogando o art. 10 da Lei n\u00ba 9.249, de 26 de dezembro de 1995.",
+                "id": "525430",
+                "nome": "PL 2610/2011"
+            },
+            {
+                "ementa": "Cria o controle da produ\u00e7\u00e3o e consumo de agrot\u00f3xicos por meio de vigil\u00e2ncia eletr\u00f4nica e sanit\u00e1ria.",
+                "id": "514390",
+                "nome": "PL 1950/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o procedimento no cancelamento de linha telef\u00f4nica ou cong\u00eanere pelo consumidor e d\u00e1 outras provid\u00eancias",
+                "id": "513193",
+                "nome": "PL 1876/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 8.072, de 25 de julho de 1990, que \"disp\u00f5e sobre os crimes hediondos, nos termos do art. 5\u00ba, inciso XLIII, da Constitui\u00e7\u00e3o Federal, e determina outras provid\u00eancias\".",
+                "id": "512050",
+                "nome": "PL 1811/2011"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Servidor do Legislativo.",
+                "id": "510716",
+                "nome": "PL 1723/2011"
+            },
+            {
+                "ementa": "Modifica o inciso VII do art. 12 da Lei n\u00ba 9.250, de 26 de dezembro de 1995, que \"altera a legisla\u00e7\u00e3o do imposto de renda das pessoas f\u00edsicas e d\u00e1 outras provid\u00eancias\", para tornar permanente a dedu\u00e7\u00e3o da contribui\u00e7\u00e3o patronal do imposto de renda apurado na declara\u00e7\u00e3o de ajuste anual.",
+                "id": "496108",
+                "nome": "PL 839/2011"
+            },
+            {
+                "ementa": "Altera o art. 18 da Lei n\u00ba 9.615, de 1998 para proibir mais de uma reelei\u00e7\u00e3o aos dirigentes de entidades desportivas benefici\u00e1rias de recursos p\u00fablicos ou de isen\u00e7\u00e3o fiscal.",
+                "id": "495525",
+                "nome": "PL 778/2011"
+            },
+            {
+                "ementa": "Altera dispositivo no C\u00f3digo de Processo Penal, promovendo maior agilidade de tramita\u00e7\u00e3o na justi\u00e7a. ",
+                "id": "493172",
+                "nome": "PL 534/2011"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a cria\u00e7\u00e3o do Campus da Universidade Federal da Bahia - UFBA no bairro Cajazeiras em Salvador.",
+                "id": "558348",
+                "nome": "PL 4639/2012"
+            },
+            {
+                "ementa": "Altera o art. 49 da Lei n\u00ba 8.171, de 17 de janeiro de 1991, com o objetivo de incluir como benefici\u00e1rios de cr\u00e9dito rural as comunidades quilombolas, ribeirinhas e quebradoras de coco baba\u00e7u, atingidos por barragens e assentados da reforma agr\u00e1ria.",
+                "id": "558073",
+                "nome": "PL 4620/2012"
+            },
+            {
+                "ementa": "Acrescenta art. 17-A \u00e0 Lei n\u00ba 11.340, de 7 de agosto de 2006, que cria mecanismos para coibir a viol\u00eancia dom\u00e9stica e familiar contra a mulher, para dispor sobre o direito de regresso da Previd\u00eancia Social perante o agressor. ",
+                "id": "554290",
+                "nome": "PL 4381/2012"
+            },
+            {
+                "ementa": "Estabelece a obrigatoriedade de repasses autom\u00e1ticos de recursos da Uni\u00e3o aos Estados, Distrito Federal e Munic\u00edpios para a execu\u00e7\u00e3o de a\u00e7\u00f5es locais para recupera\u00e7\u00e3o das \u00e1reas atingidas por desastre natural.",
+                "id": "547395",
+                "nome": "PL 4038/2012"
+            },
+            {
+                "ementa": "Institui incentivo fiscal para doa\u00e7\u00f5es a Fundos Municipais de Sa\u00fade.",
+                "id": "543268",
+                "nome": "PL 3798/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a proibi\u00e7\u00e3o das Seguradoras de Planos de Sa\u00fade estabelecerem limites de gastos com interna\u00e7\u00e3o.",
+                "id": "535333",
+                "nome": "PL 3285/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de as prestadoras do servi\u00e7o de telefonia expandirem a cobertura do servi\u00e7o para todos os distritos dos munic\u00edpios abrangidos em sua \u00e1rea de outorga.",
+                "id": "534068",
+                "nome": "PL 3143/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos arts. 7\u00ba, 27, 28, 29, 39, 48 e 49 da Constitui\u00e7\u00e3o Federal, de modo a vedar reajustes de subs\u00eddios dos cargos que especifica em \u00edndice superior ao aplicado, no mesmo per\u00edodo, ao sal\u00e1rio m\u00ednimo. ",
+                "id": "528631",
+                "nome": "PEC 113/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 184 da Constitui\u00e7\u00e3o Federal incluindo o \u00a7 6\u00ba para isentar do Imposto Predial Territorial Urbano - IPTU e Imposto Territorial Rural - ITR as terras, terrenos e edifica\u00e7\u00f5es das comunidades quilombolas.",
+                "id": "552385",
+                "nome": "PEC 203/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a for\u00e7a de Lei para as decis\u00f5es das Comiss\u00f5es Intergestores bipartites e tripartites.",
+                "id": "538261",
+                "nome": "PEC 149/2012"
+            },
+            {
+                "ementa": "Fixa par\u00e2metros para a remunera\u00e7\u00e3o dos Auditores Fiscais da Receita Federal do Brasil, dos Auditores Fiscais do Trabalho e do grau ou n\u00edvel m\u00e1ximo da carreira dos servidores do Banco Central do Brasil.",
+                "id": "537337",
+                "nome": "PEC 147/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a for\u00e7a de Lei para as decis\u00f5es das Comiss\u00f5es Intergestores bipartites e tripartites",
+                "id": "536824",
+                "nome": "PEC 144/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CPITRAES",
+            "SUBSISFI",
+            "CCJC",
+            "PL355504",
+            "PL602505",
+            "SUBASFED"
+        ],
+        "estado": "TO",
+        "id": "160648",
+        "nome": "J\u00daNIOR COIMBRA",
+        "partido": "PMDB",
+        "proposicoes": []
+    }
+]

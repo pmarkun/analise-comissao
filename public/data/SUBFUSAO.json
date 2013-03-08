@@ -1,0 +1,395 @@
+[
+    {
+        "comissoes": [
+            "CEAGRIRU",
+            "CME",
+            "CMO",
+            "PEC40509",
+            "SUBFUSAO",
+            "SUBMIHPA",
+            "CAPADR",
+            "CESEGUR"
+        ],
+        "estado": "PA",
+        "id": "141561",
+        "nome": "WANDENKOLK GON\u00c7ALVES",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "498050",
+                "nome": "PL 999/2011"
+            },
+            {
+                "ementa": "Isenta do imposto sobre produtos industrializados as motocicletas, nas condi\u00e7\u00f5es que fixa.",
+                "id": "562057",
+                "nome": "PL 4791/2012"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a criar o Col\u00e9gio Militar de Concei\u00e7\u00e3o do Araguaia, no Estado do Par\u00e1.",
+                "id": "538246",
+                "nome": "PL 3496/2012"
+            },
+            {
+                "ementa": "Estabelece, no \u00e2mbito da Uni\u00e3o, dos Estados, do Distrito Federal e dos Munic\u00edpios, restri\u00e7\u00f5es aplic\u00e1veis aos atos de nomea\u00e7\u00e3o para cargos em comiss\u00e3o e de designa\u00e7\u00e3o para fun\u00e7\u00f5es de confian\u00e7a, bem como para inscri\u00e7\u00f5es em concursos p\u00fablicos destinados ao provimento dos cargos que discrimina, e d\u00e1 outras provid\u00eancias.",
+                "id": "538245",
+                "nome": "PL 3495/2012"
+            },
+            {
+                "ementa": "Acrescenta inciso XII ao art. 167 da Cosntitui\u00e7\u00e3o Federal. ",
+                "id": "547944",
+                "nome": "PEC 189/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "PEC20712",
+            "PEC44309",
+            "PL712310",
+            "SUBMERCO",
+            "CCJC",
+            "CEAGRIRU",
+            "MERCOSUL",
+            "PEC00511",
+            "SUBCANA",
+            "SUBFUSAO"
+        ],
+        "estado": "PR",
+        "id": "73768",
+        "nome": "DILCEU SPERAFICO",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao inciso XXXIII do art. 7\u00ba da Constitui\u00e7\u00e3o Federal, para autorizar o trabalho sob o regime de tempo parcial a partir dos quatorze anos de idade.",
+                "id": "500183",
+                "nome": "PEC 18/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CPITRAPE",
+            "CSPCCO",
+            "PEC00511",
+            "PL355504",
+            "SUBMERCO",
+            "CCJC",
+            "CMADS",
+            "CPITRAES",
+            "PEC03711",
+            "PEC11111",
+            "PEC44309",
+            "PL157211",
+            "PL161096",
+            "PL602505",
+            "SUBCANA",
+            "SUBFUSAO",
+            "SUBLEITE"
+        ],
+        "estado": "RO",
+        "id": "141537",
+        "nome": "MOREIRA MENDES",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre o conceito de trabalho an\u00e1logo ao de escravo.",
+                "id": "544185",
+                "nome": "PL 3842/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CMMC",
+            "CSSF",
+            "SUBAPROF",
+            "SUBMERCO",
+            "CAPADR",
+            "CPITRAES",
+            "PL749506",
+            "SUBFUSAO",
+            "SUBSANCA"
+        ],
+        "estado": "PR",
+        "id": "74377",
+        "nome": "ANDR\u00c9 ZACHAROW",
+        "partido": "PMDB",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "PEC03711",
+            "PEC11111",
+            "PL712310",
+            "CCTCI",
+            "SUBCANA",
+            "SUBFUSAO"
+        ],
+        "estado": "PA",
+        "id": "141335",
+        "nome": "BETO FARO",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Determina a observ\u00e2ncia do princ\u00edpio do conte\u00fado local nas aquisi\u00e7\u00f5es de bens e contrata\u00e7\u00f5es de servi\u00e7os nos empreendimentos de explora\u00e7\u00e3o de recursos h\u00eddricos para fins de gera\u00e7\u00e3o de energia el\u00e9trica, e d\u00e1 outras provid\u00eancias.  ",
+                "id": "526515",
+                "nome": "PL 2659/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto Territorial para as comunidades remanescentes de quilombos, e d\u00e1 outras provid\u00eancias.",
+                "id": "513390",
+                "nome": "PL 1892/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o limite de tempo para o atendimento ao p\u00fablico nos servi\u00e7os banc\u00e1rios prestados no interior das respectivas ag\u00eancias e dos demais estabelecimentos de cr\u00e9dito, e d\u00e1 outras provid\u00eancias.",
+                "id": "509003",
+                "nome": "PL 1589/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre crit\u00e9rios complementares para a execu\u00e7\u00e3o da pol\u00edtica de estoques p\u00fablicos vinculados ao programa de garantia dos pre\u00e7os m\u00ednimos e d\u00e1 outras provid\u00eancias.  ",
+                "id": "502669",
+                "nome": "PL 1384/2011"
+            },
+            {
+                "ementa": "Altera os arts. 6\u00ba e 8\u00ba, da Lei n\u00ba 7.990, de 28 de dezembro de 1989, o inciso II, do art. 2\u00ba, da Lei n\u00ba 8.001, de 13 de mar\u00e7o de 1990, e d\u00e1 outras provid\u00eancias.",
+                "id": "502668",
+                "nome": "PL 1383/2011"
+            },
+            {
+                "ementa": "Inclui os \u00a7\u00a7 1\u00ba e 2\u00ba, ao art. 14, da Lei n\u00ba 11.947, de 16 de junho de 2009, e d\u00e1 outras provid\u00eancias.",
+                "id": "536179",
+                "nome": "PL 3366/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CPITRAES",
+            "SUBAGRIF",
+            "SUBFUSAO",
+            "CFT",
+            "SUBENDIV"
+        ],
+        "estado": "MG",
+        "id": "3151",
+        "nome": "JAIRO ATA\u00cdDE",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Adiciona inciso e par\u00e1grafo ao art. 39 da Lei n\u00ba 8.078, de 11 de setembro de 1990, para vedar d\u00e9bitos e cobran\u00e7as em conta sem pr\u00e9via e expressa autoriza\u00e7\u00e3o do titular da conta.",
+                "id": "512564",
+                "nome": "PL 1848/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a classifica\u00e7\u00e3o dos medicamentos antimicrobianos, segundo a sua import\u00e2ncia para a sa\u00fade humana e para a sa\u00fade animal, e d\u00e1 outras provid\u00eancias.",
+                "id": "512563",
+                "nome": "PL 1847/2011"
+            },
+            {
+                "ementa": "Altera a denomina\u00e7\u00e3o da Usina Hidrel\u00e9trica de Tucurui, situada no rio Tocantins, no Estado do Par\u00e1, para Usina Hidrel\u00e9trica Vice-Presidente da Rep\u00fablica Jos\u00e9 Alencar Gomes da Silva.",
+                "id": "496477",
+                "nome": "PL 862/2011"
+            },
+            {
+                "ementa": "Altera o art. 140 da Lei n\u00ba 9.503, de 1997, acrescentando o \u00a7 2\u00ba.",
+                "id": "534433",
+                "nome": "PL 3191/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CPITRAES",
+            "SUBCANA",
+            "SUBFUSAO",
+            "CMADS",
+            "SUBENDIV",
+            "SUBMERCO"
+        ],
+        "estado": "MT",
+        "id": "141448",
+        "nome": "HOMERO PEREIRA",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.972, de 2000, que institui a classifica\u00e7\u00e3o de produtos vegetais, subprodutos e res\u00edduos de valor econ\u00f4mico, e d\u00e1 outras provid\u00eancias.",
+                "id": "518113",
+                "nome": "PL 2182/2011"
+            },
+            {
+                "ementa": "Institui o Programa \"Horta na Escola\" e d\u00e1 outras provid\u00eancias.",
+                "id": "518110",
+                "nome": "PL 2181/2011"
+            },
+            {
+                "ementa": "Institui o Programa \"Horta na Escola\", que disp\u00f5e sobre medidas de incentivo \u00e0 utiliza\u00e7\u00e3o de hortas nas escolas como meio de promo\u00e7\u00e3o da educa\u00e7\u00e3o e do desenvolvimento, acrescendo o inciso VII, no art. 11, da Lei n\u00ba 9.394, de 20 de dezembro de 1996.",
+                "id": "556698",
+                "nome": "PL 4516/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "PL749506",
+            "ALTOSEST",
+            "CE",
+            "PEC40509",
+            "PL803510",
+            "SUBFUSAO"
+        ],
+        "estado": "GO",
+        "id": "74812",
+        "nome": "PEDRO CHAVES",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Vin\u00edcius Calebe Xavier Oliveira Reis Sardinha\" o campus de Campos Belos do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia Goiano, no Estado de Goi\u00e1s.",
+                "id": "563932",
+                "nome": "PL 4880/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CME",
+            "SUBFUSAO"
+        ],
+        "estado": "PR",
+        "id": "73781",
+        "nome": "NELSON MEURER",
+        "partido": "PP",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "PEC40509",
+            "CTD",
+            "SUBFUSAO"
+        ],
+        "estado": "MA",
+        "id": "160590",
+        "nome": "H\u00c9LIO SANTOS",
+        "partido": "PSD",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CDHM",
+            "PEC40509",
+            "PL161096",
+            "SUBCOPA",
+            "SUBFUSAO",
+            "CAPADR",
+            "SUBFIPAC"
+        ],
+        "estado": "RO",
+        "id": "74359",
+        "nome": "NILTON CAPIXABA",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produto Industrializados - IPI - para motos adquiridas por mototaxistas credenciados em cooperativas regulamentadas nos estados e munic\u00edpios, nas condi\u00e7\u00f5es que estabelece a Lei n\u00ba 8.989, de 24 de fevereiro de 1995. ",
+                "id": "507521",
+                "nome": "PL 1544/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre parcelamento de d\u00e9bitos de empresas junto \u00e0 Secretaria da Receita Federal e \u00e0 Procuradoria-Geral da Fazenda Nacional.",
+                "id": "499927",
+                "nome": "PL 1201/2011"
+            },
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados para ve\u00edculos adquiridos pelos integrantes das carreiras que comp\u00f5em os \u00f3rg\u00e3os relacionados no art. 144 da Constitui\u00e7\u00e3o Federal, nas condi\u00e7\u00f5es que estabelece.",
+                "id": "497341",
+                "nome": "PL 913/2011"
+            },
+            {
+                "ementa": "Estabelece o monitoramento cont\u00ednuo da contamina\u00e7\u00e3o por merc\u00fario e por outros metais pesados relativa \u00e0 atividade de garimpo no territ\u00f3rio nacional e d\u00e1 outras provid\u00eancias.",
+                "id": "548498",
+                "nome": "PL 4087/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "COETICA",
+            "PEC47810",
+            "PL682610",
+            "SUBFUSAO",
+            "CAPADR",
+            "CCJC",
+            "PEC01095",
+            "PL803510",
+            "SUBCRIPE"
+        ],
+        "estado": "RS",
+        "id": "74399",
+        "nome": "ONYX LORENZONI",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre obrigatoriedade da fabrica\u00e7\u00e3o, distribui\u00e7\u00e3o e utiliza\u00e7\u00e3o de sacolas pl\u00e1sticas fabricadas em material degrad\u00e1vel ou oxi-biodegrad\u00e1vel, polipropileno, poliestireno, propileno, polietileno ou outros materiais, no padr\u00e3o de cores estabelecido pela Resolu\u00e7\u00e3o n\u00ba 275, de 25 de abril de 2001, do Conselho Nacional do Meio-Ambiente (CONAMA). ",
+                "id": "551685",
+                "nome": "PL 4194/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao inciso VI do art. 105 da Lei n\u00ba 9.503, de 23 de setembro de 1997, estabelecendo o capacete como equipamento de uso obrigat\u00f3rio para condutores de bicicletas.",
+                "id": "542847",
+                "nome": "PL 3773/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, inserindo o art. 54-A, para dispor sobre o tr\u00e2nsito, uso e registro de skates, patinetes e patins, e outras provid\u00eancias.\n\n",
+                "id": "542846",
+                "nome": "PL 3772/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o da denomina\u00e7\u00e3o \"Vinho Colonial\", sua produ\u00e7\u00e3o, fiscaliza\u00e7\u00e3o, controle e comercializa\u00e7\u00e3o.",
+                "id": "534358",
+                "nome": "PL 3183/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos artigos 19 e 20 da lei n\u00ba 7.827, de 27 de setembro de 1989, ampliando o prazo para apresenta\u00e7\u00e3o de relat\u00f3rio pelas institui\u00e7\u00f5es financeiras administradoras dos fundos constitucionais de financiamento e d\u00e1 outras provid\u00eancias.",
+                "id": "534309",
+                "nome": "PL 3169/2012"
+            },
+            {
+                "ementa": "Denomina \"Ponte da Legalidade\" a ponte a ser constru\u00edda sobre o Lago Gua\u00edba, ligando o local denominado Saco da Alemoa \u00e0 Rua Dona Teodora, no bairro Humait\u00e1, na cidade de Porto Alegre, capital do Estado do Rio Grande do Sul.",
+                "id": "534006",
+                "nome": "PL 3127/2012"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 50 da Constitui\u00e7\u00e3o Federal para permitir a convoca\u00e7\u00e3o de titulares de entidades da administra\u00e7\u00e3o indireta da Uni\u00e3o para prestar informa\u00e7\u00f5es.",
+                "id": "525414",
+                "nome": "PEC 104/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "CMO",
+            "SUBCANA",
+            "SUBFUSAO",
+            "CMADS",
+            "PL749506"
+        ],
+        "estado": "GO",
+        "id": "74367",
+        "nome": "LEANDRO VILELA",
+        "partido": "PMDB",
+        "proposicoes": []
+    }
+]

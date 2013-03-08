@@ -1,0 +1,447 @@
+[
+    {
+        "comissoes": [
+            "CEREFPOL",
+            "CTASP",
+            "PEC01095",
+            "PL157211",
+            "PL355504",
+            "CCJC",
+            "CEANISTI",
+            "SUBCOPA"
+        ],
+        "estado": "BA",
+        "id": "74060",
+        "nome": "DANIEL ALMEIDA",
+        "partido": "PCdoB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 12.154, de 23 de dezembro de 2009, para ampliar a compet\u00eancia recursal da C\u00e2mara de Recursos da Previd\u00eancia Complementar.",
+                "id": "520726",
+                "nome": "PL 2373/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a regulamenta\u00e7\u00e3o das profiss\u00f5es de Agente Comunit\u00e1rio de Sa\u00fade e Agente de Combate \u00e0s Endemias.",
+                "id": "502445",
+                "nome": "PL 1355/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o da Universidade Federal do Extremo Sul da Bahia - UFESB, no Estado da Bahia e d\u00e1 outras provid\u00eancias.",
+                "id": "502444",
+                "nome": "PL 1354/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o sal\u00e1rio m\u00ednimo a vigorar a partir de 1\u00ba de Janeiro de 2011 e estabelece regras permanentes para valoriza\u00e7\u00e3o deste.",
+                "id": "491636",
+                "nome": "PL 323/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "SUBCEF",
+            "SUBCOPA",
+            "SUBTELMO",
+            "CCTCI",
+            "CMO",
+            "PL346004",
+            "SUBFIPAC",
+            "SUBPNBL"
+        ],
+        "estado": "PB",
+        "id": "160674",
+        "nome": "HUGO MOTTA",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a oferta de acesso gratuito \u00e0 internet no interior de terminais aeroportu\u00e1rios.",
+                "id": "518888",
+                "nome": "PL 2224/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de os computadores comercializados no Brasil com benef\u00edcios fiscais do Programa de Inclus\u00e3o Digital do Governo Federal disporem de sistemas que permitam seu uso por portadores de defici\u00eancia visual.",
+                "id": "508804",
+                "nome": "PL 1569/2011"
+            },
+            {
+                "ementa": "Autoriza a cria\u00e7\u00e3o, pelo Poder Executivo, da Universidade Federal do Sert\u00e3o, com sede no munic\u00edpio de Patos, no Estado da Para\u00edba.",
+                "id": "505212",
+                "nome": "PL 1496/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o livre exerc\u00edcio da profiss\u00e3o de m\u00fasico.",
+                "id": "495000",
+                "nome": "PL 743/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a extin\u00e7\u00e3o da obrigatoriedade de que contratos de concess\u00e3o contenham cl\u00e1usula de reajuste de tarifas e d\u00e1 outras provid\u00eancias.",
+                "id": "545627",
+                "nome": "PL 3928/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a informa\u00e7\u00e3o do ano de fabrica\u00e7\u00e3o e do ano-modelo no Certificado de Registro de Ve\u00edculo e no Certificado de Licenciamento Anual, previstos na Lei n\u00ba 9.503, de 23 de setembro de 1997.",
+                "id": "538955",
+                "nome": "PL 3547/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao \u00a7 8\u00ba do art. 144, da Constitui\u00e7\u00e3o Federal, para disciplinar a carreira dos agentes p\u00fablicos respons\u00e1veis pelo policiamento de tr\u00e2nsito, em \u00e2mbito municipal.",
+                "id": "512308",
+                "nome": "PEC 55/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CE",
+            "PL749506",
+            "PL767210",
+            "SUBFINED",
+            "CEENSI",
+            "CME",
+            "PEC40509",
+            "PL766310",
+            "SUBCOPA",
+            "SUBFIPAC"
+        ],
+        "estado": "SP",
+        "id": "141375",
+        "nome": "ALINE CORR\u00caA",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Pro\u00edbe a utiliza\u00e7\u00e3o de aparelhos de telefonia m\u00f3vel em estabelecimentos financeiros e d\u00e1 outras provid\u00eancias.",
+                "id": "502743",
+                "nome": "PL 1387/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de instala\u00e7\u00e3o de pain\u00e9is opacos defronte aos guich\u00eas de caixa de estabelecimentos financeiros.",
+                "id": "499879",
+                "nome": "PL 1195/2011"
+            },
+            {
+                "ementa": "Modifica o inciso XIV do art. 6\u00ba da Lei n\u00ba 7.713, de 22 de dezembro de 1988, que \"altera a legisla\u00e7\u00e3o do imposto de renda e d\u00e1 outras provid\u00eancias\", para isentar do imposto de renda os proventos percebidos pelos portadores de sequelas incapacitantes decorrentes de encefalite herp\u00e9tica.",
+                "id": "499877",
+                "nome": "PL 1194/2011"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Limeira, no Estado de S\u00e3o Paulo, o t\u00edtulo de Capital Nacional da Joia Folheada. ",
+                "id": "558429",
+                "nome": "PL 4647/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.934, de 18 de novembro de 1994, que Disp\u00f5e sobre o Registro P\u00fablico de Empresas Mercantis e Atividades Afins e d\u00e1 outras provid\u00eancias, para os fins de exigir a apresenta\u00e7\u00e3o de documento de identifica\u00e7\u00e3o com foto e o registro dos dados biom\u00e9tricos dos s\u00f3cios e administradores das empresas mercantis.",
+                "id": "558426",
+                "nome": "PL 4646/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a repress\u00e3o \u00e0 viol\u00eancia contra a mulher, alterando dispositivos da Lei n\u00ba 11.340, de 7 de agosto de 2006 - Lei Maria da Penha, e d\u00e1 outras provid\u00eancias.",
+                "id": "556589",
+                "nome": "PL 4501/2012"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Americana, no Estado de S\u00e3o Paulo, o t\u00edtulo de Capital Nacional da Moda. ",
+                "id": "553505",
+                "nome": "PL 4319/2012"
+            },
+            {
+                "ementa": "Estabelece cota m\u00ednima para a contrata\u00e7\u00e3o obrigat\u00f3ria de artistas de baixa renda e de artistas idosos de baixa renda nas produ\u00e7\u00f5es audiovisuais financiadas por recursos p\u00fablicos.",
+                "id": "546657",
+                "nome": "PL 3992/2012"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Ca\u00e7apava, Estado de S\u00e3o Paulo, o t\u00edtulo de \"Capital Nacional do Antigomobilismo\".",
+                "id": "544169",
+                "nome": "PL 3841/2012"
+            },
+            {
+                "ementa": "Altera o Art. 473 da Consolida\u00e7\u00e3o das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para permitir que o empregado falte servi\u00e7o para acompanhar o filho menor de idade sofrendo de doen\u00e7a infectocontagiosa.",
+                "id": "539493",
+                "nome": "PL 3572/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDC",
+            "COETICA",
+            "CFFC",
+            "SUBCOPA"
+        ],
+        "estado": "BA",
+        "id": "73808",
+        "nome": "S\u00c9RGIO BRITO",
+        "partido": "PSD",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "SUBFIPAC",
+            "SUBTFBAN",
+            "CAPADR",
+            "SUBCOPA"
+        ],
+        "estado": "PB",
+        "id": "74043",
+        "nome": "WELLINGTON ROBERTO",
+        "partido": "PR",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "PL346004",
+            "SUBCOPA",
+            "SUBFTREM",
+            "CEANISTI",
+            "CSPCCO",
+            "SUBSAUDE",
+            "SUBTELMO"
+        ],
+        "estado": "RJ",
+        "id": "141419",
+        "nome": "EDSON SANTOS",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Institui o Programa de Prote\u00e7\u00e3o e Promo\u00e7\u00e3o dos Mestres e Mestras dos Saberes e Fazeres das Culturas Populares.",
+                "id": "499716",
+                "nome": "PL 1176/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), para dispor sobre a estabilidade no emprego do trabalhador portador de doen\u00e7a grave.",
+                "id": "494861",
+                "nome": "PL 727/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDHM",
+            "PEC40509",
+            "PL161096",
+            "SUBCOPA",
+            "SUBFUSAO",
+            "CAPADR",
+            "SUBFIPAC"
+        ],
+        "estado": "RO",
+        "id": "74359",
+        "nome": "NILTON CAPIXABA",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produto Industrializados - IPI - para motos adquiridas por mototaxistas credenciados em cooperativas regulamentadas nos estados e munic\u00edpios, nas condi\u00e7\u00f5es que estabelece a Lei n\u00ba 8.989, de 24 de fevereiro de 1995. ",
+                "id": "507521",
+                "nome": "PL 1544/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre parcelamento de d\u00e9bitos de empresas junto \u00e0 Secretaria da Receita Federal e \u00e0 Procuradoria-Geral da Fazenda Nacional.",
+                "id": "499927",
+                "nome": "PL 1201/2011"
+            },
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados para ve\u00edculos adquiridos pelos integrantes das carreiras que comp\u00f5em os \u00f3rg\u00e3os relacionados no art. 144 da Constitui\u00e7\u00e3o Federal, nas condi\u00e7\u00f5es que estabelece.",
+                "id": "497341",
+                "nome": "PL 913/2011"
+            },
+            {
+                "ementa": "Estabelece o monitoramento cont\u00ednuo da contamina\u00e7\u00e3o por merc\u00fario e por outros metais pesados relativa \u00e0 atividade de garimpo no territ\u00f3rio nacional e d\u00e1 outras provid\u00eancias.",
+                "id": "548498",
+                "nome": "PL 4087/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDEIC",
+            "CEXCHEVR",
+            "CEXCOPA",
+            "SUBCOPA",
+            "SUBEERJ",
+            "SUBSETEL",
+            "CDC",
+            "CFFC",
+            "SUBCEF",
+            "SUBSAUDE"
+        ],
+        "estado": "RJ",
+        "id": "76287",
+        "nome": "MARCELO MATOS",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados (IPI) sobre os ve\u00edculos utilizados no transporte escolar, nas condi\u00e7\u00f5es que determina.",
+                "id": "521998",
+                "nome": "PL 2421/2011"
+            },
+            {
+                "ementa": "Cria o Fundo de Apoio a Programas de Gest\u00e3o e Tratamento de Res\u00edduos S\u00f3lidos e Hospitalares Urbanos - Funalixo.",
+                "id": "500796",
+                "nome": "PL 1253/2011"
+            },
+            {
+                "ementa": "Regulamenta a venda de bilhetes para apresenta\u00e7\u00f5es art\u00edsticas e jogos de futebol.",
+                "id": "499754",
+                "nome": "PL 1182/2011"
+            },
+            {
+                "ementa": "Institui a meia-entrada para professores da rede p\u00fablica e privada em estabelecimentos que promovam lazer e cultura e d\u00e1 outras provid\u00eancias.",
+                "id": "497444",
+                "nome": "PL 932/2011"
+            },
+            {
+                "ementa": "Altera o Art. 20 da Lei n\u00ba 8.742, de 07 de dezembro de 1993, para estender benef\u00edcio ao respons\u00e1vel que comprove dedica\u00e7\u00e3o integral ao idoso e/ou ao portador de defici\u00eancia, beneficiado pela presta\u00e7\u00e3o continuada da assist\u00eancia social.",
+                "id": "497025",
+                "nome": "PL 890/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.899, de 29 de junho de 1994, para dispor sobre a gratuidade para os acompanhantes de pessoas com defici\u00eancia.",
+                "id": "495536",
+                "nome": "PL 780/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.069, de 13 de julho de 1990, restringindo a veicula\u00e7\u00e3o de propaganda de produtos infantis.",
+                "id": "494596",
+                "nome": "PL 702/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.433, de 8 de janeiro de 1997, que institui a Pol\u00edtica Nacional de Recursos H\u00eddricos, para destinar parcela da cobran\u00e7a do uso de recursos h\u00eddricos aos munic\u00edpios formadores da respectiva bacia hidrogr\u00e1fica.",
+                "id": "494140",
+                "nome": "PL 655/2011"
+            },
+            {
+                "ementa": "Institui diretrizes para a reutiliza\u00e7\u00e3o e  reciclagem de res\u00edduos de constru\u00e7\u00e3o civil e d\u00e1 outras provid\u00eancias. ",
+                "id": "493858",
+                "nome": "PL 640/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 7\u00ba ao art. 6\u00ba da Lei n\u00ba 10.820, de 17 de dezembro de 2003, que \"Disp\u00f5e sobre a autoriza\u00e7\u00e3o para desconto de presta\u00e7\u00f5es em folha de pagamento, e d\u00e1 outras provid\u00eancias\", com a finalidade de vedar a contrata\u00e7\u00e3o n\u00e3o presencial nas opera\u00e7\u00f5es de cr\u00e9dito consignado com titulares de benef\u00edcios de aposentadoria e pens\u00e3o do Regime Geral de Previd\u00eancia Social.",
+                "id": "557471",
+                "nome": "PL 4582/2012"
+            },
+            {
+                "ementa": "Acrescenta novo \u00a7 2\u00ba ao art. 17 da Lei n\u00ba 8.245, de 18 de outubro de 1991, que disp\u00f5e sobre as loca\u00e7\u00f5es dos im\u00f3veis urbanos e os procedimentos a ela pertinentes, para disciplinar a cobran\u00e7a de aluguel em centros comerciais (\"Shopping centers\"). ",
+                "id": "556007",
+                "nome": "PL 4447/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDC",
+            "PEC00511",
+            "PL157211",
+            "PL766310",
+            "SUBEERJ",
+            "SUBSAUDE",
+            "SUBSETEL",
+            "SUBTELMO",
+            "CCTCI",
+            "PEC03711",
+            "SUBCOPA"
+        ],
+        "estado": "RJ",
+        "id": "160512",
+        "nome": "AUREO",
+        "partido": "PRTB",
+        "proposicoes": [
+            {
+                "ementa": "Isenta do Imposto sobre Produtos Industrializados os ve\u00edculos adquiridos por bombeiros e policiais militares, na forma que estabelece.",
+                "id": "531863",
+                "nome": "PL 2975/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre meio de pagamento de tarifa de ped\u00e1gio.",
+                "id": "525619",
+                "nome": "PL 2620/2011"
+            },
+            {
+                "ementa": "Disciplina a aplica\u00e7\u00e3o de multa \u00e0s Construtoras  e  \u00e0s Incorporadoras por atraso na entrega do im\u00f3vel ao comprador-consumidor.",
+                "id": "525392",
+                "nome": "PL 2606/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a comercializa\u00e7\u00e3o de programas de computador e jogos eletr\u00f4nicos.",
+                "id": "517947",
+                "nome": "PL 2166/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a promo\u00e7\u00e3o de policiais militares reformados por invalidez permanente resultante de les\u00e3o ou enfermidade adquiridas em consequ\u00eancia do exerc\u00edcio da fun\u00e7\u00e3o policial.",
+                "id": "513668",
+                "nome": "PL 1906/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a complementa\u00e7\u00e3o de aposentadoria de portu\u00e1rios vinculados \u00e0s Administra\u00e7\u00f5es Portu\u00e1rias subordinadas \u00e0 Secretaria Especial de Portos e d\u00e1 outras provid\u00eancias",
+                "id": "503884",
+                "nome": "PL 1444/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a validade dos cr\u00e9ditos dos planos pr\u00e9-pagos e das franquias de minutos dos planos p\u00f3s-pagos do servi\u00e7o de telefonia.",
+                "id": "502160",
+                "nome": "PL 1345/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 78-A \u00e0 Lei n\u00ba 9.472, de 16 de julho de 1997, para estabelecer regras acerca da oferta, pelas prestadoras dos servi\u00e7os de telecomunica\u00e7\u00f5es, de relat\u00f3rios detalhados dos servi\u00e7os prestados. ",
+                "id": "502158",
+                "nome": "PL 1344/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, dispondo sobre a homologa\u00e7\u00e3o junto \u00e0 Anatel dos contratos firmados entre operadoras de telecomunica\u00e7\u00f5es e empresas terceirizadas.",
+                "id": "500999",
+                "nome": "PL 1269/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de as empresas prestadoras do servi\u00e7o de telefonia fixa e m\u00f3vel manter postos de servi\u00e7os presenciais nas localidades abrangidas por sua \u00e1rea de concess\u00e3o.",
+                "id": "500810",
+                "nome": "PL 1256/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a fabrica\u00e7\u00e3o e venda, em territ\u00f3rio nacional, de ve\u00edculos utilit\u00e1rios movidos a \u00f3leo diesel, e d\u00e1 outras provid\u00eancias. ",
+                "id": "498116",
+                "nome": "PL 1013/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a elabora\u00e7\u00e3o de estudo de impacto ambiental para o licenciamento de antenas esta\u00e7\u00f5es r\u00e1dio-base de celulares.",
+                "id": "496208",
+                "nome": "PL 845/2011"
+            },
+            {
+                "ementa": "Modifica o art. 75 da Lei n\u00ba 8.069, de 13 de julho de 1990, que disp\u00f5e sobre o Estatuto da Crian\u00e7a e do Adolescente.",
+                "id": "493413",
+                "nome": "PL 591/2011"
+            },
+            {
+                "ementa": "Modifica a Lei n\u00ba 9.294, de 15 de julho de 1996, estabelecendo restri\u00e7\u00f5es adicionais \u00e0 publicidade de bebidas alc\u00f3olicas.",
+                "id": "493412",
+                "nome": "PL 590/2011"
+            },
+            {
+                "ementa": "Regulamenta a venda de compostos l\u00edquidos prontos para conusmo",
+                "id": "492124",
+                "nome": "PL 419/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 9.503, de 23 de setembro de 1997, para dispor sobre a comprova\u00e7\u00e3o do uso de subst\u00e2ncia psicoativa.",
+                "id": "548010",
+                "nome": "PL 4058/2012"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 9.503, de 1997, para dispor sobre a comprova\u00e7\u00e3o do uso de subst\u00e2ncia psicoativa.",
+                "id": "534920",
+                "nome": "PL 3241/2012"
+            },
+            {
+                "ementa": "Obriga a disponibiliza\u00e7\u00e3o de \u00e1lcool em gel em pra\u00e7as de alimenta\u00e7\u00e3o em shopping centers. ",
+                "id": "534334",
+                "nome": "PL 3181/2012"
+            },
+            {
+                "ementa": "Isenta do Imposto sobre Produtos Industrializados os ve\u00edculos adquiridos por bombeiros e policiais militares, na forma que estabelece.",
+                "id": "534333",
+                "nome": "PL 3180/2012"
+            }
+        ]
+    }
+]

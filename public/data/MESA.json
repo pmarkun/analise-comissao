@@ -1,0 +1,401 @@
+[
+    {
+        "comissoes": [
+            "MESA",
+            "SUBSISFI"
+        ],
+        "estado": "PR",
+        "id": "141378",
+        "nome": "ANDRE VARGAS",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Institui, no Calend\u00e1rio Oficial Nacional, o dia 22 de julho como o Dia da Paz e da Concilia\u00e7\u00e3o.",
+                "id": "524191",
+                "nome": "PL 2546/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.630, de 25 de fevereiro de 1993, para a inclus\u00e3o da atividade de amarra\u00e7\u00e3o de navios no trabalho portu\u00e1rio executado nos portos organizados, e d\u00e1 outras provid\u00eancias.",
+                "id": "548442",
+                "nome": "PL 4083/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o exerc\u00edcio do direito de resposta previsto no art. 5\u00ba, inciso V, da Constitui\u00e7\u00e3o Federal, e d\u00e1 outras providencias.",
+                "id": "538530",
+                "nome": "PL 3523/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXVIOL",
+            "MESA"
+        ],
+        "estado": "MS",
+        "id": "74373",
+        "nome": "BIFFI",
+        "partido": "PT",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "CCJC",
+            "GTCL",
+            "MESA"
+        ],
+        "estado": "PE",
+        "id": "74439",
+        "nome": "WOLNEY QUEIROZ",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta \u00a73\u00ba ao art. 6\u00ba da Lei n\u00ba 11.882, de 23 de dezembro de 2008, para dispor sobre a informa\u00e7\u00e3o da baixa do gravame referente a ve\u00edculo financiado, junto ao \u00f3rg\u00e3o ou entidade executivo de tr\u00e2nsito.",
+                "id": "562359",
+                "nome": "PL 4805/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCTCI",
+            "SUBCOPLP",
+            "CDHM",
+            "CLP",
+            "MERCOSUL",
+            "MESA",
+            "SUBAPROF"
+        ],
+        "estado": "PR",
+        "id": "74385",
+        "nome": "TAKAYAMA",
+        "partido": "PSC",
+        "proposicoes": [
+            {
+                "ementa": "Institui o Dia Nacional da Ora\u00e7\u00e3o, Adora\u00e7\u00e3o e Celebra\u00e7\u00e3o a Deus.",
+                "id": "531970",
+                "nome": "PL 2986/2011"
+            },
+            {
+                "ementa": "Inclui o \u00a7 1\u00ba-A ao art. 44 do C\u00f3digo Civil de 2002 para outorgar \u00e0s organiza\u00e7\u00f5es religiosas o direito de prote\u00e7\u00e3o ao registro do nome designativo",
+                "id": "528544",
+                "nome": "PL 2768/2011"
+            },
+            {
+                "ementa": "Institui o Conselho Nacional de Ministros de Confiss\u00e3o Religiosa.",
+                "id": "564126",
+                "nome": "PL 4909/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos arts. 544, 1.561, 1.723, 1.789, 1.797, 1.829, 1.830, 1.831, 1.832, 1.836, 1.837, 1.838, 1.839, 1.845, 1.846 e 2.003 da Lei n\u00ba 10.460, de 10 de janeiro de 2002, que \"Institui o C\u00f3digo Civil\", e ao art. 990 da Lei n\u00ba 5.869, de 11 de janeiro de 1973, que \"Institui o C\u00f3digo de Processo Civil\", acrescenta e revoga dispositivos e d\u00e1 outras provid\u00eancias.",
+                "id": "564125",
+                "nome": "PL 4908/2012"
+            },
+            {
+                "ementa": "Altera o art. 105 da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para estabelecer a obrigatoriedade de uso de dispositivo de seguran\u00e7a veicular de registro e armazenamento - \"caixa-preta\".",
+                "id": "561590",
+                "nome": "PL 4777/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CPITRAES",
+            "CREDN",
+            "PEC00511",
+            "PEC03711",
+            "CCJC",
+            "CESEGUR",
+            "CSPCCO",
+            "CVT",
+            "MESA",
+            "PL602505",
+            "SUBSEGPU"
+        ],
+        "estado": "PE",
+        "id": "74419",
+        "nome": "GONZAGA PATRIOTA",
+        "partido": "PSB",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Rodovia Joaquim Pinto Lapa\" o trecho da Rodovia BR-408 situado no Estado de Pernambuco.",
+                "id": "520151",
+                "nome": "PL 2329/2011"
+            },
+            {
+                "ementa": "Estabelece os procedimentos e crit\u00e9rios de que trata o artigo primeiro do Acordo de admiss\u00e3o de t\u00edtulos e graus universit\u00e1rios para o exerc\u00edcio de atividades acad\u00eamicas nos estados partes do MERCOSUL promulgado pelo Decreto n\u00ba 5.518, de 2005, relativos aos t\u00edtulos de p\u00f3s-gradua\u00e7\u00e3o e unicamente para o exerc\u00edcio de atividades de doc\u00eancia e pesquisa nas institui\u00e7\u00f5es de ensino superior no Brasil e d\u00e1 outras provid\u00eancias.",
+                "id": "514990",
+                "nome": "PL 1981/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo ao art. 115 da Lei n\u00ba 9.503, de 23 de setembro de 1997, para tornar obrigat\u00f3ria a grava\u00e7\u00e3o dos n\u00fameros da placa de identifica\u00e7\u00e3o do ve\u00edculo no para-brisa e no vidro traseiro do carro.",
+                "id": "502697",
+                "nome": "PL 1386/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.394, de 20 de dezembro de 1996, que \"estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional\".",
+                "id": "498722",
+                "nome": "PL 1104/2011"
+            },
+            {
+                "ementa": "Modifica e revoga os artigos que especifica da Lei n\u00ba 8.935, de 18 de novembro de 1994, que regulamenta o art. 236 da Constitui\u00e7\u00e3o Federal, e d\u00e1 outras provid\u00eancias. ",
+                "id": "496354",
+                "nome": "PL 850/2011"
+            },
+            {
+                "ementa": "Altera o art. 29 da Lei n\u00ba 8.935, de 18 de novembro de 1994, que regulamenta o art. 236 da Constitui\u00e7\u00e3o Federal, dispondo sobre servi\u00e7os notariais e de registro.",
+                "id": "493579",
+                "nome": "PL 612/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+                "id": "492102",
+                "nome": "PL 416/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional.",
+                "id": "563816",
+                "nome": "PL 4870/2012"
+            },
+            {
+                "ementa": "Modifica a reda\u00e7\u00e3o do caput do art. 67-A da Lei n\u00ba 9.503, de 23 de setembro de 1997, de modo a caracterizar o motorista profissional como aquele que possui v\u00ednculo empregat\u00edcio.",
+                "id": "558182",
+                "nome": "PL 4633/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.989, de 24 de fevereiro de 1995, que \"disp\u00f5e sobre a Isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI, na aquisi\u00e7\u00e3o de autom\u00f3veis para utiliza\u00e7\u00e3o no transporte aut\u00f4nomo de passageiros, bem como por pessoas portadoras de defici\u00eancia f\u00edsica, e d\u00e1 outras provid\u00eancias\", e a Lei n\u00ba 8.383, de 30 de dezembro de 1991, que \"Institui a Unidade Fiscal de Refer\u00eancia, altera a legisla\u00e7\u00e3o do imposto de renda e d\u00e1 outras provid\u00eancias\"",
+                "id": "555874",
+                "nome": "PL 4430/2012"
+            },
+            {
+                "ementa": "Altera o art. 18 do Decreto-lei n.\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal.",
+                "id": "543905",
+                "nome": "PL 3832/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "SUBAGRIF",
+            "SUBLEITE",
+            "CME",
+            "MESA",
+            "SUBTRACA"
+        ],
+        "estado": "MG",
+        "id": "141557",
+        "nome": "VITOR PENIDO",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Altera o Decreto-Lei n\u00ba 201, de 27 de fevereiro de 1967,  que \"Disp\u00f5e sobre a responsabilidade dos Prefeitos e Vereadores,  e d\u00e1 outras provid\u00eancias.\"",
+                "id": "546374",
+                "nome": "PL 3973/2012"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Deputado Hugo Aguiar\" a rodovia BR-352, no Estado de Minas Gerais.",
+                "id": "534107",
+                "nome": "PL 3150/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "MESA"
+        ],
+        "estado": "RN",
+        "id": "74324",
+        "nome": "HENRIQUE EDUARDO ALVES",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "D\u00e1 a denomina\u00e7\u00e3o de Aeroporto Internacional do Rio Grande do Norte/S\u00e3o Gon\u00e7alo do Amarante - Ministro Aluizio Alves, ao Aeroporto de S\u00e3o Gon\u00e7alo do Amarante, no Estado do Rio Grande do Norte",
+                "id": "528285",
+                "nome": "PL 2755/2011"
+            },
+            {
+                "ementa": "Altera o art. 233-A, da Lei n\u00ba 4.737, de 15 de julho de 1965 (C\u00f3digo Eleitoral) para dispor sobre o exerc\u00edcio do voto pelos eleitores localizados fora de seu domic\u00edlio eleitoral nas elei\u00e7\u00f5es presidenciais, federais e estaduais.",
+                "id": "491009",
+                "nome": "PL 76/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a apropria\u00e7\u00e3o de recursos decorrentes de aplica\u00e7\u00f5es financeiras constitu\u00eddas de redu\u00e7\u00f5es no imposto sobre a renda devido pelos contribuintes, conforme previsto no Decreto-lei n\u00b0 157, de 10 de fevereiro de 1967.",
+                "id": "558301",
+                "nome": "PL 4636/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a jornada de trabalho dos Enfermeiros, T\u00e9cnicos e Auxiliares de Enfermagem e Parteiras e d\u00e1 outras provid\u00eancias.",
+                "id": "547479",
+                "nome": "PL 4040/2012"
+            },
+            {
+                "ementa": "Estabelece regras para a recupera\u00e7\u00e3o das \u00e1reas de preserva\u00e7\u00e3o permanente (APPs). ",
+                "id": "544247",
+                "nome": "PL 3846/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "MESA",
+            "MERCOSUL"
+        ],
+        "estado": "RN",
+        "id": "141428",
+        "nome": "F\u00c1BIO FARIA",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Obriga a inclus\u00e3o de ciclovias quando do projeto e da execu\u00e7\u00e3o de obras rodovi\u00e1rias federais.",
+                "id": "525881",
+                "nome": "PL 2629/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a constru\u00e7\u00e3o de biciclet\u00e1rios em \u00f3rg\u00e3os p\u00fablicos federais.",
+                "id": "524950",
+                "nome": "PL 2583/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.820, de 17 de dezembro de 2003, que \"Disp\u00f5e sobre a autoriza\u00e7\u00e3o para desconto de presta\u00e7\u00f5es em folha de pagamento, e d\u00e1 outras provid\u00eancias\", para os fins de vedar a contrata\u00e7\u00e3o de empr\u00e9stimo consignado por aposentado ou pensionista mediante procura\u00e7\u00e3o. ",
+                "id": "516822",
+                "nome": "PL 2085/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a recupera\u00e7\u00e3o judicial do devedor pessoa f\u00edsica.",
+                "id": "513856",
+                "nome": "PL 1922/2011"
+            },
+            {
+                "ementa": "Define o crime de Intimida\u00e7\u00e3o escolar no C\u00f3digo Penal Brasileiro e d\u00e1 outras provid\u00eancias.   ",
+                "id": "498107",
+                "nome": "PL 1011/2011"
+            },
+            {
+                "ementa": "Altera o art. 17 do C\u00f3digo de Processo Penal, e o art. 24 do C\u00f3digo de Processo Penal Militar, para dispor sobre ve-da\u00e7\u00f5es \u00e0 divulga\u00e7\u00e3o das informa\u00e7\u00f5es que especifica e d\u00e1 provid\u00eancias correlatas.",
+                "id": "492028",
+                "nome": "PL 410/2011"
+            },
+            {
+                "ementa": "Estabelece normas para o envio de ofertas de produtos ou servi\u00e7os e informa\u00e7\u00f5es sobre promo\u00e7\u00f5es por meio de servi\u00e7o de telecomunica\u00e7\u00f5es, cria o cadastro de usu\u00e1rios de telecomunica\u00e7\u00f5es inabilitados para o recebimento de chamadas de telemarketing, e d\u00e1 outras provid\u00eancias. ",
+                "id": "556644",
+                "nome": "PL 4508/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 21 da Lei n\u00ba 8.212, de 24 de julho de 1991, para dispor sobre a contribui\u00e7\u00e3o previdenci\u00e1ria do cortador de pedra artesanal.",
+                "id": "540595",
+                "nome": "PL 3651/2012"
+            },
+            {
+                "ementa": "Determina a obrigatoriedade de vistorias peri\u00f3dicas das edifica\u00e7\u00f5es em \u00e1reas urbanas.\n",
+                "id": "538371",
+                "nome": "PL 3507/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "MESA",
+            "SUBPRSAL"
+        ],
+        "estado": "RJ",
+        "id": "73424",
+        "nome": "SIM\u00c3O SESSIM",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 3\u00ba-A, da Lei n\u00ba 5.859, de 11 de dezembro de 1972, dada pela Lei n\u00ba 10.208, de 23 de mar\u00e7o de 2001.",
+                "id": "506538",
+                "nome": "PL 1521/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o dos arts. 3\u00ba, 15 e 71 da Lei n\u00ba 10.741, de 1\u00ba de outubro de 2003, que \"disp\u00f5e sobre o Estatuto do Idoso e d\u00e1 outras provid\u00eancias\". Disp\u00f5e sobre a prioridade especial das pessoas maiores de 80 (oitenta) anos.",
+                "id": "539516",
+                "nome": "PL 3575/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXSANTA",
+            "MESA"
+        ],
+        "estado": "AL",
+        "id": "74050",
+        "nome": "MAUR\u00cdCIO QUINTELLA LESSA",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Institui o C\u00f3digo Nacional de Prote\u00e7\u00e3o aos Animais.",
+                "id": "517816",
+                "nome": "PL 2156/2011"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da atividade de gastr\u00f3logo e autoriza a cria\u00e7\u00e3o do Conselho Federal e dos Conselhos Regionais de Gastronomia.",
+                "id": "516781",
+                "nome": "PL 2079/2011"
+            },
+            {
+                "ementa": "Altera o inciso XIV da Lei n\u00ba 7.713, de 22 de dezembro de 1988, com a reda\u00e7\u00e3o dada pela Lei n\u00ba 11.052, de 29 de dezembro de 2004, para incluir entre os rendimentos isentos do imposto de renda os proventos percebidos pelos portadores de Esclerose Lateral Amiotr\u00f3fica.",
+                "id": "502356",
+                "nome": "PL 1348/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.294, de 15 de julho de 1996.",
+                "id": "500788",
+                "nome": "PL 1250/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "MESA"
+        ],
+        "estado": "AC",
+        "id": "74363",
+        "nome": "MARCIO BITTAR",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre as normas para fins de contrata\u00e7\u00e3o, conv\u00eanio ou parceria do Poder P\u00fablico com as Organiza\u00e7\u00f5es N\u00e3o-Governamentaiss - ONGs.",
+                "id": "527887",
+                "nome": "PL 2740/2011"
+            },
+            {
+                "ementa": "Disciplina as condi\u00e7\u00f5es para a nomea\u00e7\u00e3o para cargos em comiss\u00e3o e fun\u00e7\u00f5es de dire\u00e7\u00e3o na Administra\u00e7\u00e3o P\u00fablica Federal.",
+                "id": "508869",
+                "nome": "PL 1571/2011"
+            },
+            {
+                "ementa": "Altera dispositivos da Lei n\u00ba 9.096, de 19 de setembro de 1995 - que disp\u00f5e sobre os partidos pol\u00edticos e da Lei n\u00ba 9.504, de 30 de setembro de 1997 - Lei Eleitoral.",
+                "id": "496961",
+                "nome": "PL 878/2011"
+            },
+            {
+                "ementa": "Altera os arts. 8\u00ba, 26 e 29 da Lei n\u00ba  9.096, de 19 de setembro de 1995, que \"disp\u00f5e sobre partidos pol\u00edticos, regulamenta os arts. 17 e 14, \u00a7 3\u00b0, inciso V, da Constitui\u00e7\u00e3o Federal\", para dispor sobre a perda de mandato para o mandat\u00e1rio que deixar o partido e sobre cria\u00e7\u00e3o de novo partido e fus\u00e3o e incorpora\u00e7\u00e3o de partido. ",
+                "id": "493573",
+                "nome": "PL 610/2011"
+            },
+            {
+                "ementa": "Altera dispositivos do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal e da Lei n\u00ba 8.072, de 25 de julho de 1990, que trata dos crimes hediondos e d\u00e1 outras provid\u00eancias",
+                "id": "491595",
+                "nome": "PL 308/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as normas para identifica\u00e7\u00e3o de bens locados pela Uni\u00e3o.",
+                "id": "553822",
+                "nome": "PL 4339/2012"
+            },
+            {
+                "ementa": "Altera o art. 8\u00ba da Lei n\u00ba 9.096, de 19 de setembro de 1995, que \"disp\u00f5e sobre partidos pol\u00edticos, regulamenta os arts. 17 e 14, \u00a7 3\u00ba, inciso V, da Constitui\u00e7\u00e3o Federal\". ",
+                "id": "553821",
+                "nome": "PL 4338/2012"
+            },
+            {
+                "ementa": "Altera o art. 37 da Constitui\u00e7\u00e3o Federal, dispondo sobre o provimento de cargos comissionados do Poder Executivo e altera o art. 19 dos Atos das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias",
+                "id": "531423",
+                "nome": "PEC 126/2011"
+            }
+        ]
+    }
+]

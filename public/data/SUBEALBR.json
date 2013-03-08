@@ -1,0 +1,401 @@
+[
+    {
+        "comissoes": [
+            "CEAGRIRU",
+            "CME",
+            "CPITRAES",
+            "PEC20712",
+            "PL161096",
+            "SUBEALBR",
+            "SUBROYAL",
+            "CAPADR",
+            "CMADS",
+            "CMMC",
+            "PEC03711",
+            "PEC44309",
+            "SUBCORIO"
+        ],
+        "estado": "MG",
+        "id": "109152",
+        "nome": "BERNARDO SANTANA DE VASCONCELLOS",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 8.171, de 17 de janeiro de 1991, que disp\u00f5e sobre a pol\u00edtica agr\u00edcola, acrescentando dispositivos referentes \u00e0 atividade agr\u00edcola florestal. ",
+                "id": "526974",
+                "nome": "PL 2679/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre a obrigatoriedade de emiss\u00e3o de Boletins Informativos em caso de interdi\u00e7\u00e3o das rodovias federais.",
+                "id": "521598",
+                "nome": "PL 2408/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Jos\u00e9 Alencar\" o trecho da rodovia BR-381 Norte, entre as cidades de Belo Horizonte a Governador Valadares, no Estado de Minas Gerais.",
+                "id": "499345",
+                "nome": "PL 1141/2011"
+            },
+            {
+                "ementa": "Regulamenta o exerc\u00edcio da atividade das Cooperativas de Profissionais da Sa\u00fade que menciona e d\u00e1 outras provid\u00eancias.",
+                "id": "491631",
+                "nome": "PL 318/2011"
+            },
+            {
+                "ementa": "Determina que o cultivo de florestas plantadas ser\u00e1 enquadrado como atividade agr\u00edcola, revoga dispositivos que determinam o enquadramento dessas florestas como nativas, passa tal cultivo \u00e0 compet\u00eancia do Minist\u00e9rio da Agricultura, e d\u00e1 outras provid\u00eancias.",
+                "id": "491520",
+                "nome": "PL 288/2011"
+            },
+            {
+                "ementa": "Insere novo par\u00e1grafo ao art. 224 da Lei n\u00ba 4.737, de 15 de julho de 1965, C\u00f3digo Eleitoral, para determinar a realiza\u00e7\u00e3o de novas elei\u00e7\u00f5es quando o mandato de titular do Poder Executivo for cassado.",
+                "id": "491031",
+                "nome": "PL 86/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Benedito de Paula Nascimento\" o trecho da rodovia BR-146, entre as cidades de Arax\u00e1 e Patos de Minas, no Estado de Minas Gerais.",
+                "id": "491039",
+                "nome": "PL 93/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o penhor rural de madeira, produtos madeireiros e demais produtos da floresta plantada.",
+                "id": "491028",
+                "nome": "PL 83/2011"
+            },
+            {
+                "ementa": "Modifica a Lei  n\u00ba 10.833, de 29 de dezembro de 2003, que \"altera a Legisla\u00e7\u00e3o Tribut\u00e1ria Federal e d\u00e1 outras provid\u00eancias.\"",
+                "id": "491036",
+                "nome": "PL 90/2011"
+            },
+            {
+                "ementa": "Altera os arts. 1\u00ba, 2\u00ba e 3\u00ba do Decreto-lei n\u00ba 1.305, de 8 de janeiro de 1974, que disp\u00f5e sobre as contribui\u00e7\u00f5es de que tratam o art. 1\u00ba, do Decreto-lei n\u00ba 6.246, de 5 de fevereiro de 1944, e o art. 24, da Lei n\u00ba  5.107, de 13 de setembro de 1966, alterada pelo Decreto-lei n\u00ba 20, de 14 de setembro de 1966, para destin\u00e1-las ao\nServi\u00e7o Social do Transporte - SEST e ao Servi\u00e7o Nacional de Aprendizagem do Transporte - SENAT.",
+                "id": "491022",
+                "nome": "PL 77/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 6.015, de 31 dezembro de 1973, que disp\u00f5e sobre  Registros P\u00fablicos e \u00e0 Lei n\u00ba 10.406,  de 10 de janeiro de 2002, que instituiu o C\u00f3digo C\u00edvil , conferindo aos condom\u00ednios edilicios a oportunidade de se constitu\u00edrem como pessoas jur\u00eddicas.",
+                "id": "491025",
+                "nome": "PL 80/2011"
+            },
+            {
+                "ementa": "Denomina \"Viaduto Francisco Bilac Moreira Pinto\" o viaduto localizado na altura do Km 102 da BR-459  cruzamento com a Avenida Tuany Toledo, no Munic\u00edpio de Pouso Alegre, no Estado de Minas Gerais.",
+                "id": "546500",
+                "nome": "PL 3983/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 129 da Constitui\u00e7\u00e3o Federal, para facultar a propositura de a\u00e7\u00e3o penal subsidi\u00e1ria, nos casos de omiss\u00e3o injustificada do Minist\u00e9rio P\u00fablico e d\u00e1 outras provid\u00eancias.",
+                "id": "551490",
+                "nome": "PEC 194/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao caput do art. 62 da Constitui\u00e7\u00e3o Federal, para determinar o n\u00famero m\u00e1ximo de medidas provis\u00f3rias editadas por ano civil.",
+                "id": "544937",
+                "nome": "PEC 173/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXCHEVR",
+            "CME",
+            "SUBEALBR"
+        ],
+        "estado": "BA",
+        "id": "160676",
+        "nome": "FERNANDO TORRES",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Estabelece normas para apresenta\u00e7\u00e3o de trios el\u00e9tricos, carros de som ou similares que transitem com pessoas na parte superior, e d\u00e1 outras provid\u00eancias.",
+                "id": "518082",
+                "nome": "PL 2179/2011"
+            },
+            {
+                "ementa": "Regulamenta a profiss\u00e3o de fot\u00f3grafo e d\u00e1 outras provid\u00eancias",
+                "id": "518047",
+                "nome": "PL 2176/2011"
+            },
+            {
+                "ementa": "Estabelece normas para apresenta\u00e7\u00e3o de filmes em \u00f4nibus interestaduais.",
+                "id": "518046",
+                "nome": "PL 2175/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, obrigando as prestadoras dos servi\u00e7os de telefonia fixa e m\u00f3vel a emitirem sinaliza\u00e7\u00e3o sonora nas liga\u00e7\u00f5es telef\u00f4nicas originadas e terminadas no \u00e2mbito da rede da pr\u00f3pria prestadora.",
+                "id": "518043",
+                "nome": "PL 2174/2011"
+            },
+            {
+                "ementa": "Determina normas para escolas p\u00fablicas e d\u00e1 outras provid\u00eancias.",
+                "id": "509128",
+                "nome": "PL 1600/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.260, de 12 de julho de 2001, que disp\u00f5e sobre o Fundo de Financiamento ao Estudante do Ensino Superior - Fies.",
+                "id": "509126",
+                "nome": "PL 1599/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a instala\u00e7\u00e3o de detectores de metais em estabelecimentos de ensino em todo o territ\u00f3rio nacional.",
+                "id": "501515",
+                "nome": "PL 1294/2011"
+            },
+            {
+                "ementa": "Institui gratifica\u00e7\u00e3o para os empregados em geral.",
+                "id": "548101",
+                "nome": "PL 4065/2012"
+            },
+            {
+                "ementa": "Altera o art. 198 da Constitui\u00e7\u00e3o Federal e d\u00e1 outras provid\u00eancias.",
+                "id": "543841",
+                "nome": "PEC 167/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CFFC",
+            "PL355504",
+            "SUBEALBR",
+            "SUBTAV",
+            "CEANISTI",
+            "CVT",
+            "GTCL",
+            "PEC01011",
+            "SUBPACMU"
+        ],
+        "estado": "SC",
+        "id": "73793",
+        "nome": "EDINHO BEZ",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 10.260, de 12 de julho de 2001, e a Lei n\u00ba 11.096, de 13 de janeiro de 2005, de forma a assegurar a participa\u00e7\u00e3o das institui\u00e7\u00f5es educacionais referidas no art. 242 da Constitui\u00e7\u00e3o Federal.",
+                "id": "526298",
+                "nome": "PL 2643/2011"
+            },
+            {
+                "ementa": "Estabelece limites de valores a serem recolhidos ao Sistema CFQ/CRQ por profissionais e entidades que laboram na \u00e1rea da Qu\u00edmica, nos termos da legisla\u00e7\u00e3o vigente.",
+                "id": "508856",
+                "nome": "PL 1570/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do \u00a7 2\u00ba do art. 47 da Lei n\u00ba 9.504, de 30 de setembro de 1997 (Lei das Elei\u00e7\u00f5es), para dispor sobre a distribui\u00e7\u00e3o dos hor\u00e1rios reservados \u00e0 propaganda eleitoral gratuita, no r\u00e1dio e na televis\u00e3o. ",
+                "id": "560008",
+                "nome": "PL 4730/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e que o candidato aprovado e convocado para tomar posse em cargo p\u00fablico ter\u00e1 direito \u00e0 nomea\u00e7\u00e3o durante todo o prazo de validade do concurso p\u00fablico, at\u00e9 que obtenha o grau de forma\u00e7\u00e3o acad\u00eamica exigido para a posse no cargo.",
+                "id": "553559",
+                "nome": "PL 4322/2012"
+            },
+            {
+                "ementa": "Denomina \"Deputado Adhemar Paladini Ghisi\" a ponte sobre o Rio Tubar\u00e3o localizada no quil\u00f4metro 337,03, da BR-101 no Estado de Santa Catarina.",
+                "id": "552331",
+                "nome": "PL 4251/2012"
+            },
+            {
+                "ementa": "Denomina - se \"Willy Alfredo Zumblick\" o T\u00fanel do Morro do Formig\u00e3o localizado no quil\u00f4metro 337,8, da BR-101, em Tubar\u00e3o no Estado de Santa Catarina.",
+                "id": "549775",
+                "nome": "PL 4130/2012"
+            },
+            {
+                "ementa": "Denomina \"Prefeito Dilney Chaves Cabral\" o viaduto duplo de acesso aos Bairros S\u00e3o Jo\u00e3o e Morrotes localizado no quil\u00f4metro 336,35, da BR-101 no Estado de Santa Catarina.\n\n",
+                "id": "549761",
+                "nome": "PL 4127/2012"
+            },
+            {
+                "ementa": "Denomina \"Prefeito Paulo Osny May\" o viaduto duplo de acesso \u00e0 Capivari de Baixo localizado no quil\u00f4metro 329,71, da BR-101 no Estado de Santa Catarina.",
+                "id": "547406",
+                "nome": "PL 4039/2012"
+            },
+            {
+                "ementa": "Denomina \"Prefeito Waldemar Salles\" o viaduto duplo de acesso \u00e0 Tubar\u00e3o Norte localizado no quil\u00f4metro 332,64, da BR-101 no Estado de Santa Catarina.\n\n",
+                "id": "547184",
+                "nome": "PL 4019/2012"
+            },
+            {
+                "ementa": "Denomina \"Prefeito Durval Bez\" o viaduto duplo de acesso principal \u00e0 Tubar\u00e3o, localizado no quil\u00f4metro 334,72, da BR-101 no Estado de Santa Catarina.",
+                "id": "545878",
+                "nome": "PL 3953/2012"
+            },
+            {
+                "ementa": "Acrescenta o inciso XXIII ao art. 6\u00ba da Lei n\u00ba 7.713, de 22 de dezembro de 1988, para incluir entre os rendimentos isentos do Imposto de Renda, os percebidos em atividade laboral pelos portadores das doen\u00e7as relacionadas no inciso XIV da referida lei.",
+                "id": "544552",
+                "nome": "PL 3862/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEAGRIRU",
+            "CME",
+            "GTCL",
+            "PL157211",
+            "PL602505",
+            "PL682610",
+            "SUBEALBR",
+            "SUBMIHPA",
+            "CCJC",
+            "CEENSI"
+        ],
+        "estado": "MG",
+        "id": "129037",
+        "nome": "GABRIEL GUIMAR\u00c3ES",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Anel Rodovi\u00e1rio Helena Greco\" o anel rodovi\u00e1rio de Belo Horizonte, trecho Entr. MG-437/MGT-262 - Entr. BR-040/135/262/381 - Entr. BR-040/BR-356 - na BR-262/381/040, no Munic\u00edpio de Belo Horizonte, Estado de Minas Gerais. ",
+                "id": "515304",
+                "nome": "PL 2008/2011"
+            },
+            {
+                "ementa": "Denomina \"Barragem Vice-Presidente Jos\u00e9 Alencar\" a Barragem de Congonhas, situada entre os Munic\u00edpios de Gr\u00e3o Mogol e Itacambira, no Estado de Minas Gerais. ",
+                "id": "500954",
+                "nome": "PL 1267/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Deputado Dalton Canabrava\" a BR-259, Entr. BR-135 (Curvelo) - Entr. BR-040 (Felixl\u00e2ndia), Estado de Minas Gerais. ",
+                "id": "545833",
+                "nome": "PL 3948/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a realiza\u00e7\u00e3o de consulta, de forma direta, para decidir sobre a ado\u00e7\u00e3o de elei\u00e7\u00f5es diretas para escolha dos membros da Diretoria do Conselho Federal da Ordem dos Advogados do Brasil e d\u00e1 outras provid\u00eancias.",
+                "id": "544863",
+                "nome": "PL 3879/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o de pagamento de imposto de renda sobre os rendimentos dos dep\u00f3sitos de Poupan\u00e7a de pessoas f\u00edsicas e d\u00e1 outras provid\u00eancias. ",
+                "id": "543310",
+                "nome": "PL 3802/2012"
+            },
+            {
+                "ementa": "Cria o Livro de Reclama\u00e7\u00f5es dos Consumidores e d\u00e1 outras provid\u00eancias. \n\n",
+                "id": "537001",
+                "nome": "PL 3418/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDU",
+            "PEC47810",
+            "SUBEALBR",
+            "SUBPRSAL",
+            "SUBRESOL",
+            "CME",
+            "CMMC",
+            "PL346004",
+            "SUBCEF",
+            "SUBILPUB",
+            "SUBLECOP"
+        ],
+        "estado": "RJ",
+        "id": "160577",
+        "nome": "ADRIAN",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Cria a Contribui\u00e7\u00e3o de Interven\u00e7\u00e3o no Dom\u00ednio Econ\u00f4mico sobre Embalagens e o Fundo Nacional para a Reciclagem.",
+                "id": "513915",
+                "nome": "PL 1929/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.305, de 2 de agosto de 2010, estabelecendo condi\u00e7\u00f5es para a incinera\u00e7\u00e3o de res\u00edduos s\u00f3lidos.",
+                "id": "513913",
+                "nome": "PL 1928/2011"
+            },
+            {
+                "ementa": "Denomina-se \"Aeroporto de Maca\u00e9 / Rio de Janeiro - Benedito Lacerda\" o aeroporto da cidade de Maca\u00e9, Estado do Rio de Janeiro.  ",
+                "id": "513470",
+                "nome": "PL 1901/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 5.811, de 11 de outubro de 1972, para tipificar como Crime contra a Organiza\u00e7\u00e3o do Trabalho frustrar  os terceirizados da percep\u00e7\u00e3o dos direitos assegurados a todos os que trabalham sob o regime de embarque e confinamento. ",
+                "id": "496488",
+                "nome": "PL 863/2011"
+            },
+            {
+                "ementa": "Altera o art.118 da Lei n\u00ba 8.213, de 24 de julho de 1991, que disp\u00f5e sobre os Planos de Benef\u00edcios da Previd\u00eancia Social e d\u00e1 outras provid\u00eancias, para assegurar o direito do segurado \u00e0 estabilidade provis\u00f3ria concedida pelo Regime Geral de Previd\u00eancia Social.",
+                "id": "543265",
+                "nome": "PL 3797/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXLXHOS",
+            "CME",
+            "CMMC",
+            "PL161096",
+            "SUBEALBR",
+            "CEREFPOL",
+            "CLP",
+            "CMADS",
+            "COETICA",
+            "PEC01095",
+            "PL742006",
+            "SUBCORIO",
+            "SUBFISAN"
+        ],
+        "estado": "PE",
+        "id": "74417",
+        "nome": "FERNANDO FERRO",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro para dispor sobre a obrigatoriedade de utiliza\u00e7\u00e3o de novos equipamentos de prote\u00e7\u00e3o para motociclistas.",
+                "id": "499661",
+                "nome": "PL 1171/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 4\u00ba ao art. 217 da Constitui\u00e7\u00e3o Federal, para determinar a organiza\u00e7\u00e3o da administra\u00e7\u00e3o desportiva no pa\u00eds, na forma da lei, segundo os princ\u00edpios da democracia, da participa\u00e7\u00e3o da sociedade, da transpar\u00eancia, da moralidade, do humanismo, da justi\u00e7a e da populariza\u00e7\u00e3o desportiva.",
+                "id": "552240",
+                "nome": "PEC 202/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CSSF",
+            "SUBEALBR",
+            "SUBSEGAL",
+            "CAPADR",
+            "PL602505"
+        ],
+        "estado": "MG",
+        "id": "160556",
+        "nome": "PADRE JO\u00c3O",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 7.802, de 11 de Julho de 1989, que disp\u00f5e sobre a pesquisa, a experimenta\u00e7\u00e3o, a produ\u00e7\u00e3o, a embalagem e rotulagem, o transporte, o armazenamento, a comercializa\u00e7\u00e3o, a propaganda comercial, a utiliza\u00e7\u00e3o, a importa\u00e7\u00e3o, a exporta\u00e7\u00e3o, o destino final dos res\u00edduos e embalagens, o registro, a classifica\u00e7\u00e3o, o controle, a inspe\u00e7\u00e3o e a fiscaliza\u00e7\u00e3o de agrot\u00f3xicos, seus componentes e afins, e d\u00e1 outras provid\u00eancias.",
+                "id": "552946",
+                "nome": "PL 4299/2012"
+            },
+            {
+                "ementa": "Estende a compensa\u00e7\u00e3o ambiental de que trata o art. 36 da Lei n\u00ba 9.985, de 18 de julho de 2000, \u00e0s Unidades de Conserva\u00e7\u00e3o de Uso Sustent\u00e1vel. ",
+                "id": "541938",
+                "nome": "PL 3729/2012"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 7.802, de 11 de julho de 1989, para obrigar as empresas de avia\u00e7\u00e3o agr\u00edcola a enviar c\u00f3pias de prescri\u00e7\u00f5es de agrot\u00f3xicos e relat\u00f3rios anuais aos \u00f3rg\u00e3os competentes. ",
+                "id": "539988",
+                "nome": "PL 3615/2012"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 Lei n\u00ba 7.802, de 11 de julho de 1989,  para estabelecer condi\u00e7\u00f5es de seguran\u00e7a relativas \u00e0 aplica\u00e7\u00e3o de agrot\u00f3xicos. ",
+                "id": "539987",
+                "nome": "PL 3614/2012"
+            },
+            {
+                "ementa": "Isenta da Contribui\u00e7\u00e3o para o Financiamento da Seguridade Social - Cofins e da Contribui\u00e7\u00e3o para o Pis/Pasep os produtos resultantes da explora\u00e7\u00e3o da atividade rural exercida pelo  agricultor familiar ou empreendedor familiar rural.",
+                "id": "537624",
+                "nome": "PL 3461/2012"
+            },
+            {
+                "ementa": "Revoga dispositivos da Lei n\u00ba 8.987, de 13 de fevereiro de 1995, que disp\u00f5e sobre o regime de permiss\u00e3o e de concess\u00e3o de servi\u00e7os p\u00fablicos previsto no art. 175 da Constitui\u00e7\u00e3o Federal. ",
+                "id": "537193",
+                "nome": "PL 3433/2012"
+            }
+        ]
+    }
+]

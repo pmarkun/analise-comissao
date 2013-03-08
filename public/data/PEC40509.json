@@ -1,0 +1,2835 @@
+[
+    {
+        "comissoes": [
+            "CEXINDI",
+            "CMADS",
+            "GTCL",
+            "PEC11111",
+            "PL602505",
+            "SUBCORIO",
+            "CCJC",
+            "CLP",
+            "CMMC",
+            "PEC40509"
+        ],
+        "estado": "MA",
+        "id": "74210",
+        "nome": "SARNEY FILHO",
+        "partido": "PV",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 11.520 de 18 de setembro de 2007, para conceder pens\u00e3o especial aos filhos separados dos genitores atingidos pela hansen\u00edase, isolados e internados compulsoriamente.",
+                "id": "531774",
+                "nome": "PL 2962/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.088, de 16 de julho de 1974, que \"disp\u00f5e sobre a cria\u00e7\u00e3o da Companhia de Desenvolvimento do Vale do S\u00e3o Francisco - Codevasf - e d\u00e1 outras provid\u00eancias\".",
+                "id": "558177",
+                "nome": "PL 4632/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.795, de 27 de abril de 1999, para direcionar parte dos recursos obtidos pela aplica\u00e7\u00e3o das multas ambientais a a\u00e7\u00f5es em educa\u00e7\u00e3o ambiental.",
+                "id": "556275",
+                "nome": "PL 4472/2012"
+            },
+            {
+                "ementa": "Declara os recifes de coral \u00e1rea de preserva\u00e7\u00e3o permanente. ",
+                "id": "544447",
+                "nome": "PL 3855/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCTCI",
+            "MERCOSUL",
+            "PEC03711",
+            "PEC40509",
+            "PEC47810",
+            "PL540301",
+            "PL602505",
+            "PL766310",
+            "CCJC",
+            "CFFC",
+            "CPITRAES",
+            "PEC44309",
+            "PL682610"
+        ],
+        "estado": "MS",
+        "id": "74124",
+        "nome": "MAR\u00c7AL FILHO",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera o \u00a7 4\u00ba do art. 3\u00ba da Lei n\u00ba 9.294, de 15 de julho de 1996, que disp\u00f5e sobre as restri\u00e7\u00f5es ao uso e \u00e0 propaganda de produtos fum\u00edgeros, bebidas alco\u00f3licas, medicamentos, terapias e defensivos agr\u00edcolas, nos termos do \u00a7 4\u00b0 do art. 220 da Constitui\u00e7\u00e3o Federal.",
+                "id": "518948",
+                "nome": "PL 2237/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dispensa\u00e7\u00e3o de medicamentos para doen\u00e7as raras e graves, que n\u00e3o constam em listas de medicamentos excepcionais padronizadas pelo Sistema \u00danico de Sa\u00fade - SUS.",
+                "id": "509247",
+                "nome": "PL 1606/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 5.991, de 17 de dezembro de 1973, que disp\u00f5e sobre o Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, e d\u00e1 outras Provid\u00eancias.",
+                "id": "509246",
+                "nome": "PL 1605/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a altera\u00e7\u00e3o do art. 15 da Lei n\u00ba 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e crit\u00e9rios b\u00e1sicos para a promo\u00e7\u00e3o da acessibilidade das pessoas portadoras de defici\u00eancia ou com mobilidade reduzida, e d\u00e1 outras provid\u00eancias.",
+                "id": "499568",
+                "nome": "PL 1160/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a oferta de atendimento psicol\u00f3gico ao corpo discente das escolas p\u00fablicas de ensino fundamental para preven\u00e7\u00e3o de maus-tratos.",
+                "id": "497629",
+                "nome": "PL 956/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados (IPI) e do Imposto de Importa\u00e7\u00e3o - II, na aquisi\u00e7\u00e3o de equipamentos ortop\u00e9dicos e equipamentos para pessoas portadoras de defici\u00eancia f\u00edsica, visual, mental severa ou profunda, autistas ou seus representantes legais.",
+                "id": "495688",
+                "nome": "PL 802/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a gratuidade e desconto proporcional para utiliza\u00e7\u00e3o de estacionamentos pelos idosos, e fixa provid\u00eancias.",
+                "id": "494148",
+                "nome": "PL 656/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 216-B ao Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, para cominar a pena de castra\u00e7\u00e3o qu\u00edmica nas hip\u00f3teses em que o autor dos crimes tipificados nos arts. 213, 214, 218 e 224 for considerado ped\u00f3filo, conforme o C\u00f3digo Internacional de Doen\u00e7as.",
+                "id": "493436",
+                "nome": "PL 597/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as atividades de Aten\u00e7\u00e3o Integral \u00e0s pessoas portadoras de esclerose m\u00faltipla e sobre a garantia de tratamento adequado pelo Sistema \u00danico de Sa\u00fade.",
+                "id": "493435",
+                "nome": "PL 596/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 7.802, de 11 de julho de 1989, que \"disp\u00f5e sobre a pesquisa, a experimenta\u00e7\u00e3o, a produ\u00e7\u00e3o, a embalagem e a rotulagem, o transporte, o armazenamento, a comercializa\u00e7\u00e3o, a propaganda comercial, a utiliza\u00e7\u00e3o, a importa\u00e7\u00e3o, a exporta\u00e7\u00e3o, o destino final dos res\u00edduos e embalagens, o registro, a classifica\u00e7\u00e3o, o controle, a inspe\u00e7\u00e3o e a fiscaliza\u00e7\u00e3o de agrot\u00f3xicos, seus componentes e afins, e d\u00e1 outras provid\u00eancias\".",
+                "id": "491927",
+                "nome": "PL 392/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 9\u00ba do Art. 8\u00ba-E, da Lei n\u00ba 11.530, de 24 de outubro de 2007, para incluir os agentes de tr\u00e2nsito entre os benefici\u00e1rios do programa Bolsa-Forma\u00e7\u00e3o.",
+                "id": "491925",
+                "nome": "PL 391/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade da destina\u00e7\u00e3o de pelo menos 5% (cinco por cento) das unidades habitacionais desenvolvidas pelos Estados, Munic\u00edpios ou por ele subsidiados com recursos da Administra\u00e7\u00e3o P\u00fablica Federal, a pessoas com idade igual ou superior a 60 (sessenta) anos.",
+                "id": "491924",
+                "nome": "PL 390/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 10.260, de 12 de julho de 2001, que disp\u00f5e  sobre o Fundo de Financiamento ao Estudante do Ensino Superior - FIES, permitindo abatimento de saldo devedor do FIES \u00e0s pessoas que exercerem o cargo de conciliador nos juizados especiais.",
+                "id": "491920",
+                "nome": "PL 389/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a regulamenta\u00e7\u00e3o da profiss\u00e3o de optometrista.",
+                "id": "491794",
+                "nome": "PL 369/2011"
+            },
+            {
+                "ementa": "Institui margem de prefer\u00eancia, nos processos licitat\u00f3rios, para produtos e servi\u00e7os locais e regionais.",
+                "id": "491793",
+                "nome": "PL 368/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 15-A ao texto da Lei de n\u00ba 10.741 de 01 de outubro de 2003 - Estatuto do Idoso.",
+                "id": "491570",
+                "nome": "PL 305/2011"
+            },
+            {
+                "ementa": "Altera disposi\u00e7\u00f5es acerca da al\u00edquota de contribui\u00e7\u00e3o previdenci\u00e1ria dos taxistas.",
+                "id": "491569",
+                "nome": "PL 304/2011"
+            },
+            {
+                "ementa": "Altera o par\u00e1grafo \u00fanico do art. 103 da Lei n\u00ba 8.213, de 24 de julho de 1991,para dispor sobre a prescri\u00e7\u00e3o de a\u00e7\u00e3o para haver presta\u00e7\u00e3o vencida ou restitui\u00e7\u00e3o ou diferen\u00e7a devida pela previd\u00eancia social.",
+                "id": "491567",
+                "nome": "PL 303/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos incisos III e IV, \u00a7 8\u00ba do art. 6\u00ba da Lei n\u00ba 10.999, de 15 de dezembro de 2004.",
+                "id": "491566",
+                "nome": "PL 302/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de o poder p\u00fablico fornecer gratuitamente alimentos especiais, fraldas e outros meios para manuten\u00e7\u00e3o do conforto, da fun\u00e7\u00e3o e da sa\u00fade de pessoas carentes com quadros irrevers\u00edveis decorrentes de doen\u00e7as cr\u00f4nicas, acidentes e outros, ap\u00f3s alta hospitalar.",
+                "id": "491565",
+                "nome": "PL 301/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre incentivos \u00e0 contrata\u00e7\u00e3o de idosos aposentados por micro ou pequenas empresas.",
+                "id": "491564",
+                "nome": "PL 300/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.212, de 24 de julho de 1991, para incentivar e desonerar a contrata\u00e7\u00e3o de trabalhadores aposentados.",
+                "id": "491563",
+                "nome": "PL 299/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 473 da Consolida\u00e7\u00e3o das Leis do Trabalho - CLT, a fim de prev\u00ea novas hip\u00f3teses em que o empregado poder\u00e1 deixar de comparecer ao servi\u00e7o sem preju\u00edzo do sal\u00e1rio.",
+                "id": "491562",
+                "nome": "PL 298/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a considera\u00e7\u00e3o do trabalho volunt\u00e1rio em institui\u00e7\u00f5es de assist\u00eancia educacional e social para fins de integraliza\u00e7\u00e3o curricular dos cursos de gradua\u00e7\u00e3o.",
+                "id": "491560",
+                "nome": "PL 297/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7\u00a7 2\u00ba, 3\u00ba e 4\u00ba ao art. 402 da Consolida\u00e7\u00e3o da Leis do Trabalho (CLT), aprovada pelo Decreto-lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para dispor sobre condi\u00e7\u00f5es especiais do contrato de trabalho dos trabalhadores entre quatorze e dezoito anos.",
+                "id": "491559",
+                "nome": "PL 296/2011"
+            },
+            {
+                "ementa": "Altera as leis n\u00ba 8.212, de 24 de julho de 1991, n\u00ba 8.213, de 24 de julho de 1991 e o Decreto n\u00ba 3.048, de 6 de maio de 1999, para incluir o catador de material recicl\u00e1vel como segurado especial da Previd\u00eancia Social.",
+                "id": "491558",
+                "nome": "PL 295/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o aos arts. 21 e 45 da Lei n\u00ba 8.212, de 24 de julho de 1991, e aos arts. 25 e 28 da Lei n\u00ba 8.213, de 24 de julho de 1991, para dispor sobre o Sistema Especial de Inclus\u00e3o Previdenci\u00e1ria para os trabalhadores sem renda pr\u00f3pria que se dediquem exclusivamente ao trabalho dom\u00e9stico no \u00e2mbito de sua resid\u00eancia.",
+                "id": "491554",
+                "nome": "PL 294/2011"
+            },
+            {
+                "ementa": "Acrescenta inciso VII ao art. 26 da Lei n\u00ba 8.213, de 24 de julho de 1991, para dispor sobre isen\u00e7\u00e3o de car\u00eancia na concess\u00e3o de aux\u00edlio doen\u00e7a aos doadores de \u00f3rg\u00e3o.",
+                "id": "491553",
+                "nome": "PL 293/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.213 de 24 de julho de 1991, para estabelecer adicional de tempo de servi\u00e7o para o trabalhador com defici\u00eancia que requer aposentadoria, vinculada ao RGPS - Regime Geral de Previd\u00eancia Social.",
+                "id": "491552",
+                "nome": "PL 292/2011"
+            },
+            {
+                "ementa": "Altera o art. 93 da Lei n\u00ba 8.213, de 24 de julho de 1991, para incluir portadores do v\u00edrus HIV entre os benefici\u00e1rios da reserva de vaga para reabilitados e pessoas com defici\u00eancia habilitadas.",
+                "id": "491551",
+                "nome": "PL 291/2011"
+            },
+            {
+                "ementa": "Obriga a contrata\u00e7\u00e3o de seguro para os servi\u00e7os de entrega que se utilizam de motocicletas ou ve\u00edculos afins.",
+                "id": "491404",
+                "nome": "PL 266/2011"
+            },
+            {
+                "ementa": "Institui o Pr\u00eamio \"Munic\u00edpio Amigo e Equipe Destaque do Programa Sa\u00fade da Fam\u00edlia\" e d\u00e1 outras provid\u00eancias.",
+                "id": "491403",
+                "nome": "PL 265/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 8.662, de 7 de junho de 1993, para dispor sobre o sal\u00e1rio m\u00ednimo profissional do Assistente Social.",
+                "id": "491402",
+                "nome": "PL 264/2011"
+            },
+            {
+                "ementa": "Assegura aos profissionais da educa\u00e7\u00e3o b\u00e1sica, no exerc\u00edcio da profiss\u00e3o, o pagamento da meia-entrada em estabelecimentos culturais e de lazer e define outras provid\u00eancias. ",
+                "id": "491401",
+                "nome": "PL 263/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 5.859, de 11 de dezembro de 1972, que \"disp\u00f5e sobre a profiss\u00e3o de empregado dom\u00e9stico e d\u00e1 outras provid\u00eancias\", para estabelecer direitos \u00e0 categoria e altera a Lei n\u00ba 8.213, de 24 de julho de 1991, que \"disp\u00f5e sobre os Planos de Benef\u00edcios da Previd\u00eancia Social e d\u00e1 outras provid\u00eancias\" para regulamentar o pagamento do sal\u00e1rio fam\u00edlia para o empregado dom\u00e9stico.",
+                "id": "491400",
+                "nome": "PL 262/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.938, de 31 de agosto de 1981, a fim de dispor sobre a avalia\u00e7\u00e3o ambiental estrat\u00e9gica de pol\u00edticas, planos e programas.",
+                "id": "491399",
+                "nome": "PL 261/2011"
+            },
+            {
+                "ementa": "Acrescenta o Cap\u00edtulo II-A e os arts. 1.797-A a 1.797-C \u00e0 Lei n\u00ba 10.406, de 10 de janeiro de 2002.",
+                "id": "563396",
+                "nome": "PL 4847/2012"
+            },
+            {
+                "ementa": "Estabelece que a defici\u00eancia auditiva \u00e9 a perda unilateral ou bilateral, parcial ou total, de quarenta e um decib\u00e9is (dB) ou mais, aferida por audiograma nas frequ\u00eancias de 500 Hz, 1.000 Hz, 2.000 Hz e 3.000 Hz.",
+                "id": "540754",
+                "nome": "PL 3653/2012"
+            },
+            {
+                "ementa": "Acrescenta os \u00a7\u00a7 3\u00ba, 4\u00ba e 5\u00ba ao art. 136 da Consolida\u00e7\u00e3o das Leis Trabalhistas - CLT, para dispor sobre a unifica\u00e7\u00e3o do per\u00edodo de f\u00e9rias de casais que trabalham em empresas diferentes.",
+                "id": "535387",
+                "nome": "PL 3289/2012"
+            },
+            {
+                "ementa": "Acrescenta o art. 392-B \u00e0 Consolida\u00e7\u00e3o das Leis Trabalhistas - CLT, para dispor sobre a extens\u00e3o ao empregado do mesmo per\u00edodo da licen\u00e7a-maternidade concedida \u00e0 empregada nos termos do art. 392 da CLT, nos casos que se especifica.",
+                "id": "534780",
+                "nome": "PL 3231/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEAGRIRU",
+            "CME",
+            "CMO",
+            "PEC40509",
+            "SUBFUSAO",
+            "SUBMIHPA",
+            "CAPADR",
+            "CESEGUR"
+        ],
+        "estado": "PA",
+        "id": "141561",
+        "nome": "WANDENKOLK GON\u00c7ALVES",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "498050",
+                "nome": "PL 999/2011"
+            },
+            {
+                "ementa": "Isenta do imposto sobre produtos industrializados as motocicletas, nas condi\u00e7\u00f5es que fixa.",
+                "id": "562057",
+                "nome": "PL 4791/2012"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a criar o Col\u00e9gio Militar de Concei\u00e7\u00e3o do Araguaia, no Estado do Par\u00e1.",
+                "id": "538246",
+                "nome": "PL 3496/2012"
+            },
+            {
+                "ementa": "Estabelece, no \u00e2mbito da Uni\u00e3o, dos Estados, do Distrito Federal e dos Munic\u00edpios, restri\u00e7\u00f5es aplic\u00e1veis aos atos de nomea\u00e7\u00e3o para cargos em comiss\u00e3o e de designa\u00e7\u00e3o para fun\u00e7\u00f5es de confian\u00e7a, bem como para inscri\u00e7\u00f5es em concursos p\u00fablicos destinados ao provimento dos cargos que discrimina, e d\u00e1 outras provid\u00eancias.",
+                "id": "538245",
+                "nome": "PL 3495/2012"
+            },
+            {
+                "ementa": "Acrescenta inciso XII ao art. 167 da Cosntitui\u00e7\u00e3o Federal. ",
+                "id": "547944",
+                "nome": "PEC 189/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDU",
+            "CPITRAPE",
+            "PEC11111",
+            "PEC40509",
+            "PL346004",
+            "CCTCI",
+            "PL540301",
+            "SUBCEF",
+            "SUBPACMU"
+        ],
+        "estado": "AC",
+        "id": "141434",
+        "nome": "FLAVIANO MELO",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera os arts. 9\u00ba, 10 e 11 da Lei n.\u00ba 9.709, de 18 de novembro de 1997, para tornar vinculante o resultado das consultas populares.",
+                "id": "511176",
+                "nome": "PL 1761/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 4\u00ba ao art. 46 da Constitui\u00e7\u00e3o Federal.",
+                "id": "513466",
+                "nome": "PEC 60/2011"
+            },
+            {
+                "ementa": "Altera dispositivos da Constitui\u00e7\u00e3o Federal para alterar as datas das posses do Presidente e do Vice-Presidente da Rep\u00fablica, dos Governadores e Vice-Governadores, dos Senadores, Deputados Federais, Distritais e Estaduais.",
+                "id": "513465",
+                "nome": "PEC 59/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAINDR",
+            "CREDN",
+            "PEC11111",
+            "PEC40509",
+            "SUBCOPLP",
+            "SUBJARI",
+            "CDEIC",
+            "CPITRAPE",
+            "CTASP",
+            "MERCOSUL",
+            "PL540301",
+            "PL602505",
+            "SUBRIO20"
+        ],
+        "estado": "AP",
+        "id": "141539",
+        "nome": "SEBASTI\u00c3O BALA ROCHA",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Rodovia Landri de Oliveira Cambraia\", o trecho da rodovia BR-156, entre as cidades de Macap\u00e1 e Oiapoque, no Estado do Amap\u00e1",
+                "id": "531500",
+                "nome": "PL 2951/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a inclus\u00e3o em quadro em extin\u00e7\u00e3o da Administra\u00e7\u00e3o Federal dos Servidores Civis e militares oriundos dos Ex- Territ\u00f3rios Federais do Amap\u00e1, Roraima.",
+                "id": "517937",
+                "nome": "PL 2165/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 3\u00ba ao art. 23 da Lei n\u00ba 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional. ",
+                "id": "491512",
+                "nome": "PL 285/2011"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a criar um Col\u00e9gio Militar em Macap\u00e1 - Capital do Estado do Amap\u00e1.\n\n\n",
+                "id": "560909",
+                "nome": "PL 4758/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.462, de 4 de agosto de 2011, para incluir no Regime Diferenciado de Contrata\u00e7\u00f5es P\u00fablicas - RDC  a contrata\u00e7\u00e3o de obras e a aquisi\u00e7\u00e3o de equipamentos e insumos para a \u00e1rea de sa\u00fade.",
+                "id": "547244",
+                "nome": "PL 4022/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a compet\u00eancia concorrente da Advocacia na orienta\u00e7\u00e3o jur\u00eddica e defesa, em todos os graus, dos necessitados.",
+                "id": "546709",
+                "nome": "PEC 184/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CEANISTI",
+            "CECONST",
+            "CEREFPOL",
+            "CESEGUR",
+            "PEC03711",
+            "PEC20712",
+            "PEC44309",
+            "PL682610",
+            "PL766310",
+            "SUBARMA",
+            "CSPCCO",
+            "CSSF",
+            "PEC01095",
+            "PEC40509",
+            "PEC47810",
+            "PL157211",
+            "PL346004",
+            "PL355504",
+            "PL540301",
+            "PL602505",
+            "PL749506",
+            "SUBPROEX"
+        ],
+        "estado": "SP",
+        "id": "73434",
+        "nome": "ARNALDO FARIA DE S\u00c1",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Altera o inciso I do art. 28, da Lei n\u00ba 8.906, de 04 de julho de 1994 - Estatuto da Advocacia e da OAB.",
+                "id": "528993",
+                "nome": "PL 2790/2011"
+            },
+            {
+                "ementa": "Disciplina a obrigatoriedade de manifesta\u00e7\u00e3o e os efeitos da participa\u00e7\u00e3o dos \u00f3rg\u00e3os consultivos da advocacia p\u00fablica em processos administrativos e disp\u00f5e sobre a pr\u00e1tica de improbidade administrativa em rela\u00e7\u00e3o ao parecer jur\u00eddico da Advocacia P\u00fablica, alterando a reda\u00e7\u00e3o do art. 38 da Lei n\u00ba 8666, de 21 de junho de 1993 e acrescenta o inciso VIII ao art. 11 da Lei n\u00ba 8.429, de 2 de junho de 1992.",
+                "id": "526379",
+                "nome": "PL 2650/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o Dia Estadual das Per\u00edcias M\u00e9dicas",
+                "id": "524197",
+                "nome": "PL 2548/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, dispondo sobre a cobran\u00e7a de taxa de assinatura b\u00e1sica pelas operadoras telef\u00f4nicas.",
+                "id": "519701",
+                "nome": "PL 2295/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.015, de 31 de dezembro de 1973 - Lei dos Registros P\u00fablicos, dispondo sobre o registro e anota\u00e7\u00e3o dos atos constitutivos e extintivos de uni\u00e3o est\u00e1vel.",
+                "id": "519380",
+                "nome": "PL 2273/2011"
+            },
+            {
+                "ementa": "Altera o art. 110 da Lei n\u00ba 12.249, de 11 de junho de 2010, que \"Institui o Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura da Ind\u00fastria Petrol\u00edfera nas Regi\u00f5es Norte, Nordeste e Centro-Oeste - REPENEC; cria o Programa Um Computador por Aluno - PROUCA e institui o Regime Especial de Aquisi\u00e7\u00e3o de Computadores para Uso Educacional - RECOMPE; prorroga benef\u00edcios fiscais; constitui fonte de recursos adicional aos agentes financeiros do Fundo da Marinha Mercante - FMM para financiamentos de projetos aprovados pelo Conselho Diretor do Fundo da Marinha Mercante - CDFMM; institui o Regime Especial para a Ind\u00fastria Aeron\u00e1utica Brasileira - RETAERO; disp\u00f5e sobre a Letra Financeira e o Certificado de Opera\u00e7\u00f5es Estruturadas; ajusta o Programa Minha Casa Minha Vida - PMCMV; altera as Leis n\u00bas 8.248, de 23 de outubro de 1991, 8.387, de 30 de dezembro de 1991, 11.196, de 21 de novembro de 2005, 10.865, de 30 de abril de 2004, 11.484, de 31 de maio de 2007, 11.488, de 15 de junho de 2007, 9.718, de 27 de novembro de 1998, 9.430, de 27 de dezembro de 1996, 11.948, de 16 de junho de 2009, 11.977, de 7 de julho de 2009, 11.326, de 24 de julho de 2006, 11.941, de 27 de maio de 2009, 5.615, de 13 de outubro de 1970, 9.126, de 10 de novembro de 1995, 11.110, de 25 de abril de 2005, 7.940, de 20 de dezembro de 1989, 9.469, de 10 de julho de 1997, 12.029, de 15 de setembro de 2009, 12.189, de 12 de janeiro de 2010, 11.442, de 5 de janeiro de 2007, 11.775, de 17 de setembro de 2008, os Decretos-Leis n\u00bas 9.295, de 27 de maio de 1946, 1.040, de 21 de outubro de 1969, e a Medida Provis\u00f3ria n\u00ba 2.158-35, de 24 de agosto de 2001; revoga as Leis n\u00bas 7.944, de 20 de dezembro de 1989, 10.829, de 23 de dezembro de 2003, o Decreto-Lei n\u00ba 423, de 21 de janeiro de 1969; revoga dispositivos das Leis n\u00bas 8.003, de 14 de mar\u00e7o de 1990, 8.981, de 20 de janeiro de 1995, 5.025, de 10 de junho de 1966, 6.704, de 26 de outubro de 1979, 9.503, de 23 de setembro de 1997; e d\u00e1 outras provid\u00eancias.",
+                "id": "515485",
+                "nome": "PL 2014/2011"
+            },
+            {
+                "ementa": "Altera os arts. 28, 29, 30, 33 e 39, todos da Lei n\u00ba 11.343, de 23 de agosto de 2006, que institui o Sistema Nacional de Pol\u00edticas P\u00fablicas sobre Drogas - Sisnad; prescreve medidas para preven\u00e7\u00e3o do uso indevido, aten\u00e7\u00e3o e reinser\u00e7\u00e3o social de usu\u00e1rios e dependentes de drogas; estabelece normas para repress\u00e3o \u00e0 produ\u00e7\u00e3o n\u00e3o autorizada e ao tr\u00e1fico il\u00edcito de drogas; define crimes e d\u00e1 outras provid\u00eancias.",
+                "id": "501868",
+                "nome": "PL 1330/2011"
+            },
+            {
+                "ementa": "Altera o artigo 18 da Lei n\u00ba 10.259, de 12 de julho de 2001, que \"disp\u00f5e sobre a institui\u00e7\u00e3o dos Juizados Especiais C\u00edveis e Criminais no \u00e2mbito da Justi\u00e7a Federal\" e acrescenta o inciso XII ao artigo 102 da Lei n\u00ba 8.112, de 11 de dezembro de 1990, que \"disp\u00f5e sobre o Regime Jur\u00eddico \u00danico dos Servidores P\u00fablicos da Uni\u00e3o\" e d\u00e1 outras provid\u00eancias.",
+                "id": "501800",
+                "nome": "PL 1320/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre os crit\u00e9rios das taxas cobradas pelos estacionamentos terceirizados e privatizados.",
+                "id": "499618",
+                "nome": "PL 1166/2011"
+            },
+            {
+                "ementa": "Pro\u00edbe a comercializa\u00e7\u00e3o de produtos \u00f3pticos na condi\u00e7\u00e3o que menciona.",
+                "id": "499375",
+                "nome": "PL 1143/2011"
+            },
+            {
+                "ementa": "Altera o art. 1584, \u00a7 2\u00ba , e o art. 1585 do C\u00f3digo Civil Brasileiro, visando maior clareza sobre a real inten\u00e7\u00e3o do legislador quando da cria\u00e7\u00e3o da Guarda  Compartilhada.",
+                "id": "498084",
+                "nome": "PL 1009/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 23-A \u00e0 Lei n\u00ba 11.343, de 23 de agosto de 2006, dispondo sobre as condi\u00e7\u00f5es de interna\u00e7\u00e3o compuls\u00f3ria de usu\u00e1rios ou dependentes de drogas.",
+                "id": "497019",
+                "nome": "PL 888/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 7.210, de 11 de julho de 1984, para prever o exame criminol\u00f3gico para progress\u00e3o de regime, livramento condicional, indulto e comuta\u00e7\u00e3o de pena.",
+                "id": "497018",
+                "nome": "PL 887/2011"
+            },
+            {
+                "ementa": "Altera o C\u00f3digo Civil, institu\u00eddo pela Lei n\u00ba 10.406, de 10 de janeiro de 2002.",
+                "id": "494551",
+                "nome": "PL 699/2011"
+            },
+            {
+                "ementa": "Altera dispositivos da Lei n\u00ba 5.869, de 11 de janeiro de 1973, que institui o C\u00f3digo de Processo Civil.",
+                "id": "491268",
+                "nome": "PL 194/2011"
+            },
+            {
+                "ementa": "Altera o art. 18 da Lei n\u00ba 7.713 de 22 de dezembro de 1988.",
+                "id": "558626",
+                "nome": "PL 4658/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a contribui\u00e7\u00e3o para o PIS - Programa de Integra\u00e7\u00e3o Social e a COFINS - Contribui\u00e7\u00e3o para Financiamento da Seguridade Social e d\u00e1 provid\u00eancias correlatas.",
+                "id": "557937",
+                "nome": "PL 4596/2012"
+            },
+            {
+                "ementa": "Altera o inciso I, do art. 57 da Medida Provis\u00f3ria n\u00ba 2158-35 de 4 de agosto de 2001.",
+                "id": "553221",
+                "nome": "PL 4315/2012"
+            },
+            {
+                "ementa": "Revoga o inciso XIV, do art. 9\u00ba da Lei n\u00ba 9.613, de 3 de mar\u00e7o de 1998.",
+                "id": "553220",
+                "nome": "PL 4314/2012"
+            },
+            {
+                "ementa": "\"Disp\u00f5e sobre a regulamenta\u00e7\u00e3o do  disposto no art. 37, inciso VII da Constitui\u00e7\u00e3o Federal de 1988.\"",
+                "id": "552612",
+                "nome": "PL 4276/2012"
+            },
+            {
+                "ementa": "Altera o art. 8\u00ba da Lei n\u00ba 12.009, de 29 de julho de  2009, que Regulamenta o exerc\u00edcio das atividades dos profissionais em transporte de passageiros, \"mototaxista\", em entrega de mercadorias e em servi\u00e7o comunit\u00e1rio de rua, e \"motoboy\", com o uso de motocicleta, altera a Lei no 9.503, de 23 de setembro de 1997, para dispor sobre regras de seguran\u00e7a dos servi\u00e7os de transporte remunerado de mercadorias em motocicletas e motonetas - moto-frete -, estabelece regras gerais para a regula\u00e7\u00e3o deste servi\u00e7o e d\u00e1 outras provid\u00eancias.",
+                "id": "552286",
+                "nome": "PL 4245/2012"
+            },
+            {
+                "ementa": "Altera o art. 186, da Lei n\u00ba 8.112, 11 de dezembro de 1990 e o art. 151 da Lei n\u00ba 8.213, de 24 de julho de 1991.",
+                "id": "548427",
+                "nome": "PL 4082/2012"
+            },
+            {
+                "ementa": "Inclui art. \u00e0 Lei n\u00ba 9.876, de 26 de novembro de 1999.",
+                "id": "548426",
+                "nome": "PL 4081/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de disponibilizar, nos cart\u00f5es de Cr\u00e9dito ou D\u00e9bito, informa\u00e7\u00f5es em Braille para identifica\u00e7\u00e3o pelos deficientes visuais. ",
+                "id": "545629",
+                "nome": "PL 3929/2012"
+            },
+            {
+                "ementa": "Acresce ao art. 1\u00ba da Lei n\u00ba 9.654 de 2 de junho de 1998 os \u00a7\u00a7 1\u00ba, 2\u00ba, 3\u00ba e 4\u00ba e d\u00e1 outras provid\u00eancias. ",
+                "id": "543735",
+                "nome": "PL 3815/2012"
+            },
+            {
+                "ementa": "Institui o Dia da Toler\u00e2ncia e Respeito entre os Povos, em reconhecimento ao genoc\u00eddio praticado contra o povo arm\u00eanio.",
+                "id": "539913",
+                "nome": "PL 3604/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDHM",
+            "CEXVIOL",
+            "PL749506",
+            "SUBARMA",
+            "CMADS",
+            "CPITRAES",
+            "PEC40509",
+            "SUBSISTE"
+        ],
+        "estado": "MA",
+        "id": "74197",
+        "nome": "DOMINGOS DUTRA",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 5.194, de 24 de dezembro de 1966, a Lei n\u00ba 5.517, de 23 de outubro de 1968, e d\u00e1 outras provid\u00eancias.",
+                "id": "531391",
+                "nome": "PL 2948/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a anistia de d\u00edvidas oriundas de opera\u00e7\u00f5es de cr\u00e9dito rural do PRONAF e de d\u00edvidas provenientes de opera\u00e7\u00f5es de Cr\u00e9dito Fundi\u00e1rio contratadas nos estados atingidos por enchentes no per\u00edodo de 2009 a 2011.",
+                "id": "531389",
+                "nome": "PL 2947/2011"
+            },
+            {
+                "ementa": "Altera o C\u00f3digo Eleitoral, tipificando o crime de transfer\u00eancia fraudulenta de domic\u00edlio eleitoral, e d\u00e1 outras provid\u00eancias.",
+                "id": "531385",
+                "nome": "PL 2946/2011"
+            },
+            {
+                "ementa": "Acresce al\u00ednea ao art. 4\u00ba da Lei n\u00ba 4.898, de 9 de dezembro de 1965.",
+                "id": "531383",
+                "nome": "PL 2945/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 11.959, de 29 de junho de 2009, relativo \u00e0 cess\u00e3o n\u00e3o onerosa de \u00e1guas da Uni\u00e3o para fins de aquicultura.",
+                "id": "531380",
+                "nome": "PL 2944/2011"
+            },
+            {
+                "ementa": "Altera os arts. 13, 14, 25, 59, 63, 70, 72, 75, 77, 81, 82 e 103, e acrescenta os arts. 30-A, 205 e o Cap\u00edtulo VIII ao T\u00edtulo IV da Lei n\u00b0 7.210, de 11 de julho de 1984, que institui a Lei de Execu\u00e7\u00e3o Penal.",
+                "id": "518926",
+                "nome": "PL 2233/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dedutibilidade das doa\u00e7\u00f5es ao Fundo Penitenci\u00e1rio Nacional (FUNPEN) da base de c\u00e1lculo do imposto de renda das pessoas jur\u00eddicas e da contribui\u00e7\u00e3o social sobre o lucro l\u00edquido.",
+                "id": "518925",
+                "nome": "PL 2232/2011"
+            },
+            {
+                "ementa": "Altera o art. 321 do Decreto-lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal.",
+                "id": "518924",
+                "nome": "PL 2231/2011"
+            },
+            {
+                "ementa": "Institui o Estatuto Penitenci\u00e1rio Nacional.",
+                "id": "518923",
+                "nome": "PL 2230/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 5\u00ba ao art. 1\u00ba da Lei n\u00ba 11.520 de 18 de setembro de 2007, para dar direito \u00e0 pens\u00e3o especial aos filhos separados dos genitores atingidos pela hansen\u00edase, isolados e internados compulsoriamente.",
+                "id": "564122",
+                "nome": "PL 4907/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao inciso LXII do artigo 5\u00ba da Constitui\u00e7\u00e3o Federal, que disp\u00f5e sobre a pris\u00e3o de qualquer pessoa, para contemplar a sua imediata apresenta\u00e7\u00e3o em ju\u00edzo.",
+                "id": "528162",
+                "nome": "PEC 112/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao inciso LXII do art. 5\u00ba da Constitui\u00e7\u00e3o Federal, que disp\u00f5e sobre a pris\u00e3o de qualquer pessoa, para contemplar a sua imediata apresenta\u00e7\u00e3o em ju\u00edzo.",
+                "id": "515736",
+                "nome": "PEC 68/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo ao art. 101 da Constitui\u00e7\u00e3o Federal para estabelecer prazo de mandato para os Ministros do Supremo Tribunal Federal.",
+                "id": "541153",
+                "nome": "PEC 161/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAINDR",
+            "CPITRAES",
+            "CREDN",
+            "PEC00511",
+            "PEC11111",
+            "SUBCOHID",
+            "CDHM",
+            "CEENSI",
+            "CVT",
+            "PEC40509"
+        ],
+        "estado": "PA",
+        "id": "73933",
+        "nome": "ZEQUINHA MARINHO",
+        "partido": "PSC",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre os estudos de Invent\u00e1rio Hidrel\u00e9trico de Bacias Hidrogr\u00e1ficas e estabelece outras provid\u00eancias.",
+                "id": "531599",
+                "nome": "PL 2957/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre reserva de vagas nos cursos de gradua\u00e7\u00e3o das institui\u00e7\u00f5es federais de educa\u00e7\u00e3o superior, para estudantes egressos do ensino m\u00e9dio p\u00fablico",
+                "id": "531596",
+                "nome": "PL 2956/2011"
+            },
+            {
+                "ementa": "Estabelece prazo para o in\u00edcio de opera\u00e7\u00e3o de servi\u00e7o de radiodifus\u00e3o ap\u00f3s a concess\u00e3o da outorga.",
+                "id": "531594",
+                "nome": "PL 2955/2011"
+            },
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "531588",
+                "nome": "PL 2954/2011"
+            },
+            {
+                "ementa": "Inclui no Anexo da Lei n\u00ba 5.917, de 10 de setembro de 1973, que disp\u00f5e sobre o Plano Nacional de Via\u00e7\u00e3o, o trecho rodovi\u00e1rio que especifica. ",
+                "id": "531587",
+                "nome": "PL 2953/2011"
+            },
+            {
+                "ementa": "Modifica o art. 132 da Lei n\u00ba 8.069, de 13 de julho de 1990, que disp\u00f5e sobre o Estatuto da Crian\u00e7a e do Adolescente.",
+                "id": "546145",
+                "nome": "PL 3963/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEESTA",
+            "CTASP",
+            "PEC00511",
+            "PEC40509",
+            "PL157211",
+            "PL682610",
+            "SUBMIHPA",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CCJC",
+            "CPITRAES",
+            "PEC20712",
+            "PEC47810",
+            "PL161096"
+        ],
+        "estado": "SE",
+        "id": "151208",
+        "nome": "LAERCIO OLIVEIRA",
+        "partido": "PR",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 7.713, de 22 de dezembro de 1988, determinando atualiza\u00e7\u00e3o monet\u00e1ria do valor retido na fonte no momento da restitui\u00e7\u00e3o ao contribuinte.",
+                "id": "531962",
+                "nome": "PL 2985/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a disponibiliza\u00e7\u00e3o permanente de Desfibrilador Card\u00edaco Externo Autom\u00e1tico em locais p\u00fablicos.",
+                "id": "531961",
+                "nome": "PL 2984/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre normas relativas \u00e0 presta\u00e7\u00e3o de servi\u00e7os de cart\u00f5es de cr\u00e9dito e d\u00e9bito.",
+                "id": "527015",
+                "nome": "PL 2688/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 11.901, de 12 de janeiro de 2009.",
+                "id": "526014",
+                "nome": "PL 2639/2011"
+            },
+            {
+                "ementa": "Altera o texto da Lei n\u00ba 12.513, de 26 de outubro de 2011, que \"Institui o Programa Nacional de Acesso ao Ensino T\u00e9cnico e Emprego (Pronatec); altera as Leis n\u00ba 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial e institui o Fundo de Amparo ao Trabalhador (FAT), n\u00ba 8.212, de 24 de julho de 1991, que disp\u00f5e sobre a organiza\u00e7\u00e3o da Seguridade Social e institui Plano de Custeio, n\u00ba 10.260, de 12 de julho de 2001, que disp\u00f5e sobre o Fundo de Financiamento ao Estudante do Ensino Superior, e n\u00ba 11.129, de 30 de junho de 2005, que institui o Programa Nacional de Inclus\u00e3o de Jovens (ProJovem); e d\u00e1 outras provid\u00eancias\".",
+                "id": "526013",
+                "nome": "PL 2638/2011"
+            },
+            {
+                "ementa": "Institui a obrigatoriedade de ascensorista em edifica\u00e7\u00f5es comerciais e pr\u00e9dios p\u00fablicos n\u00e3o residenciais com elevador.",
+                "id": "526012",
+                "nome": "PL 2637/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.989, de 24 de fevereiro de 1995.",
+                "id": "524274",
+                "nome": "PL 2558/2011"
+            },
+            {
+                "ementa": "Institui o C\u00f3digo de Defesa do Contribuinte brasileiro.",
+                "id": "524272",
+                "nome": "PL 2557/2011"
+            },
+            {
+                "ementa": "Revoga artigos da Lei n\u00ba 12.431, de 27 de junho de 2011.",
+                "id": "521423",
+                "nome": "PL 2401/2011"
+            },
+            {
+                "ementa": "Altera o art. 193 da Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para conceder adicional de periculosidade aos trabalhadores, redefinindo os crit\u00e9rios para caracteriza\u00e7\u00e3o das atividades ou opera\u00e7\u00f5es perigosas.  ",
+                "id": "519800",
+                "nome": "PL 2314/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a reinser\u00e7\u00e3o dos trabalhadores apenados no regime semiaberto e egressos do sistema prisional brasileiro no mercado de trabalho.",
+                "id": "518238",
+                "nome": "PL 2189/2011"
+            },
+            {
+                "ementa": "Altera artigo da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o \"C\u00f3digo de Tr\u00e2nsito Brasileiro\", permitindo a doa\u00e7\u00e3o de ve\u00edculos e a venda de sucata abandonados.",
+                "id": "517565",
+                "nome": "PL 2145/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dedu\u00e7\u00e3o do gasto com atividades esportivas, para fins de imposto de renda das pessoas f\u00edsicas.",
+                "id": "517564",
+                "nome": "PL 2144/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o de imposto de renda e de recolhimento do INSS aos aposentados.",
+                "id": "515935",
+                "nome": "PL 2047/2011"
+            },
+            {
+                "ementa": "Institui aplicabilidade ao quadro administrativo da empresa contratante ou mediante frente de servi\u00e7o dos percentuais referidos no art. 93, da Lei n\u00ba 8.213, de 24 de julho de 1991.",
+                "id": "509994",
+                "nome": "PL 1653/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dedu\u00e7\u00e3o do lucro tribut\u00e1vel, para fins de imposto sobre a renda das pessoas jur\u00eddicas, do dobro das despesas realizadas em projetos de forma\u00e7\u00e3o profissional, e d\u00e1 outras provid\u00eancias.",
+                "id": "509991",
+                "nome": "PL 1652/2011"
+            },
+            {
+                "ementa": "Altera a Consolida\u00e7\u00e3o das Leis do Trabalho (CLT) a fim de atualizar a base da c\u00e1lculo da contribui\u00e7\u00e3o sindical patronal.",
+                "id": "505152",
+                "nome": "PL 1491/2011"
+            },
+            {
+                "ementa": "Veda a participa\u00e7\u00e3o, em licita\u00e7\u00f5es, de cooperativas nos casos que especifica e d\u00e1 outras provid\u00eancias.",
+                "id": "505151",
+                "nome": "PL 1490/2011"
+            },
+            {
+                "ementa": "Institui a obrigatoriedade de discrimina\u00e7\u00e3o, nas notas e cupons fiscais de todos os bens e servi\u00e7os comercializados, o valor total de impostos incidentes.",
+                "id": "505150",
+                "nome": "PL 1489/2011"
+            },
+            {
+                "ementa": "Condiciona a libera\u00e7\u00e3o das parcelas do seguro-desemprego \u00e0 comprova\u00e7\u00e3o de freq\u00fc\u00eancia a curso de qualifica\u00e7\u00e3o profissional.",
+                "id": "502141",
+                "nome": "PL 1343/2011"
+            },
+            {
+                "ementa": "Altera o art. 134, do Estatuto da Crian\u00e7a e do Adolescente, institu\u00eddo pela Lei n\u00ba 8.069, de 13 de julho de 1990.",
+                "id": "501893",
+                "nome": "PL 1335/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 3\u00ba-A, da Lei n\u00ba 8.859, de 11 de novembro de 1972, tornando obrigat\u00f3ria a inclus\u00e3o de empregado dom\u00e9stico no Fundo de Garantia por Tempo de Servi\u00e7o - FGTS.",
+                "id": "501891",
+                "nome": "PL 1334/2011"
+            },
+            {
+                "ementa": "Possibiita que a pessoa jur\u00eddica deduza do imposto de renda metade do sal\u00e1rio pago a empregado com idade igual ou superior a 50 anos",
+                "id": "500790",
+                "nome": "PL 1252/2011"
+            },
+            {
+                "ementa": "Cria o Programa Nacional do Trabalho na \"Melhor Idade\" e d\u00e1 outras provid\u00eancias.",
+                "id": "500789",
+                "nome": "PL 1251/2011"
+            },
+            {
+                "ementa": "Altera o art. 280 da Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para determinar que a infra\u00e7\u00e3o de tr\u00e2nsito n\u00e3o ser\u00e1 comprovada por lombada eletr\u00f4nica.",
+                "id": "498988",
+                "nome": "PL 1120/2011"
+            },
+            {
+                "ementa": "Altera a Consolida\u00e7\u00e3o da Leis do Trabalho, a fim de alterar a reda\u00e7\u00e3o do \u00a7 2\u00ba do art. 477 da CLT, que trata dos efeitos da quita\u00e7\u00e3o das verbas rescis\u00f3rias.",
+                "id": "497536",
+                "nome": "PL 948/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 1\u00ba do art. 10 da Lei 9.795, de 27 de abril de 1999, que disp\u00f5e sobre a educa\u00e7\u00e3o ambiental, institui a Pol\u00edtica nacional de Educa\u00e7\u00e3o Ambiental e d\u00e1 outras provid\u00eancias.",
+                "id": "496949",
+                "nome": "PL 876/2011"
+            },
+            {
+                "ementa": "Obriga a manuten\u00e7\u00e3o, pelos fornecedores,  de atendimento telef\u00f4nico gratuito aos consumidores e veda a utiliza\u00e7\u00e3o de sistemas automatizados nesse atendimento",
+                "id": "496239",
+                "nome": "PL 847/2011"
+            },
+            {
+                "ementa": "Denomina de BOA LUZ, o viaduto localizado na BR 235, Km 16, entre as cidades  de  Aracaju e Laranjeiras,  no Estado de Sergipe.",
+                "id": "495235",
+                "nome": "PL 769/2011"
+            },
+            {
+                "ementa": "Autoriza o revendedor varejista de combust\u00edveis a recarregar vasilhames de g\u00e1s liquefeito de petr\u00f3leo no estabelecimento denominado posto revendedor.",
+                "id": "493480",
+                "nome": "PL 602/2011"
+            },
+            {
+                "ementa": "Altera dispositivo do Decreto-Lei n\u00ba 2.398, de 21 de dezembro de 1987, para reduzir o valor do laud\u00eamio relativo a im\u00f3veis de propriedade da Uni\u00e3o.",
+                "id": "493135",
+                "nome": "PL 520/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a realiza\u00e7\u00e3o de licita\u00e7\u00e3o na modalidade Preg\u00e3o Eletr\u00f4nico no \u00e2mbito da Administra\u00e7\u00e3o Federal.",
+                "id": "492360",
+                "nome": "PL 468/2011"
+            },
+            {
+                "ementa": "Regulamenta o art. 19 da Lei n\u00ba 8.078,  de 11de setembro de 1990 para disciplinar  a venda ou troca de botij\u00f5es de G\u00e1s Liquefeito de Petr\u00f3leo para uso dom\u00e9stico.",
+                "id": "492359",
+                "nome": "PL 467/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.294, de 15 de julho de 1996.",
+                "id": "563635",
+                "nome": "PL 4860/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.833, de 29 de dezembro de 2003.",
+                "id": "563633",
+                "nome": "PL 4859/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a transpar\u00eancia nos editais de concursos p\u00fablicos.",
+                "id": "562018",
+                "nome": "PL 4790/2012"
+            },
+            {
+                "ementa": "Altera o art. 91 da Lei n\u00ba 9.504, de 30 de setembro de 1997.",
+                "id": "557373",
+                "nome": "PL 4575/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.305, de 2 de agosto de 2010.",
+                "id": "555250",
+                "nome": "PL 4409/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997.",
+                "id": "555248",
+                "nome": "PL 4408/2012"
+            },
+            {
+                "ementa": "Institui o Servi\u00e7o Social Obrigat\u00f3rio.",
+                "id": "555247",
+                "nome": "PL 4407/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00b0 6.496, de 7 de dezembro de 1977.",
+                "id": "553030",
+                "nome": "PL 4304/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.404, de 15 de dezembro de 1976, para criar e disciplinar a sociedade an\u00f4nima simplificada (SAS).",
+                "id": "553029",
+                "nome": "PL 4303/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.666, de 21 de junho de 1993.",
+                "id": "553028",
+                "nome": "PL 4302/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.433, de 8 de janeiro de 1997.",
+                "id": "553027",
+                "nome": "PL 4301/2012"
+            },
+            {
+                "ementa": "Institui o Programa Nacional de Conserva\u00e7\u00e3o, Uso Racional e Reaproveitamento das \u00c1guas.",
+                "id": "549441",
+                "nome": "PL 4109/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.112, de 11 de dezembro de 1990, estabelecendo casos que impedem a nomea\u00e7\u00e3o em cargo p\u00fablico.",
+                "id": "547018",
+                "nome": "PL 4013/2012"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do Cicloturismo.",
+                "id": "547016",
+                "nome": "PL 4012/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.250, de 26 de dezembro de 1995.",
+                "id": "545634",
+                "nome": "PL 3930/2012"
+            },
+            {
+                "ementa": "Institui o contrato de trabalho intermitente.",
+                "id": "543121",
+                "nome": "PL 3785/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.666, de 21 de junho de 1993.",
+                "id": "539512",
+                "nome": "PL 3574/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.036, de 11 de maio de 1990, que \"disp\u00f5e sobre o Fundo de Garantia por Tempo de Servi\u00e7o, e d\u00e1 outras provid\u00eancias\".",
+                "id": "537216",
+                "nome": "PL 3438/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que \"institui o C\u00f3digo de Tr\u00e2nsito Brasileiro\".",
+                "id": "537215",
+                "nome": "PL 3437/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.019, de 3 de janeiro de 1974, que disp\u00f5e sobre o trabalho tempor\u00e1rio nas empresas urbanas, e d\u00e1 outras provid\u00eancias.",
+                "id": "537211",
+                "nome": "PL 3436/2012"
+            },
+            {
+                "ementa": "Regulamenta profiss\u00e3o de cinegrafista.",
+                "id": "534925",
+                "nome": "PL 3242/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.989, de 24 de fevereiro de 1995.",
+                "id": "534315",
+                "nome": "PL 3171/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a inclus\u00e3o das receitas decorrentes dos servi\u00e7os de m\u00e3o de obra tempor\u00e1ria e presta\u00e7\u00e3o de servi\u00e7os de limpeza e conserva\u00e7\u00e3o no regime de cumulatividade do PIS e da COFINS.",
+                "id": "534314",
+                "nome": "PL 3170/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEENSI",
+            "CVT",
+            "SUBAGRIF",
+            "SUBCANA",
+            "ALTOSEST",
+            "CAPADR",
+            "CEAGRIRU",
+            "PEC11111",
+            "PEC40509"
+        ],
+        "estado": "PI",
+        "id": "160671",
+        "nome": "JESUS RODRIGUES",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 10.406, de 10 de janeiro de 2002 - C\u00f3digo Civil acrescentando o artigo 940-A e d\u00e1 outras provid\u00eancias.",
+                "id": "529113",
+                "nome": "PL 2805/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a Pol\u00edtica Nacional de Desenvolvimento Sustent\u00e1vel da atividade exercida pelo Profissional Vazanteiros e d\u00e1 outras provid\u00eancias.",
+                "id": "526897",
+                "nome": "PL 2670/2011"
+            },
+            {
+                "ementa": "Cria o Programa de Microdestilarias de Biocombust\u00edveis - PROMICRO-Etanol, bem como possibilita a participa\u00e7\u00e3o de Associa\u00e7\u00f5es e Cooperativas na comercializa\u00e7\u00e3o de biocombust\u00edvel, e d\u00e1 outras provid\u00eancias.",
+                "id": "521168",
+                "nome": "PL 2397/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a forma de pagamento do percentual referente \u00e0s despesas do Poder Legislativo Municipal estabelecido no art. 29-A da Constitui\u00e7\u00e3o Federal.",
+                "id": "519814",
+                "nome": "PL 2317/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o a dispositivo da Lei n\u00ba 8.742, de 7 de dezembro de 1993, que disp\u00f5e sobre a organiza\u00e7\u00e3o da Assist\u00eancia Social, e d\u00e1 outras provid\u00eancias.",
+                "id": "518952",
+                "nome": "PL 2238/2011"
+            },
+            {
+                "ementa": "Cria isen\u00e7\u00e3o fiscal \u00e0 produ\u00e7\u00e3o dos equipamentos de seguran\u00e7a para motociclistas e passageiros descritos nos arts. 54 e 55, incisos I e II do C\u00f3digo de Tr\u00e2nsito Brasileiro (Capacete e vestu\u00e1rio de prote\u00e7\u00e3o, de acordo com as especifica\u00e7\u00f5es do CONTRAN).",
+                "id": "518771",
+                "nome": "PL 2216/2011"
+            },
+            {
+                "ementa": "Altera o art. 45 da Lei n\u00ba 8.213, de 24 de julho de 1991, que \"disp\u00f5e sobre os Benef\u00edcios da Previd\u00eancia Social, e d\u00e1 outras provid\u00eancias.\"",
+                "id": "515922",
+                "nome": "PL 2044/2011"
+            },
+            {
+                "ementa": "Acrescenta art. 280-A \u00e0 Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+                "id": "508475",
+                "nome": "PL 1560/2011"
+            },
+            {
+                "ementa": "Reconhece as pessoas com doen\u00e7as renais cr\u00f4nicas como pessoas com defici\u00eancia para todos os fins de direito e d\u00e1 outras provid\u00eancias.",
+                "id": "499729",
+                "nome": "PL 1178/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a proibi\u00e7\u00e3o da utiliza\u00e7\u00e3o de recursos p\u00fablicos na aquisi\u00e7\u00e3o de bebidas alco\u00f3licas por parte da Administra\u00e7\u00e3o P\u00fablica direta e indireta da Uni\u00e3o, Estados, Distrito Federal e Munic\u00edpios, bem como a proibi\u00e7\u00e3o do consumo de bebidas alco\u00f3licas nos bens p\u00fablicos de uso especial da Administra\u00e7\u00e3o P\u00fablica direta e indireta da Uni\u00e3o, Estados, Distrito Federal e Munic\u00edpios e, e d\u00e1 outras provid\u00eancias.",
+                "id": "492396",
+                "nome": "PL 478/2011"
+            },
+            {
+                "ementa": "Regulamenta o art. 3\u00ba, inciso IV, da Lei n\u00ba 12.527, de 18 de novembro de 2011, institui normas para dar transpar\u00eancia \u00e0 publicidade dos atos da Administra\u00e7\u00e3o Publica Estadual e Municipal e da outras provid\u00eancias. ",
+                "id": "563654",
+                "nome": "PL 4863/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as fun\u00e7\u00f5es administrativas atribu\u00eddas \u00e0s Assembleias Legislativas dos Estados, \u00e0 C\u00e2mara Legislativa do Distrito Federal, regulamentando o art. 27, \u00a7 3\u00ba, da Constitui\u00e7\u00e3o Federal, e d\u00e1 outras provid\u00eancias.",
+                "id": "562866",
+                "nome": "PL 4837/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 6.194, de 19 de dezembro de  1974, que disp\u00f5e sobre \"Seguro Obrigat\u00f3rio de Danos Pessoais causados por ve\u00edculos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou n\u00e3o - DPVAT, acrescentando os \u00a7 4\u00ba, 5\u00ba, 6\u00ba e 7\u00ba do art. 3\u00ba e d\u00e1 outras provid\u00eancias\".",
+                "id": "542460",
+                "nome": "PL 3748/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados (IPI) e Imposto sob Opera\u00e7\u00f5es Financeiras (IOF) na aquisi\u00e7\u00e3o de ve\u00edculos tipo motocicleta ou motoneta para utiliza\u00e7\u00e3o no transporte remunerado de passageiros (motot\u00e1xi) e d\u00e1 outras provid\u00eancias.",
+                "id": "540015",
+                "nome": "PL 3617/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados (IPI) e Imposto sob Opera\u00e7\u00f5es financeiras (IOF) na aquisi\u00e7\u00e3o de autom\u00f3veis para utiliza\u00e7\u00e3o no transporte escolar, e d\u00e1 outras provid\u00eancias.",
+                "id": "536476",
+                "nome": "PL 3395/2012"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 4\u00ba ao art. 77-B da Lei n\u00ba 9.503, de 23 de setembro de 1997, estabelecendo restri\u00e7\u00f5es \u00e0 propaganda de ve\u00edculos automotivos, proibindo a utiliza\u00e7\u00e3o de som, imagem e/ou qualquer outro meio sobre aqueles que ir\u00e3o v\u00ea-lo ou ouvi-lo em an\u00fancios que demonstrem qualquer infra\u00e7\u00e3o as normas de tr\u00e2nsitos brasileiras previstas no CTB, que induza atividades criminosas, ilegais e/ou violentas no tr\u00e2nsito, favorecendo, enaltecendo ou estimulando tais atividades.",
+                "id": "535857",
+                "nome": "PL 3324/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CE",
+            "PL749506",
+            "PL767210",
+            "SUBFINED",
+            "CEENSI",
+            "CME",
+            "PEC40509",
+            "PL766310",
+            "SUBCOPA",
+            "SUBFIPAC"
+        ],
+        "estado": "SP",
+        "id": "141375",
+        "nome": "ALINE CORR\u00caA",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Pro\u00edbe a utiliza\u00e7\u00e3o de aparelhos de telefonia m\u00f3vel em estabelecimentos financeiros e d\u00e1 outras provid\u00eancias.",
+                "id": "502743",
+                "nome": "PL 1387/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de instala\u00e7\u00e3o de pain\u00e9is opacos defronte aos guich\u00eas de caixa de estabelecimentos financeiros.",
+                "id": "499879",
+                "nome": "PL 1195/2011"
+            },
+            {
+                "ementa": "Modifica o inciso XIV do art. 6\u00ba da Lei n\u00ba 7.713, de 22 de dezembro de 1988, que \"altera a legisla\u00e7\u00e3o do imposto de renda e d\u00e1 outras provid\u00eancias\", para isentar do imposto de renda os proventos percebidos pelos portadores de sequelas incapacitantes decorrentes de encefalite herp\u00e9tica.",
+                "id": "499877",
+                "nome": "PL 1194/2011"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Limeira, no Estado de S\u00e3o Paulo, o t\u00edtulo de Capital Nacional da Joia Folheada. ",
+                "id": "558429",
+                "nome": "PL 4647/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.934, de 18 de novembro de 1994, que Disp\u00f5e sobre o Registro P\u00fablico de Empresas Mercantis e Atividades Afins e d\u00e1 outras provid\u00eancias, para os fins de exigir a apresenta\u00e7\u00e3o de documento de identifica\u00e7\u00e3o com foto e o registro dos dados biom\u00e9tricos dos s\u00f3cios e administradores das empresas mercantis.",
+                "id": "558426",
+                "nome": "PL 4646/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a repress\u00e3o \u00e0 viol\u00eancia contra a mulher, alterando dispositivos da Lei n\u00ba 11.340, de 7 de agosto de 2006 - Lei Maria da Penha, e d\u00e1 outras provid\u00eancias.",
+                "id": "556589",
+                "nome": "PL 4501/2012"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Americana, no Estado de S\u00e3o Paulo, o t\u00edtulo de Capital Nacional da Moda. ",
+                "id": "553505",
+                "nome": "PL 4319/2012"
+            },
+            {
+                "ementa": "Estabelece cota m\u00ednima para a contrata\u00e7\u00e3o obrigat\u00f3ria de artistas de baixa renda e de artistas idosos de baixa renda nas produ\u00e7\u00f5es audiovisuais financiadas por recursos p\u00fablicos.",
+                "id": "546657",
+                "nome": "PL 3992/2012"
+            },
+            {
+                "ementa": "Confere ao Munic\u00edpio de Ca\u00e7apava, Estado de S\u00e3o Paulo, o t\u00edtulo de \"Capital Nacional do Antigomobilismo\".",
+                "id": "544169",
+                "nome": "PL 3841/2012"
+            },
+            {
+                "ementa": "Altera o Art. 473 da Consolida\u00e7\u00e3o das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para permitir que o empregado falte servi\u00e7o para acompanhar o filho menor de idade sofrendo de doen\u00e7a infectocontagiosa.",
+                "id": "539493",
+                "nome": "PL 3572/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEANISTI",
+            "CME",
+            "PEC40509",
+            "PL540301",
+            "SUBPNBL",
+            "SUBRADIG",
+            "CCTCI",
+            "CESEGUR",
+            "COETICA",
+            "PL682610",
+            "PL712310"
+        ],
+        "estado": "GO",
+        "id": "74372",
+        "nome": "SANDES J\u00daNIOR",
+        "partido": "PP",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Rodovia Juscelino Kubitschek\" o trecho da BR-060 entre as cidades de Goi\u00e2nia, no Estado de Goi\u00e1s, e Bras\u00edlia, no Distrito Federal.",
+                "id": "497379",
+                "nome": "PL 916/2011"
+            },
+            {
+                "ementa": "Acrescenta o  art. 216-B  ao Decreto-Lei  n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, para  cominar  a  pena  de castra\u00e7\u00e3o qu\u00edmica nas hip\u00f3teses em que o autor dos crimes tipificados nos arts. 213 e 218  for  considerado  estupro.",
+                "id": "491711",
+                "nome": "PL 349/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o do Programa Nacional de Pesquisa e Desenvolvimento de Compostos Org\u00e2nicos de Origem Vegetal, que tem como objetivo reduzir as emiss\u00f5es de gases de efeito estufa e o consumo de combust\u00edveis f\u00f3sseis.",
+                "id": "491625",
+                "nome": "PL 316/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, estabelecendo o prazo m\u00ednimo de trezentos e sessenta dias para a validade dos cr\u00e9ditos dos planos pr\u00e9-pagos do servi\u00e7o de telefonia m\u00f3vel.",
+                "id": "491624",
+                "nome": "PL 315/2011"
+            },
+            {
+                "ementa": "Institui a obrigatoriedade das empresas que  administram  cinemas em  todo  o territ\u00f3rio nacional, a ceder, no m\u00ednimo 30 (trinta) segundos antes das sess\u00f5es, ao Poder p\u00fablico, para a realiza\u00e7\u00e3o de campanhas sobre o C\u00f3digo de Defesa do Consumidor.",
+                "id": "491623",
+                "nome": "PL 314/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.259, de 12 de julho de 2001, que disp\u00f5e sobre a institui\u00e7\u00e3o dos Juizados Especiais C\u00edveis e Criminais no \u00e2mbito da Justi\u00e7a Federal.",
+                "id": "491621",
+                "nome": "PL 313/2011"
+            },
+            {
+                "ementa": "Altera o art. 8\u00ba da Lei n\u00ba 9.250, de 26 de dezembro de 1995, para incluir as  despesas com aparelhos de audi\u00e7\u00e3o entre as dedu\u00e7\u00f5es permitidas para efeito da apura\u00e7\u00e3o da base de c\u00e1lculo do Imposto de Renda das Pessoas F\u00edsicas.",
+                "id": "491620",
+                "nome": "PL 312/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997.",
+                "id": "491619",
+                "nome": "PL 311/2011"
+            },
+            {
+                "ementa": "Altera o art. 75 do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, para determinar 60(sessenta) anos como limite de cumprimento da pena privativa de liberdade.",
+                "id": "491618",
+                "nome": "PL 310/2011"
+            },
+            {
+                "ementa": "Institui o sistema de preven\u00e7\u00e3o \u00e0 S\u00edndrome Alco\u00f3lica Fetal.",
+                "id": "491375",
+                "nome": "PL 254/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a livre circula\u00e7\u00e3o de livros e produ\u00e7\u00f5es intelectuais.",
+                "id": "491374",
+                "nome": "PL 253/2011"
+            },
+            {
+                "ementa": "Determina que as empresas de transporte ofere\u00e7am alternativas aos usu\u00e1rios quando do impedimento do oferecimento do servi\u00e7o.",
+                "id": "491373",
+                "nome": "PL 252/2011"
+            },
+            {
+                "ementa": "Altera o art. 429, do Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para estabelecer a propor\u00e7\u00e3o de trabalhadores aprendizes nas empresas e d\u00e1 outras provid\u00eancias.",
+                "id": "491372",
+                "nome": "PL 251/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o dos par\u00e1grafos 2\u00ba e 3\u00ba ao art. 47 do Decreto Lei n\u00ba 5.452 de 1\u00ba de maio de 1943 (Consolida\u00e7\u00e3o das Leis do Trabalho).",
+                "id": "491371",
+                "nome": "PL 250/2011"
+            },
+            {
+                "ementa": "Estabelece a obrigatoriedade de divulga\u00e7\u00e3o pelos bancos de sangue, pelos servi\u00e7os de hemoterapia e outras entidades afins, de informa\u00e7\u00f5es a respeito da doa\u00e7\u00e3o de medula \u00f3ssea, e d\u00e1 outras provid\u00eancias.",
+                "id": "491370",
+                "nome": "PL 249/2011"
+            },
+            {
+                "ementa": "Constitui banco de profissionais que conclu\u00edram a gradua\u00e7\u00e3o em institui\u00e7\u00f5es p\u00fablicas de ensino ou em qualquer institui\u00e7\u00e3o de ensino, para servi\u00e7os remunerados em comunidades carentes de profissionais em suas respectivas \u00e1reas de forma\u00e7\u00e3o.",
+                "id": "491369",
+                "nome": "PL 248/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a realiza\u00e7\u00e3o de plebiscitos e referendos municipais simultaneamente com as elei\u00e7\u00f5es de prefeitos e vereadores.",
+                "id": "491368",
+                "nome": "PL 247/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo ao art. 312 do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal.",
+                "id": "491367",
+                "nome": "PL 246/2011"
+            },
+            {
+                "ementa": "Determina que a  imunidade de execu\u00e7\u00e3o em favor de Estado Estrangeiro n\u00e3o alcan\u00e7a o cr\u00e9dito trabalhista.",
+                "id": "491366",
+                "nome": "PL 245/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do \u00a7 2\u00ba do art. 37 da Lei n\u00ba 8.078, de 11 de setembro de 1990.",
+                "id": "491365",
+                "nome": "PL 244/2011"
+            },
+            {
+                "ementa": "Eleva a dez anos a responsabilidade do empreiteiro pela solidez e seguran\u00e7a de edif\u00edcios e outras constru\u00e7\u00f5es consider\u00e1veis.",
+                "id": "491364",
+                "nome": "PL 243/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a utiliza\u00e7\u00e3o de energia solar e reaproveitamento da \u00e1gua da chuva na constru\u00e7\u00e3o de habita\u00e7\u00f5es populares.",
+                "id": "491363",
+                "nome": "PL 242/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.078, de 11 de setembro de 1990 - C\u00f3digo de Defesa e Prote\u00e7\u00e3o do Consumidor.",
+                "id": "491361",
+                "nome": "PL 240/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 2\u00ba ao art. 549 da Lei n\u00ba 5.869, de 11 de janeiro de 1973 - C\u00f3digo de Processo Civil - transformando o atual par\u00e1grafo \u00fanico em \u00a7 1\u00ba.",
+                "id": "491362",
+                "nome": "PL 241/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Consolida\u00e7\u00e3o das Leis do Trabalho, aprovada pelo Decreto-Lei n\u00ba 5.452, de 1\u00ba de maio de 1943, para garantir seguro de vida aos jornalistas profissionais.",
+                "id": "491360",
+                "nome": "PL 239/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a reserva na divulga\u00e7\u00e3o das anota\u00e7\u00f5es de prontu\u00e1rios de pessoas indiciadas ou processadas, nas hip\u00f3teses que menciona.",
+                "id": "491358",
+                "nome": "PL 238/2011"
+            },
+            {
+                "ementa": "Altera os arts. 7\u00ba, 13 e 15 da Lei n\u00ba 9.636, de 15 de maio de 1998, que, primordialmente, disp\u00f5e sobre a regulariza\u00e7\u00e3o, administra\u00e7\u00e3o, aforamento e aliena\u00e7\u00e3o de bens im\u00f3veis de dom\u00ednio da Uni\u00e3o.",
+                "id": "491357",
+                "nome": "PL 237/2011"
+            },
+            {
+                "ementa": "Modifica dispositivo da Lei de n\u00ba 7.210, de 11 de junho de 1984 - Lei de Execu\u00e7\u00e3o Penal.",
+                "id": "491356",
+                "nome": "PL 236/2011"
+            },
+            {
+                "ementa": "Inclui par\u00e1grafo \u00fanico ao art. 158 do Decreto-Lei n\u00ba 3.689, de 03 de outubro de 1941 - C\u00f3digo de Processo Penal.",
+                "id": "491355",
+                "nome": "PL 235/2011"
+            },
+            {
+                "ementa": "Inclui os par\u00e1grafos primeiro e segundo ao art. 781 da Lei n\u00ba 10.406, de 10 de janeiro de 2002 - C\u00f3digo Civil, de modo estabelecer normas sobre indeniza\u00e7\u00e3o para os contratos de seguro de ve\u00edculos automotores.",
+                "id": "491354",
+                "nome": "PL 234/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre garantias para o exerc\u00edcio das atividades de seguran\u00e7a p\u00fablica, visando a efici\u00eancia de suas atividades e d\u00e1 outras provid\u00eancias.",
+                "id": "491353",
+                "nome": "PL 233/2011"
+            },
+            {
+                "ementa": "Altera os arts. 120 e 124 da Lei n\u00ba 8.069, de 13 de julho de 1990, Estatuto da Crian\u00e7a e do Adolescente.",
+                "id": "491352",
+                "nome": "PL 232/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, assegurando ao usu\u00e1rio dos servi\u00e7os de telefonia fixa e m\u00f3vel o direito de obter, a qualquer tempo, informa\u00e7\u00f5es gratuitas sobre as chamadas telef\u00f4nicas realizadas.",
+                "id": "491351",
+                "nome": "PL 231/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.078, de 11 de setembro de 1990, para obrigar o fornecedor a informar sobre o direito de desist\u00eancia do contrato.",
+                "id": "491350",
+                "nome": "PL 230/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o da Lei de n\u00ba 8.069, de 13 de julho de 1990 - Estatuto da Crian\u00e7a e do Adolescente.",
+                "id": "491348",
+                "nome": "PL 229/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 2\u00ba do art. 160 da Lei n\u00ba 6.015, de 31 de dezembro de 1973, disciplinando a obrigatoriedade da territorialidade nas notifica\u00e7\u00f5es extrajudiciais.",
+                "id": "491347",
+                "nome": "PL 228/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.098, de 19 de dezembro de 2000, que \"estabelece normas gerais e crit\u00e9rios b\u00e1sicos de acessibilidade das pessoas portadoras de defici\u00eancia ou com mobilidade reduzida e d\u00e1 outras provid\u00eancias\".",
+                "id": "491346",
+                "nome": "PL 227/2011"
+            },
+            {
+                "ementa": "Altera o art. 32 da Lei n\u00ba 8.078, de 11 de setembro de 1990.",
+                "id": "491345",
+                "nome": "PL 226/2011"
+            },
+            {
+                "ementa": "Cria a notifica\u00e7\u00e3o compuls\u00f3ria dos casos de viol\u00eancia dom\u00e9stica por toda a rede de servi\u00e7os de sa\u00fade e secretarias de seguran\u00e7a p\u00fablica existentes no territ\u00f3rio nacional.",
+                "id": "491343",
+                "nome": "PL 225/2011"
+            },
+            {
+                "ementa": "Revoga disposi\u00e7\u00e3o da Lei n\u00ba 9.514, de 1997.",
+                "id": "491342",
+                "nome": "PL 224/2011"
+            },
+            {
+                "ementa": "Acresce o inciso XV ao art. 30 da Lei n\u00ba 8.935, de 18 de novembro de 1994.",
+                "id": "491341",
+                "nome": "PL 223/2011"
+            },
+            {
+                "ementa": "Altera os arts. 180 e 334 do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal.",
+                "id": "491340",
+                "nome": "PL 222/2011"
+            },
+            {
+                "ementa": "Altera os arts. 26, 39, 51, 82, 102 e 106 da Lei n\u00ba 8.078, de 11 de setembro de 1990, que \"Disp\u00f5e sobre a prote\u00e7\u00e3o do consumidor e d\u00e1 outras provid\u00eancias\".",
+                "id": "491339",
+                "nome": "PL 221/2011"
+            },
+            {
+                "ementa": "Determina  a  inclus\u00e3o  da disciplina  Organiza\u00e7\u00e3o  dos  Poderes em todas as Institui\u00e7\u00f5es de Ensino de segundo grau e d\u00e1 outras provid\u00eancias.",
+                "id": "491338",
+                "nome": "PL 220/2011"
+            },
+            {
+                "ementa": "Modifica o art. 23 da Lei n\u00ba 6.830, de 1980 para permitir a arremata\u00e7\u00e3o com valor inferior ao dado pela avalia\u00e7\u00e3o ainda em primeiro leil\u00e3o.",
+                "id": "491337",
+                "nome": "PL 219/2011"
+            },
+            {
+                "ementa": "Obriga a contrata\u00e7\u00e3o de seguro para os servi\u00e7os de entrega que se utilizam de motocicletas ou ve\u00edculos afins.",
+                "id": "491335",
+                "nome": "PL 218/2011"
+            },
+            {
+                "ementa": "Altera os \u00a7\u00a7 3\u00ba e 4\u00ba do art. 20 da Lei n\u00ba 5.869, de 11 de janeiro de 1973 - C\u00f3digo de Processo Civil.",
+                "id": "491334",
+                "nome": "PL 217/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a prescri\u00e7\u00e3o nos crimes de lavagem ou oculta\u00e7\u00e3o de bens, Direitos e valores.",
+                "id": "491333",
+                "nome": "PL 216/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo ao art. 525 e altera a reda\u00e7\u00e3o do \u00a7 2\u00ba do art. 544 da Lei n\u00ba 5.869, de 11 de janeiro de 1973 - C\u00f3digo de Processo Civil.",
+                "id": "491332",
+                "nome": "PL 215/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.078, de 11 de setembro de 1990, para ampliar o conceito de fornecedor, aumentar os prazos para reclama\u00e7\u00e3o por v\u00edcios aparentes e determinar o rein\u00edcio da contagem desses prazos, ap\u00f3s o atendimento da reclama\u00e7\u00e3o pelo fornecedor.",
+                "id": "491331",
+                "nome": "PL 214/2011"
+            },
+            {
+                "ementa": "Altera as Leis n\u00bas 8.212 e 8.213, ambas de 24 de julho de 1991, para dispor sobre a filia\u00e7\u00e3o ao Regime Geral de Previd\u00eancia Social do brasileiro que reside no exterior.",
+                "id": "491330",
+                "nome": "PL 213/2011"
+            },
+            {
+                "ementa": "Acrescenta o par\u00e1grafo 2\u00ba ao art. 30 do Decreto-Lei n\u00ba 1.455, de 7 de abril de 1976, para introduzir a destina\u00e7\u00e3o obrigat\u00f3ria dos materiais de inform\u00e1tica apreendidos nas a\u00e7\u00f5es de combate ao contrabando para as escolas p\u00fablicas.",
+                "id": "491329",
+                "nome": "PL 212/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 1.361, \u00a71\u00ba, da Lei n\u00ba 10.406, de 10 de janeiro de 2002, que institui o C\u00f3digo Civil.",
+                "id": "491328",
+                "nome": "PL 211/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 1\u00ba-A ao art. 74 do Decreto-lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal.",
+                "id": "491327",
+                "nome": "PL 210/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 Lei n\u00ba 7.102, de 20 de junho de 1983, para dispor sobre a renova\u00e7\u00e3o da frota de ve\u00edculos das empresas particulares que exploram servi\u00e7os de vigil\u00e2ncia e de transportes de valores.",
+                "id": "491326",
+                "nome": "PL 209/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 6.938, de 31 de agosto de 1981, que disp\u00f5e sobre a Pol\u00edtica Nacional do Meio Ambiente, seus fins e mecanismos de formula\u00e7\u00e3o e aplica\u00e7\u00e3o, e d\u00e1 outras provid\u00eancias, visando condicionar a paralisa\u00e7\u00e3o ou desativa\u00e7\u00e3o de empreendimentos ou atividades licenciados a parecer favor\u00e1vel do \u00f3rg\u00e3o ambiental ou outras provid\u00eancias por este julgadas pertinentes.",
+                "id": "491325",
+                "nome": "PL 208/2011"
+            },
+            {
+                "ementa": "Cria o Cadastro Nacional de Ve\u00edculos Roubados.",
+                "id": "491324",
+                "nome": "PL 207/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de registro, perante o \u00f3rg\u00e3o competente do Poder Executivo, das pessoas que entrarem ou sa\u00edrem do territ\u00f3rio nacional.",
+                "id": "491323",
+                "nome": "PL 206/2011"
+            },
+            {
+                "ementa": "Altera o art. 51 da Lei n\u00ba 8.078, de 11 de setembro de 1990 - C\u00f3digo de Defesa do Consumidor, e d\u00e1 outras provid\u00eancias.",
+                "id": "491322",
+                "nome": "PL 205/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo ao art. 1.876 da Lei n\u00ba 10.406, de 10 de janeiro de 2002 - C\u00f3digo Civil.",
+                "id": "491321",
+                "nome": "PL 204/2011"
+            },
+            {
+                "ementa": "Altera dispositivos do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal.",
+                "id": "491320",
+                "nome": "PL 203/2011"
+            },
+            {
+                "ementa": "Destina o n\u00famero telef\u00f4nico 153 para chamadas gratuitas de emerg\u00eancia, exclusiva para as guardas municipais.",
+                "id": "491318",
+                "nome": "PL 201/2011"
+            },
+            {
+                "ementa": "Permite ao Advogado a formula\u00e7\u00e3o de perguntas diretamente ao depoente.",
+                "id": "491319",
+                "nome": "PL 202/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao \u00a7 2\u00ba do art. 43 da Lei n\u00ba 8.078, de 11 de Setembro de 1990.",
+                "id": "491316",
+                "nome": "PL 200/2011"
+            },
+            {
+                "ementa": "Determina a comunica\u00e7\u00e3o ao usu\u00e1rio de transporte sobre impedimentos em seu deslocamento.",
+                "id": "491315",
+                "nome": "PL 199/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as sacolas oferecidas gratuitamente pelo fornecedor ao consumidor final para embalagem ou reembalagem de produtos e d\u00e1 outras provid\u00eancias.",
+                "id": "491314",
+                "nome": "PL 198/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o desconto de 50% (cinq\u00fcenta por cento) em eventos culturais e art\u00edsticos para doadores de sangue.",
+                "id": "491313",
+                "nome": "PL 197/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a instala\u00e7\u00e3o de placas informativas orientando os usu\u00e1rios das rodovias federais, estaduais e municipais a denunciar os motoristas com sinal de embriaguez.",
+                "id": "491312",
+                "nome": "PL 196/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a dispensa de pagamento pelo uso de estacionamento em shopping centers hipermercados.",
+                "id": "491067",
+                "nome": "PL 114/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a comunica\u00e7\u00e3o ao contribuinte do acesso a seus dados cadastrais e fiscais por parte da Secretaria da Receita Federal do Brasil.",
+                "id": "491066",
+                "nome": "PL 113/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 5.768, de 20 de dezembro de 1971, tornando obrigat\u00f3ria a transmiss\u00e3o de sorteios e opera\u00e7\u00f5es assemelhadas, ao momento em que se realizem, pela Internet.",
+                "id": "491065",
+                "nome": "PL 112/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.078, de 11 de setembro de 1990, para incluir nova hip\u00f3tese de cl\u00e1usula contratual  abusiva.",
+                "id": "491064",
+                "nome": "PL 111/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 2\u00baA \u00e0 Lei n\u00ba 10.214, de 27 de mar\u00e7o de 2001.",
+                "id": "491063",
+                "nome": "PL 110/2011"
+            },
+            {
+                "ementa": "Altera o C\u00f3digo Penal, tipificando caso de recepta\u00e7\u00e3o presumida.",
+                "id": "491062",
+                "nome": "PL 109/2011"
+            },
+            {
+                "ementa": "Desonera dos tributos federais todos os medicamentos diretamente utilizados no tratamento do diabetes e da hipertens\u00e3o arterial, e d\u00e1 outras provid\u00eancias.",
+                "id": "491061",
+                "nome": "PL 108/2011"
+            },
+            {
+                "ementa": "Isenta do imposto de importa\u00e7\u00e3o as l\u00e2mpadas fluorescentes (CFL\"s) e ou diodos (LED''s) e d\u00e1 outras provid\u00eancias.",
+                "id": "491060",
+                "nome": "PL 107/2011"
+            },
+            {
+                "ementa": "Modifica a Lei n\u00ba 8.977, de 6 de janeiro de 1995, que \"disp\u00f5e sobre o servi\u00e7o de TV a cabo e d\u00e1 outras provid\u00eancias\", proibindo a cobran\u00e7a de tarifa mensal sobre pontos adicionais instalados no domic\u00edlio do assinante.",
+                "id": "491059",
+                "nome": "PL 106/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para tratar da participa\u00e7\u00e3o da iniciativa privada em projetos de sinaliza\u00e7\u00e3o de tr\u00e2nsito.",
+                "id": "491058",
+                "nome": "PL 105/2011"
+            },
+            {
+                "ementa": "Obriga as pessoas jur\u00eddicas que comercializem produtos ou servi\u00e7os pela Internet a informar seu n\u00famero no Cadastro Nacional da Pessoa Jur\u00eddica - CNPJ, e o endere\u00e7o e o telefone de suas instala\u00e7\u00f5es f\u00edsicas.",
+                "id": "491057",
+                "nome": "PL 104/2011"
+            },
+            {
+                "ementa": "Altera o art. 188 da Lei de Registros P\u00fablicos.",
+                "id": "491056",
+                "nome": "PL 103/2011"
+            },
+            {
+                "ementa": "Altera o caput do art. 32 da Lei n\u00ba 9.605, de 12 de fevereiro de 1998.",
+                "id": "535692",
+                "nome": "PL 3318/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CECONST",
+            "CME",
+            "PEC03299",
+            "PEC44309",
+            "PL161096",
+            "PL540301",
+            "PL682610",
+            "CEANISTI",
+            "CFT",
+            "PEC11111",
+            "PEC40509",
+            "PEC47810"
+        ],
+        "estado": "MA",
+        "id": "141408",
+        "nome": "CLEBER VERDE",
+        "partido": "PRB",
+        "proposicoes": [
+            {
+                "ementa": "Estabelece o per\u00edodo das f\u00e9rias escolares no ano de 2014, em que o Brasil sediar\u00e1 a Copa do Mundo FIFA de Futebol.",
+                "id": "501330",
+                "nome": "PL 1273/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o do Programa de Combate e Preven\u00e7\u00e3o ao C\u00e2ncer de Pele junto aos pescadores em todo o territ\u00f3rio nacional.",
+                "id": "500820",
+                "nome": "PL 1264/2011"
+            },
+            {
+                "ementa": "Acresce \u00a73\u00ba ao art. 1\u00ba da Lei n\u00ba. 10.779, de 25 de novembro de 2003, para garantir que o pescador artesanal de camar\u00f5es, ainda que utilize barco com cumprimento menor do que 4 (quatro) metros possa se habilitar ao recebimento do seguro-desemprego.",
+                "id": "500819",
+                "nome": "PL 1263/2011"
+            },
+            {
+                "ementa": "Altera o Decreto-Lei n\u00ba 221, de 28 de fevereiro de 1967, que disp\u00f5e sobre a prote\u00e7\u00e3o e est\u00edmulos \u00e0 pesca e d\u00e1 outras provid\u00eancias",
+                "id": "500817",
+                "nome": "PL 1262/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre crit\u00e9rios para a concess\u00e3o de certifica\u00e7\u00e3o e autoriza\u00e7\u00e3o para as embarca\u00e7\u00f5es pesqueiras que operam na captura de lagostas em todo o territ\u00f3rio nacional.",
+                "id": "500814",
+                "nome": "PL 1260/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do art. 2\u00ba da Lei n\u00ba 8.001, de 13 de mar\u00e7o de 1990, e d\u00e1 outras provid\u00eancias.",
+                "id": "498833",
+                "nome": "PL 1108/2011"
+            },
+            {
+                "ementa": "Isenta de pagamento a retirada da segunda via de documentos da pessoa que os tiver roubados ou furtados.",
+                "id": "498724",
+                "nome": "PL 1105/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o uso de sacolas pl\u00e1sticas biodegrad\u00e1veis para acondicionamento de produtos e mercadorias a serem utilizadas nos estabelecimentos comerciais em todo territ\u00f3rio nacional.",
+                "id": "498708",
+                "nome": "PL 1103/2011"
+            },
+            {
+                "ementa": "Institui o Fundo de Apoio \u00e0 Pesca Artesanal e d\u00e1 outras provid\u00eancias.",
+                "id": "498707",
+                "nome": "PL 1102/2011"
+            },
+            {
+                "ementa": "Altera o art. 49 da Lei n\u00ba 9.478, de 6 de agosto de 1997, visando destinar parte dos recursos oriundos dos royalties do petr\u00f3leo para as Confedera\u00e7\u00f5es e Federa\u00e7\u00f5es de Pesca, e d\u00e1 outras provid\u00eancias.",
+                "id": "498704",
+                "nome": "PL 1101/2011"
+            },
+            {
+                "ementa": "Acrescenta o art. 29-A a Lei n\u00ba 9.605, de 12 de fevereiro de 1998, estabelecendo como crime ambiental a pesca ou captura de peixes ex\u00f3ticos nos rios e nas encostas brasileiras.",
+                "id": "498703",
+                "nome": "PL 1100/2011"
+            },
+            {
+                "ementa": "Garante ao pescador profissional artesanal de camar\u00f5es o recebimento do seguro-desemprego ainda que o defeso da pesca do camar\u00e3o seja parcial",
+                "id": "498702",
+                "nome": "PL 1099/2011"
+            },
+            {
+                "ementa": "Institui o de Fundo de Aval para Col\u00f4nias, Associa\u00e7\u00f5es e Cooperativas de Pesca e d\u00e1 outras provid\u00eancias.",
+                "id": "498657",
+                "nome": "PL 1095/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 5.194, de 24 de dezembro de 1966, a Lei n\u00ba 5.517, de 23 de outubro de 1968, e d\u00e1 outras provid\u00eancias.",
+                "id": "498651",
+                "nome": "PL 1094/2011"
+            },
+            {
+                "ementa": "Altera o art. 143, da Lei n\u00ba 8.213, de 24 de julho de 1991 e acresce o \u00a7 2\u00ba na Lei n\u00ba 11.368, de 09 de novembro de 2006, com a finalidade de estender por um prazo de 25 anos contados a partir do t\u00e9rmino da vig\u00eancia da Lei n\u00ba 8.213, de 24 de julho de 1991, o direito ao pescador artesanal de aposentar-se por idade sem o recolhimento das contribui\u00e7\u00f5es previdenci\u00e1rias.",
+                "id": "498631",
+                "nome": "PL 1091/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a anistia de parte das d\u00edvidas dos pescadores, associa\u00e7\u00f5es, cooperativas e col\u00f4nias junto ao PRONAF - Programa Nacional de Fortalecimento \u00e0 Agricultura Familiar e d\u00e1 outras provid\u00eancias.",
+                "id": "498630",
+                "nome": "PL 1090/2011"
+            },
+            {
+                "ementa": "Altera o art. 32 da Lei n\u00ba 11.959,  de 29 de junho de 2008, para tornar n\u00e3o obrigat\u00f3ria a exig\u00eancia da utiliza\u00e7\u00e3o do dispositivo de rastreamento por sat\u00e9lite para embarca\u00e7\u00f5es de arqueamento bruta iguais ou menores a 20, bem como de qualquer outro dispositivo ou procedimento que possibilite o monitoramento, da posi\u00e7\u00e3o geogr\u00e1fica e da profundidade do local de pesca da embarca\u00e7\u00e3o.",
+                "id": "498629",
+                "nome": "PL 1089/2011"
+            },
+            {
+                "ementa": "Concede aos armadores de pesca o beneficio de ajuda de custo para a manuten\u00e7\u00e3o da embarca\u00e7\u00e3o de pesca durante o per\u00edodo do defeso.",
+                "id": "498628",
+                "nome": "PL 1088/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o pagamento de adicional de insalubridade aos pescadores profissionais e d\u00e1 outras provid\u00eancias.",
+                "id": "498627",
+                "nome": "PL 1087/2011"
+            },
+            {
+                "ementa": "Acrescem dispositivo no par\u00e1grafo  \u00fanico  do art. 33 da Lei n\u00ba 9.605, de 1998. ",
+                "id": "498626",
+                "nome": "PL 1086/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a assist\u00eancia para a mulher v\u00edtima de estupro que vier a optar por realizar aborto legal.",
+                "id": "498623",
+                "nome": "PL 1085/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 4\u00ba do art. 22- A, acresce os arts.  22-C e 25-B na Lei n\u00ba 8212, de 24 de julho de 1991, j\u00e1 inclu\u00eddas as altera\u00e7\u00f5es realizadas em decorr\u00eancia da Lei n\u00ba 10.256, de 09 de julho de 2001, com a finalidade de estender \u00e0 empresa de captura e ind\u00fastria de pesca os benef\u00edcios concedidos \u00e0 agroind\u00fastria no tocante ao valor da al\u00edquota de contribui\u00e7\u00f5es previdenci\u00e1rias recolhidas pelo empregador em favor da Previd\u00eancia Social.",
+                "id": "498622",
+                "nome": "PL 1084/2011"
+            },
+            {
+                "ementa": "Estende ao catador de marisco e \u00e0 marisqueira o recebimento do seguro-desemprego, concedido ao pescador profissional artesanal, conforme o disposto na Lei n\u00ba 10.779, de 2003.",
+                "id": "498620",
+                "nome": "PL 1083/2011"
+            },
+            {
+                "ementa": "Altera os arts. 12, 23  e  24 da Lei n\u00ba 9.636, de 15 de maio de 1998, que Disp\u00f5e sobre a regulariza\u00e7\u00e3o, administra\u00e7\u00e3o, aforamento e aliena\u00e7\u00e3o de bens im\u00f3veis de dom\u00ednio da Uni\u00e3o e d\u00e1 outras provid\u00eancias.",
+                "id": "498619",
+                "nome": "PL 1082/2011"
+            },
+            {
+                "ementa": "Altera o art. 20 da Lei n\u00ba 8.742, de 7 de dezembro de 1993, e o art. 34 da Lei n\u00ba 10.741, de 1\u00ba de outubro de 2003, para permitir que os idosos e pessoas com defici\u00eancias percebam o benef\u00edcio de presta\u00e7\u00e3o continuada de car\u00e1ter assistencial independentemente do valor da renda familiar per capita, desde que n\u00e3o percebam  aposentadoria de qualquer regime previdenci\u00e1rio, permitida a acumula\u00e7\u00e3o com pens\u00e3o por morte.",
+                "id": "497328",
+                "nome": "PL 911/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educa\u00e7\u00e3o para incluir no curr\u00edculo do ensino m\u00e9dio o tema \"Direitos e Garantias Fundamentais\"",
+                "id": "563455",
+                "nome": "PL 4849/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDU",
+            "PL682610",
+            "CCJC",
+            "PEC40509",
+            "PL749506",
+            "SUBPROEX"
+        ],
+        "estado": "MA",
+        "id": "160582",
+        "nome": "ALBERTO FILHO",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.656, de 3 de junho de 1998, que \"disp\u00f5e sobre os planos e seguros privados de assist\u00eancia \u00e0 sa\u00fade, e d\u00e1 outras provid\u00eancias\".",
+                "id": "526302",
+                "nome": "PL 2645/2011"
+            },
+            {
+                "ementa": "Altera o art. 2\u00ba da Lei n\u00ba 1.060, de 5 de fevereiro de 1950. ",
+                "id": "526303",
+                "nome": "PL 2646/2011"
+            },
+            {
+                "ementa": "Define as diretrizes da Pol\u00edtica Brasileira de Ecologia Molecular para o Uso Sustent\u00e1vel da Biodiversidade da Mata Atl\u00e2ntica, da Zona Costeira e Mar\u00edtima, da Amaz\u00f4nia, e outros Biomas Nacionais, e d\u00e1 outras provid\u00eancias.",
+                "id": "526299",
+                "nome": "PL 2644/2011"
+            },
+            {
+                "ementa": "Estabelece a obrigatoriedade da instala\u00e7\u00e3o de creche e pr\u00e9-escola nas unidades de seguran\u00e7a p\u00fablica.",
+                "id": "499200",
+                "nome": "PL 1134/2011"
+            },
+            {
+                "ementa": "Acrescenta inciso no art. 1\u00b0 da Lei n\u00b0 8.072, de 25 de julho de 1990, que trata dos crimes hediondos, e d\u00e1 outras provid\u00eancias.",
+                "id": "499199",
+                "nome": "PL 1133/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o tempo m\u00e1ximo de espera para realiza\u00e7\u00e3o de procedimentos m\u00e9dicos e ambulatoriais nas Unidades da Rede P\u00fablica de Sa\u00fade e d\u00e1 outras provid\u00eancias.",
+                "id": "563095",
+                "nome": "PL 4841/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCULT",
+            "CREDN",
+            "MERCOSUL",
+            "PEC01095",
+            "PEC40509",
+            "SUBAPROF",
+            "SUBPRSAL",
+            "SUBROYAL",
+            "CEREFPOL",
+            "SUBCOPLP"
+        ],
+        "estado": "MG",
+        "id": "141441",
+        "nome": "GEORGE HILTON",
+        "partido": "PRB",
+        "proposicoes": [
+            {
+                "ementa": "Pro\u00edbe, em todo territ\u00f3rio nacional, a comercializa\u00e7\u00e3o e uso da subst\u00e2ncia salvinorina e da planta da qual pode ser extra\u00edda, da esp\u00e9cie Salvia divinorum.",
+                "id": "497065",
+                "nome": "PL 897/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCULT",
+            "COETICA",
+            "PEC00511",
+            "PEC03711",
+            "PEC11111",
+            "PEC40509",
+            "PL712310",
+            "SUBMIALT",
+            "CME"
+        ],
+        "estado": "AP",
+        "id": "74345",
+        "nome": "EVANDRO MILHOMEN",
+        "partido": "PCdoB",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CAINDR",
+            "CEXINDI",
+            "CPITRAPE",
+            "PEC11111",
+            "PEC40509",
+            "PL161096",
+            "CCJC",
+            "CDHM",
+            "PEC20712"
+        ],
+        "estado": "AP",
+        "id": "73926",
+        "nome": "JANETE CAPIBERIBE",
+        "partido": "PSB",
+        "proposicoes": [
+            {
+                "ementa": "Insere, em quadro em extin\u00e7\u00e3o da Uni\u00e3o, todos servidores dos Munic\u00edpios que compunham o Ex-Territ\u00f3rio Federal do Amap\u00e1, que se encontravam no exerc\u00edcio regular de suas fun\u00e7\u00f5es, quando da cria\u00e7\u00e3o do Estado do Amap\u00e1, por for\u00e7a do art. 31 da Emenda Constitucional n.\u00ba 19, de 1998.",
+                "id": "540967",
+                "nome": "PL 3663/2012"
+            },
+            {
+                "ementa": "Inscreve o nome de Aracy de Carvalho Guimar\u00e3es Rosa no \"Livro dos Her\u00f3is da P\u00e1tria\".",
+                "id": "537205",
+                "nome": "PL 3435/2012"
+            },
+            {
+                "ementa": "Garante a realiza\u00e7\u00e3o de cirurgias reparadoras e reconstrutivas e assist\u00eancia social e psicol\u00f3gica, gratuitamente, \u00e0s v\u00edtimas de escalpelamento.",
+                "id": "536499",
+                "nome": "PL 3397/2012"
+            },
+            {
+                "ementa": "Declara o ambientalista Chico Mendes patrono do meio ambiente brasileiro. ",
+                "id": "536007",
+                "nome": "PL 3341/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "PL749506",
+            "ALTOSEST",
+            "CE",
+            "PEC40509",
+            "PL803510",
+            "SUBFUSAO"
+        ],
+        "estado": "GO",
+        "id": "74812",
+        "nome": "PEDRO CHAVES",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Vin\u00edcius Calebe Xavier Oliveira Reis Sardinha\" o campus de Campos Belos do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia Goiano, no Estado de Goi\u00e1s.",
+                "id": "563932",
+                "nome": "PL 4880/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CMO",
+            "CREDN",
+            "PEC00511",
+            "PL749506",
+            "SUBENDIV",
+            "SUBLEITE",
+            "CAPADR",
+            "PEC40509",
+            "SUBAGRIF"
+        ],
+        "estado": "BA",
+        "id": "74141",
+        "nome": "JOSIAS GOMES",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Denomina \"Barragem Dom M\u00e1rio Zanetta\" a \"Barragem Gasparinho\", situada no munic\u00edpio de Coronel Jo\u00e3o S\u00e1, no Estado da Bahia.  ",
+                "id": "493113",
+                "nome": "PL 515/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CESEGUR",
+            "CFFC",
+            "CMO",
+            "CPITRAPE",
+            "PEC40509",
+            "PL161096",
+            "SUBMIHPA",
+            "SUBSEGPU",
+            "COETICA",
+            "CSPCCO",
+            "PEC03711",
+            "PEC11111",
+            "SUBARMA",
+            "SUBCANA"
+        ],
+        "estado": "RR",
+        "id": "141417",
+        "nome": "EDIO LOPES",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 9.612, de 19 de fevereiro de 1998, que institui o servi\u00e7o de radiodifus\u00e3o comunit\u00e1ria e d\u00e1 outras provid\u00eancias, para permitir a reprodu\u00e7\u00e3o, pelas emissoras de radiodifus\u00e3o comunit\u00e1ria, de conte\u00fados produzidos por emissoras de radiodifus\u00e3o p\u00fablicas dos poderes Executivo, Legislativo e Judici\u00e1rio.",
+                "id": "514143",
+                "nome": "PL 1944/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 10.826, de 22 de dezembro de 2003, para regular a renova\u00e7\u00e3o do registro e do porte de armas de fogo.",
+                "id": "555996",
+                "nome": "PL 4444/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAPADR",
+            "CEAGRIRU",
+            "PEC40509",
+            "CTD",
+            "SUBFUSAO"
+        ],
+        "estado": "MA",
+        "id": "160590",
+        "nome": "H\u00c9LIO SANTOS",
+        "partido": "PSD",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CPITRAPE",
+            "CTASP",
+            "PEC47810",
+            "PEMULHER",
+            "PL749506",
+            "SUBASTRA",
+            "SUBTRAPE",
+            "CPICRIAN",
+            "CTD",
+            "PEC40509",
+            "PL766310",
+            "PL767210"
+        ],
+        "estado": "GO",
+        "id": "160598",
+        "nome": "FL\u00c1VIA MORAIS",
+        "partido": "PDT",
+        "proposicoes": [
+            {
+                "ementa": "Cria o Programa Federal de Incentivo ao Trabalho Educativo -  PROJOVEM para assegurar est\u00e1gio remunerado.",
+                "id": "531334",
+                "nome": "PL 2942/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados incidente sobre ve\u00edculos, m\u00e1quinas e equipamentos de utiliza\u00e7\u00e3o exclusiva de Prefeituras, na forma que estabelece.",
+                "id": "528476",
+                "nome": "PL 2761/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.394, de 20 de dezembro de 1996, que \"Estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional.\"",
+                "id": "524865",
+                "nome": "PL 2576/2011"
+            },
+            {
+                "ementa": "Altera o art. 1\u00ba da Lei n\u00ba 9.504, de 30 de setembro de 1997, que estabelece normas para as elei\u00e7\u00f5es.",
+                "id": "510384",
+                "nome": "PL 1699/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.742, de 7 de dezembro de 1993, que \"Disp\u00f5e sobre a Organiza\u00e7\u00e3o da Assist\u00eancia Social e d\u00e1 outras provid\u00eancias\".",
+                "id": "509747",
+                "nome": "PL 1629/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do caput, \u00a7 1\u00ba, 2\u00ba e inciso I do \u00a7 3\u00ba, do art. 6\u00ba, e \u00a7 3\u00ba do art. 15, da Lei Federal n\u00ba 9. 504, de 30 de setembro de 1997, vedando a celebra\u00e7\u00e3o de coliga\u00e7\u00f5es partid\u00e1rias na faixa proporcional.",
+                "id": "505069",
+                "nome": "PL 1486/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo \u00fanico, ao art. 107 da Lei Federal n\u00ba 4. 737, de 15 de julho de 1965, alterando o c\u00e1lculo do quociente partid\u00e1rio, para efeito de representa\u00e7\u00e3o proporcional em casas legislativas. ",
+                "id": "505068",
+                "nome": "PL 1485/2011"
+            },
+            {
+                "ementa": "Aumenta as al\u00edquotas da Contribui\u00e7\u00e3o para o Pis/Pasep e Cofins incidentes sobre opera\u00e7\u00f5es com brinquedos relacionados a produtos b\u00e9licos. ",
+                "id": "501382",
+                "nome": "PL 1277/2011"
+            },
+            {
+                "ementa": "Confere o t\u00edtulo de \"Capital Nacional Ecum\u00eanica da F\u00e9\" ao Munic\u00edpio de Trindade, no Estado de Goi\u00e1s. ",
+                "id": "501381",
+                "nome": "PL 1276/2011"
+            },
+            {
+                "ementa": "Acrescenta par\u00e1grafo \u00fanico ao art. 3\u00ba da Lei n\u00ba 10.741, de 1\u00ba de outubro de 2003, para permitir a eleva\u00e7\u00e3o do valor do benef\u00edcio previdenci\u00e1rio do idoso que necessite da ajuda de terceiros.",
+                "id": "495079",
+                "nome": "PL 751/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 9\u00ba ao art. 20 da Lei n\u00ba 8.742, de 1993, para permitir a eleva\u00e7\u00e3o do valor do benef\u00edcio de presta\u00e7\u00e3o continuada para o idoso e a pessoa com defici\u00eancia que necessite de aux\u00edlio permanente de terceiros.",
+                "id": "494816",
+                "nome": "PL 723/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o Dia Nacional de Conscientiza\u00e7\u00e3o da Viol\u00eancia contra a Pessoa Idosa.",
+                "id": "492166",
+                "nome": "PL 427/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997 - C\u00f3digo de Tr\u00e2nsito Brasileiro, para incluir a caixa preta automotiva como equipamento obrigat\u00f3rio de ve\u00edculos.\n\n",
+                "id": "560382",
+                "nome": "PL 4741/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.503, de 23 de setembro de 1997, que institui o C\u00f3digo de Tr\u00e2nsito Brasileiro, para dispor sobre os documentos obrigat\u00f3rios do ve\u00edculo.",
+                "id": "539737",
+                "nome": "PL 3589/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 12.213, de 20 de janeiro de 2010, modificando as regras para a dedu\u00e7\u00e3o do imposto de renda das doa\u00e7\u00f5es feitas por pesssoas f\u00edsicas e jur\u00eddicas aos Fundos Nacional, Estaduais e Municipais do Idoso.",
+                "id": "537895",
+                "nome": "PL 3480/2012"
+            },
+            {
+                "ementa": "Fixa normas gerais sobre a disponibiliza\u00e7\u00e3o de Servi\u00e7o de Atendimento ao Consumidor - SAC por telefone e pela internet.",
+                "id": "536379",
+                "nome": "PL 3390/2012"
+            },
+            {
+                "ementa": "Estabelece o prazo de 30 dias para a realiza\u00e7\u00e3o de cirurgia em pacientes com diagn\u00f3stico de neoplasia maligna no \u00e2mbito do Sistema \u00danico de Sa\u00fade.",
+                "id": "533925",
+                "nome": "PL 3125/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAINDR",
+            "CVT",
+            "MERCOSUL",
+            "PEC11111",
+            "PEC40509",
+            "CFT",
+            "CREDN",
+            "PEC03299"
+        ],
+        "estado": "RR",
+        "id": "160656",
+        "nome": "RAUL LIMA",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Modifica a al\u00ednea \"e\" do \u00a7 2\u00ba do art. 4\u00ba da Lei n\u00ba 8.256, de 25 de novembro de 1991, que cria \u00e1reas de livre com\u00e9rcio nos munic\u00edpios de Boa Vista e Bonfim, no Estado de Roraima e d\u00e1 outras provid\u00eancias.  ",
+                "id": "520358",
+                "nome": "PL 2337/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 6\u00ba no art. 2\u00ba na Lei n\u00ba 10.996, de 15 de dezembro de 2004, com a finalidade de se estender a redu\u00e7\u00e3o a 0 (zero) \u00e0s al\u00edquotas da Contribui\u00e7\u00e3o para o PIS/PASEP e da Contribui\u00e7\u00e3o para o Financiamento da Seguridade Social - COFINS incidentes sobre a importa\u00e7\u00e3o de mercadorias destinadas ao consumo ou \u00e0 industrializa\u00e7\u00e3o nas \u00c1reas de Livre Com\u00e9rcio de que tratam as Leis n\u00ba 7.965, de 22 de dezembro de 1989, 8.210, de 19 de julho de 1991, e 8.256, de 25 de novembro de 1991, o art. 11 da Lei n\u00ba 8.387, de 30 de dezembro de 1991, e a Lei n\u00ba 8.857, de 8 de mar\u00e7o de 1994, por pessoa jur\u00eddica estabelecida nas \u00e1reas. ",
+                "id": "520357",
+                "nome": "PL 2336/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o direito do consumidor, a quem for entregue ou que encontrar exposto \u00e0 venda produto ou servi\u00e7o com prazo de validade vencido, de receber gratuitamente do fornecedor um produto id\u00eantico ou similar em condi\u00e7\u00f5es pr\u00f3prias para consumo, sem qualquer \u00f4nus.",
+                "id": "562588",
+                "nome": "PL 4823/2012"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o do Decreto-Lei n\u00ba 288, de 28 de fevereiro de 1967, da Lei n\u00ba 7.965, de 22 de dezembro de 1989, da Lei n\u00ba 8.210, de 19 de julho de 1991, da Lei n\u00ba 8.256, de 25 de novembro de 1991 e da Lei n\u00ba 8.857, de 8 de mar\u00e7o de 1994, para incluir os ve\u00edculos de uso misto (de passageiros e de carga) entre os produtos beneficiados com os incentivos fiscais da Zona Franca de Manaus e \u00c1reas de Livre Com\u00e9rcio.",
+                "id": "543757",
+                "nome": "PL 3818/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDHM",
+            "PEC40509",
+            "PL161096",
+            "SUBCOPA",
+            "SUBFUSAO",
+            "CAPADR",
+            "SUBFIPAC"
+        ],
+        "estado": "RO",
+        "id": "74359",
+        "nome": "NILTON CAPIXABA",
+        "partido": "PTB",
+        "proposicoes": [
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produto Industrializados - IPI - para motos adquiridas por mototaxistas credenciados em cooperativas regulamentadas nos estados e munic\u00edpios, nas condi\u00e7\u00f5es que estabelece a Lei n\u00ba 8.989, de 24 de fevereiro de 1995. ",
+                "id": "507521",
+                "nome": "PL 1544/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre parcelamento de d\u00e9bitos de empresas junto \u00e0 Secretaria da Receita Federal e \u00e0 Procuradoria-Geral da Fazenda Nacional.",
+                "id": "499927",
+                "nome": "PL 1201/2011"
+            },
+            {
+                "ementa": "Estende a isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados para ve\u00edculos adquiridos pelos integrantes das carreiras que comp\u00f5em os \u00f3rg\u00e3os relacionados no art. 144 da Constitui\u00e7\u00e3o Federal, nas condi\u00e7\u00f5es que estabelece.",
+                "id": "497341",
+                "nome": "PL 913/2011"
+            },
+            {
+                "ementa": "Estabelece o monitoramento cont\u00ednuo da contamina\u00e7\u00e3o por merc\u00fario e por outros metais pesados relativa \u00e0 atividade de garimpo no territ\u00f3rio nacional e d\u00e1 outras provid\u00eancias.",
+                "id": "548498",
+                "nome": "PL 4087/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCTCI",
+            "PEC40509",
+            "CAINDR",
+            "CCJC",
+            "CSSF"
+        ],
+        "estado": "AM",
+        "id": "74356",
+        "nome": "SILAS C\u00c2MARA",
+        "partido": "PSD",
+        "proposicoes": [
+            {
+                "ementa": "Altera a Lei n\u00ba 6.938, de 31 de agosto de 1981, que \"disp\u00f5e sobre a Pol\u00edtica Nacional do Meio Ambiente, seus fins e mecanismos de formula\u00e7\u00e3o e aplica\u00e7\u00e3o, e d\u00e1 outras provid\u00eancias\", para estabelecer que os riscos s\u00edsmicos sejam considerados no \u00e2mbito do licenciamento ambiental.",
+                "id": "510438",
+                "nome": "PL 1700/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 4.117, de 27 de agosto de 1962, para permitir a expedi\u00e7\u00e3o de autoriza\u00e7\u00e3o de opera\u00e7\u00e3o, em car\u00e1ter provis\u00f3rio, que perdurar\u00e1 at\u00e9 a aprecia\u00e7\u00e3o, pelo Congresso Nacional, do ato de outorga de servi\u00e7o de radiodifus\u00e3o.  ",
+                "id": "500776",
+                "nome": "PL 1247/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 4.117, de 27 de agosto de 1962, obrigando as emissoras de radiodifus\u00e3o mantidas pelo Poder P\u00fablico a destinar parcela da programa\u00e7\u00e3o para veicular informa\u00e7\u00f5es meteorol\u00f3gicas e temas conexos.",
+                "id": "500476",
+                "nome": "PL 1229/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEXSANTA",
+            "CREDN",
+            "PEMULHER",
+            "SUBASTRA",
+            "CSSF",
+            "PEC40509"
+        ],
+        "estado": "PA",
+        "id": "74075",
+        "nome": "ELCIONE BARBALHO",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Veda a cobran\u00e7a da segunda via da Carteira de Identidade e da Carteira Nacional de Habilita\u00e7\u00e3o de pessoas que se declarem pobres ou desempregadas.",
+                "id": "522123",
+                "nome": "PL 2430/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a aquisi\u00e7\u00e3o de ve\u00edculos nacionais para os \u00f3rg\u00e3os e entidades da administra\u00e7\u00e3o p\u00fablica direta e indireta da Uni\u00e3o.",
+                "id": "537307",
+                "nome": "PL 3448/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CDHM",
+            "CPICRIAN",
+            "CPITRAPE",
+            "PEC20712",
+            "PEC40509",
+            "PEC44309",
+            "PL766310",
+            "SUBAMLE",
+            "CESEGUR",
+            "CTD"
+        ],
+        "estado": "AC",
+        "id": "123756",
+        "nome": "ANT\u00d4NIA L\u00daCIA",
+        "partido": "PSC",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre o fornecimento de informa\u00e7\u00f5es por concession\u00e1ria de telefonia fixa e m\u00f3vel para fins de seguran\u00e7a p\u00fablica.",
+                "id": "499738",
+                "nome": "PL 1180/2011"
+            },
+            {
+                "ementa": "Isenta de todos os impostos federais os consumidores de energia el\u00e9trica do Estado do Acre. ",
+                "id": "561989",
+                "nome": "PL 4789/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as contribui\u00e7\u00f5es para os Programas de Integra\u00e7\u00e3o Social e de Forma\u00e7\u00e3o do Patrim\u00f4nio do Servidor P\u00fablico - PIS/PASEP e para o Financiamento da Seguridade Social - COFINS, relativamente ao faturamento de tintas para impress\u00e3o, sujeitando-as \u00e0 al\u00edquota zero.",
+                "id": "561890",
+                "nome": "PL 4788/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao \u00a7 2\u00ba do art. 134 da Constitui\u00e7\u00e3o Federal.",
+                "id": "523661",
+                "nome": "PEC 98/2011"
+            },
+            {
+                "ementa": "Altera o art. 144 da Constitui\u00e7\u00e3o Federal transferindo para a Uni\u00e3o a seguran\u00e7a p\u00fablica na \u00e1rea da Amaz\u00f4nia Legal. ",
+                "id": "522713",
+                "nome": "PEC 91/2011"
+            },
+            {
+                "ementa": "Altera o art. 144 da Constitui\u00e7\u00e3o Federal para criar a Guarda de Fronteira. ",
+                "id": "519258",
+                "nome": "PEC 81/2011"
+            },
+            {
+                "ementa": "Acrescenta inciso XII ao art. 167 da Constitui\u00e7\u00e3o Federal. ",
+                "id": "563534",
+                "nome": "PEC 232/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "PEC40509",
+            "CDEIC",
+            "PL602505",
+            "SUBRETRI"
+        ],
+        "estado": "MG",
+        "id": "74159",
+        "nome": "ODAIR CUNHA",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta inciso ao art. 8\u00ba da Lei n\u00ba 10.637, de 2002, e acrescenta inciso ao art. 10 da Lei n\u00ba 10.833, de 2003, para que os servi\u00e7os de apoio t\u00e9cnico, administrativo, jur\u00eddico, cont\u00e1bil, comercial e cong\u00eaneres sejam inclu\u00eddos no rol de opera\u00e7\u00f5es sujeitas \u00e0 legisla\u00e7\u00e3o anterior a estas leis.",
+                "id": "497652",
+                "nome": "PL 957/2011"
+            },
+            {
+                "ementa": "Denomina Rodovia Ana Padilha Cintra a BR146 - trecho Guaxup\u00e9/MG a Bom Jesus da Penha/MG.",
+                "id": "542300",
+                "nome": "PL 3744/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CPITRAES",
+            "CTASP",
+            "GTCL",
+            "PEC40509",
+            "CCJC",
+            "PEC01011",
+            "PL355504",
+            "PL602505"
+        ],
+        "estado": "GO",
+        "id": "73676",
+        "nome": "SANDRO MABEL",
+        "partido": "PMDB",
+        "proposicoes": [
+            {
+                "ementa": "Insere o art. 9\u00ba-A e acrescenta os incisos IX e X ao art. 12 da Lei n\u00ba 9.394, de 20 de dezembro de 1996, para determinar a cria\u00e7\u00e3o de medidas de preven\u00e7\u00e3o e combate a pr\u00e1ticas de intimida\u00e7\u00e3o sistem\u00e1tica nas escolas de educa\u00e7\u00e3o b\u00e1sica.",
+                "id": "500387",
+                "nome": "PL 1226/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 CLT (Decreto-Lei n\u00ba 5.452, de 01 de maio de 1943), dispondo sobre o procedimento conjunto de jurisdi\u00e7\u00e3o volunt\u00e1ria na Justi\u00e7a do Trabalho, para possibilitar a homologa\u00e7\u00e3o de acordo extrajudicial firmado pelos interessados.",
+                "id": "499437",
+                "nome": "PL 1153/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados -IPI para os ve\u00edculos adquiridos pelos Centros de Forma\u00e7\u00e3o de Condutores.",
+                "id": "496416",
+                "nome": "PL 859/2011"
+            },
+            {
+                "ementa": "Concede isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados -IPI para os ve\u00edculos adquiridos pelos Centros de Forma\u00e7\u00e3o de Condutores.",
+                "id": "494961",
+                "nome": "PL 741/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a instala\u00e7\u00e3o de portais de raios-X  nas escolas p\u00fablica e privadas.",
+                "id": "492944",
+                "nome": "PL 496/2011"
+            },
+            {
+                "ementa": "Denomina \"Rodovia Abadio Pereira Cardoso\" o trecho da BR-060 entre a cidade de Goi\u00e2nia e o entroncamento com a BR-452 e GO-174, no Estado de Goi\u00e1s. ",
+                "id": "551507",
+                "nome": "PL 4181/2012"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao caput do art. 52 do Decreto-Lei n\u00ba 37, de 18 de novembro de 1966, para dispor sobre a fixa\u00e7\u00e3o do limite m\u00e1ximo de valor para o despacho aduaneiro simplificado.",
+                "id": "534043",
+                "nome": "PL 3135/2012"
+            },
+            {
+                "ementa": "Altera os arts. 158, 159 e 161 da Constitui\u00e7\u00e3o Federal e o art. 91 do Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, com o objetivo de viabilizar financeiramente a regulamenta\u00e7\u00e3o do montante destinado ao ressarcimento dos Estados e Munic\u00edpios brasileiros devido \u00e0 desonera\u00e7\u00e3o do ICMS nas exporta\u00e7\u00f5es de produtos prim\u00e1rios e produtos semi-elaborados.\n",
+                "id": "548012",
+                "nome": "PEC 190/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CMADS",
+            "PEC11111",
+            "PEC40509",
+            "PL161096",
+            "SUBAMLE",
+            "SUBCANA",
+            "SUBENDIV",
+            "CAPADR",
+            "SUBCOHID"
+        ],
+        "estado": "RR",
+        "id": "160668",
+        "nome": "PAULO CESAR QUARTIERO",
+        "partido": "DEM",
+        "proposicoes": []
+    },
+    {
+        "comissoes": [
+            "CREDN",
+            "CMO",
+            "CVT",
+            "PEC40509"
+        ],
+        "estado": "GO",
+        "id": "74290",
+        "nome": "CARLOS ALBERTO LER\u00c9IA",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a instala\u00e7\u00e3o de bloqueadores de sinal de telefonia m\u00f3vel nas ag\u00eancias banc\u00e1rias",
+                "id": "501487",
+                "nome": "PL 1292/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 3\u00ba do art. 392 da Consolida\u00e7\u00e3o das Leis do Trabalho (CLT), aprovada pelo Decreto-lei n\u00ba 5.452, de 1\u00ba de maio de 1943, e o art. 71 da Lei n\u00ba 8.213, de 24 de julho de 1991, que \"Disp\u00f5e sobre os Planos de Benef\u00edcios da Previd\u00eancia Social e d\u00e1 outras provid\u00eancias\", para acrescentar ao per\u00edodo de licen\u00e7a-maternidade, em caso de parto antecipado, os dias correspondentes entre a data do nascimento e a data em que o nascituro completaria trinta e sete semanas, sem preju\u00edzo do emprego e do sal\u00e1rio.",
+                "id": "536961",
+                "nome": "PL 3416/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CAINDR",
+            "CPITRAPE",
+            "PEC40509",
+            "PL161096",
+            "CESEGUR",
+            "CPITRAES",
+            "PEC11111",
+            "PEC47810",
+            "PL742006",
+            "PL749506"
+        ],
+        "estado": "PA",
+        "id": "160644",
+        "nome": "MIRIQUINHO BATISTA",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Consolida\u00e7\u00e3o das Leis do Trabalho, para reduzir a jornada de trabalho de portador de fibromialgia condicionada a comprova\u00e7\u00e3o de pr\u00e1tica de atividade f\u00edsica",
+                "id": "526983",
+                "nome": "PL 2680/2011"
+            },
+            {
+                "ementa": "Permite o abatimento no saldo devedor do FIES, atrav\u00e9s de servi\u00e7os, aos advogados que o fizerem nas defensorias p\u00fablicas. ",
+                "id": "526414",
+                "nome": "PL 2654/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre normas de seguran\u00e7a e preven\u00e7\u00e3o de acidentes em piscinas de uso p\u00fablico e coletivo.",
+                "id": "524081",
+                "nome": "PL 2537/2011"
+            },
+            {
+                "ementa": "Legaliza os Acordos Comunit\u00e1rios de Pesca em todo o territ\u00f3rio nacional.",
+                "id": "518260",
+                "nome": "PL 2191/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a padroniza\u00e7\u00e3o dos s\u00edtios oficiais da Administra\u00e7\u00e3o P\u00fablica Direta e Indireta na rede mundial de computadores. ",
+                "id": "518258",
+                "nome": "PL 2190/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade de divulga\u00e7\u00e3o do prazo de validade dos produtos ou servi\u00e7os colocados em promo\u00e7\u00e3o.",
+                "id": "509526",
+                "nome": "PL 1623/2011"
+            },
+            {
+                "ementa": "Institui a Resid\u00eancia em Enfermagem e d\u00e1 outras provid\u00eancias.",
+                "id": "509512",
+                "nome": "PL 1622/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00e0 Lei n\u00ba 9.612, de 19 de fevereiro de 1998, o \u00a7 3\u00ba ao art. 1\u00ba para garantir, em car\u00e1ter de excepcionalidade t\u00e9cnica, o servi\u00e7o de Radiodifus\u00e3o Comunit\u00e1ria autorizadas \u00e0 prestar o servi\u00e7o na Amaz\u00f4nia Legal.",
+                "id": "506565",
+                "nome": "PL 1523/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivos \u00e0 Lei n\u00ba 7.102, de 20 de junho de 1983, que \"disp\u00f5e sobre seguran\u00e7a para estabelecimentos financeiros, estabelece normas para constitui\u00e7\u00e3o e funcionamento das empresas particulares que exploram servi\u00e7os de vigil\u00e2ncia e de transporte de valores, e d\u00e1 outras provid\u00eancias\".",
+                "id": "505249",
+                "nome": "PL 1500/2011"
+            },
+            {
+                "ementa": "Acrescenta dispositivo \u00e0 Lei n\u00ba 8.666, de 21 de junho de 1993, dispondo sobre o aproveitamento de empregados de empresas prestadoras de servi\u00e7os continuados.",
+                "id": "559890",
+                "nome": "PL 4729/2012"
+            },
+            {
+                "ementa": "Obriga as unidades de sa\u00fade a instalarem sistemas de c\u00e2meras de seguran\u00e7a em unidades de terapia intensiva neonatal, ber\u00e7\u00e1rios e maternidades.",
+                "id": "558104",
+                "nome": "PL 4628/2012"
+            },
+            {
+                "ementa": "Institui o Dia Nacional do A\u00e7aizeiro (Euterpe oleracea).",
+                "id": "555246",
+                "nome": "PL 4406/2012"
+            },
+            {
+                "ementa": "Isenta as terras quilombolas do imposto sobre a propriedade territorial rural - ITR.",
+                "id": "548459",
+                "nome": "PL 4084/2012"
+            },
+            {
+                "ementa": "Altera o Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, dispondo sobre a grava\u00e7\u00e3o do interrogat\u00f3rio no inqu\u00e9rito policial.",
+                "id": "544464",
+                "nome": "PL 3857/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre normas para a disponibiliza\u00e7\u00e3o de Servi\u00e7o de Atendimento ao Consumidor - SAC gratuito por telefone por fornecedores de produtos e servi\u00e7os regulados pelo Poder P\u00fablico federal, por institui\u00e7\u00f5es financeiras, por seguradoras e por demais institui\u00e7\u00f5es autorizadas a funcionar pelo Banco Central do Brasil.",
+                "id": "540217",
+                "nome": "PL 3630/2012"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a cria\u00e7\u00e3o do Servi\u00e7o Social de Aquicultura e Pesca (SESAP) e do Servi\u00e7o Nacional de Aprendizagem de Aquicultura e Pesca (SENAP).",
+                "id": "537918",
+                "nome": "PL 3483/2012"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 9.472, de 16 de julho de 1997, estabelecendo restri\u00e7\u00f5es ao uso de terminais de telefonia m\u00f3vel no interior de ag\u00eancias banc\u00e1rias e similares.",
+                "id": "536221",
+                "nome": "PL 3369/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CEESTA",
+            "CESEGUR",
+            "CEXLXHOS",
+            "CEXSUIA",
+            "CPICRIAN",
+            "CPITRAPE",
+            "CSPCCO",
+            "PEC00511",
+            "PEC03711",
+            "PEC20712",
+            "PEC40509",
+            "PEC47810",
+            "PL749506",
+            "PL766310",
+            "CDHM",
+            "CSSF",
+            "PL540301",
+            "PL682610",
+            "SUBPROEX"
+        ],
+        "estado": "GO",
+        "id": "74366",
+        "nome": "JO\u00c3O CAMPOS",
+        "partido": "PSDB",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a denomina\u00e7\u00e3o do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de Aparecida de Goi\u00e2nia em Goi\u00e1s.",
+                "id": "524254",
+                "nome": "PL 2555/2011"
+            },
+            {
+                "ementa": "Disciplina o uso dos instrumentos de menor potencial ofensivo, padronizando o uso da for\u00e7a pelos \u00f3rg\u00e3os de seguran\u00e7a p\u00fablica.",
+                "id": "524252",
+                "nome": "PL 2554/2011"
+            },
+            {
+                "ementa": "Cria a gratifica\u00e7\u00e3o pela presta\u00e7\u00e3o de servi\u00e7o \u00e0 Justi\u00e7a Eleitoral pelos delegados de pol\u00edcia da Uni\u00e3o, dos Estados e do Distrito Federal e seus agentes.",
+                "id": "515690",
+                "nome": "PL 2027/2011"
+            },
+            {
+                "ementa": "Acrescenta incisos e altera a reda\u00e7\u00e3o do caput do art. 322, do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, possibilitando \u00e0 autoridade policial conceder fian\u00e7a aos autores de crimes punidos com deten\u00e7\u00e3o, independente do m\u00e1ximo da pena cominada \u00e0 infra\u00e7\u00e3o.",
+                "id": "513637",
+                "nome": "PL 1903/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 4\u00ba ao art. 304, do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, permitindo a autoridade policial apreciar a exist\u00eancia de causas excludentes de antijuridicidade, por ocasi\u00e3o da lavratura do auto de pris\u00e3o em flagrante.",
+                "id": "512488",
+                "nome": "PL 1843/2011"
+            },
+            {
+                "ementa": "Acrescenta o inciso X ao art. 6\u00ba, do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, tornando obrigat\u00f3ria a recogni\u00e7\u00e3o visuogr\u00e1fica do local do crime.",
+                "id": "511877",
+                "nome": "PL 1800/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 11.482, de 31 de maio de 2007, para permitir a c\u00f4njuges, companheiros e companheiras a op\u00e7\u00e3o pelo regime especial de tributa\u00e7\u00e3o que especifica.",
+                "id": "510071",
+                "nome": "PL 1661/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as organiza\u00e7\u00f5es terroristas, os meios de preven\u00e7\u00e3o, investiga\u00e7\u00e3o, obten\u00e7\u00e3o de prova, o procedimento criminal e d\u00e1 outras provid\u00eancias.",
+                "id": "508108",
+                "nome": "PL 1558/2011"
+            },
+            {
+                "ementa": "Altera a Lei n\u00ba 8.899, de 29 de junho de 1994, que concede passe livre \u00e0s pessoas portadoras de defici\u00eancia no sistema de transporte coletivo interestadual.",
+                "id": "503989",
+                "nome": "PL 1455/2011"
+            },
+            {
+                "ementa": "Altera o \u00a7 2\u00ba, do art. 155, do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, diminuindo a pena e transformando a a\u00e7\u00e3o penal do crime de furto de pequeno valor em p\u00fablica condicionada \u00e0 representa\u00e7\u00e3o.",
+                "id": "500773",
+                "nome": "PL 1244/2011"
+            },
+            {
+                "ementa": "Institui o \"Dia do Nascituro\", a ser comemorado no dia 8 de outubro de cada ano, e d\u00e1 outras provid\u00eancias.",
+                "id": "499805",
+                "nome": "PL 1190/2011"
+            },
+            {
+                "ementa": "Altera o caput do art. 89 da Lei n\u00ba 9.099, de 26 de setembro de 1995, que disp\u00f5e sobre os Juizados Especiais C\u00edveis e Criminais e d\u00e1 outras provid\u00eancias, e acresce o art. 89-A ao referido diploma legal.",
+                "id": "499804",
+                "nome": "PL 1189/2011"
+            },
+            {
+                "ementa": "Altera a reda\u00e7\u00e3o dos artigos 60, 69, 73 e 74, da Lei n\u00ba 9.099, de 26 de setembro de 1995, que disp\u00f5es sobre os Juizados Especiais C\u00edveis e Criminais, possibilitando a composi\u00e7\u00e3o preliminar dos danos oriundos de conflitos decorrentes dos crimes de menor potencial ofensivo pelos delegados de pol\u00edcia.",
+                "id": "498383",
+                "nome": "PL 1028/2011"
+            },
+            {
+                "ementa": "Acrescenta artigo ao Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal -, para dispor sobre o crime de contrata\u00e7\u00e3o de servi\u00e7os sexuais, e d\u00e1 outras provid\u00eancias.",
+                "id": "491833",
+                "nome": "PL 377/2011"
+            },
+            {
+                "ementa": "Acrescenta \u00a7 6\u00ba ao art. 120, do Decreto-Lei n\u00ba 3.689, de 3 de outubro de 1941 - C\u00f3digo de Processo Penal, possibilitando o dep\u00f3sito de bens facilmente deterior\u00e1veis ou de dif\u00edcil guarda, na fase pr\u00e9-processual, pela autoridade policial.",
+                "id": "556792",
+                "nome": "PL 4525/2012"
+            },
+            {
+                "ementa": "Altera o caput e o \u00a7 1\u00ba do art. 75 e os incisos I, II e V do art. 83, do C\u00f3digo Penal; altera o caput e o \u00a7 1\u00ba do art. 112, da Lei n\u00ba 7.210, de 11 de julho de 1984; e altera o \u00a7 2\u00ba, do art. 2\u00ba, da Lei n\u00ba 8.072, de 25 de julho de 1990, aumentando o tempo de cumprimento das penas privativas de liberdade, o prazo para a concess\u00e3o de livramento condicional e o prazo para progress\u00e3o de regime de cumprimento de pena.",
+                "id": "539497",
+                "nome": "PL 3573/2012"
+            },
+            {
+                "ementa": "Acrescenta inciso ao art. 1\u00ba, da Lei n\u00ba 8.072, de 25 de julho de 1990, inserindo a pr\u00e1tica de crime de peculato, concuss\u00e3o, corrup\u00e7\u00e3o ativa e corrup\u00e7\u00e3o passiva como crime hediondo e estabelece o programa de recompensa a delatores de crimes cometidos contra a Administra\u00e7\u00e3o P\u00fablica.",
+                "id": "538356",
+                "nome": "PL 3506/2012"
+            },
+            {
+                "ementa": "Acrescenta ao art. 103, da Constitui\u00e7\u00e3o Federal, o inciso X, que disp\u00f5e sobre a capacidade postulat\u00f3ria das Associa\u00e7\u00f5es Religiosas para propor a\u00e7\u00e3o de inconstitucionalidade e a\u00e7\u00e3o declarat\u00f3ria de constitucionalidade de leis ou atos normativos, perante a Constitui\u00e7\u00e3o Federal.",
+                "id": "524259",
+                "nome": "PEC 99/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCTCI",
+            "CPICRIAN",
+            "PEC11111",
+            "PEC40509",
+            "SUBARMA",
+            "CEREFPOL",
+            "CESEGUR",
+            "CTASP",
+            "PL742006",
+            "SUBSISTE"
+        ],
+        "estado": "AP",
+        "id": "141502",
+        "nome": "DALVA FIGUEIREDO",
+        "partido": "PT",
+        "proposicoes": [
+            {
+                "ementa": "Acresce dispositivos ao Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal, e \u00e0 Lei no 4.898, de 9 de dezembro de 1965.",
+                "id": "493355",
+                "nome": "PL 582/2011"
+            },
+            {
+                "ementa": "Altera o art. 31 da Emenda Constitucional n\u00ba 19, de 4 de junho de 1998, e d\u00e1 outras provid\u00eancias. ",
+                "id": "527704",
+                "nome": "PEC 111/2011"
+            },
+            {
+                "ementa": "Veda a concess\u00e3o de aposentadoria compuls\u00f3ria proporcional como pena disciplinar, a ju\u00edzes cuja conduta for considerada, em processo administrativo, civil ou criminal negligente no cumprimento dos deveres do cargo, incompat\u00edvel com a dignidade, a honra e o decoro das fun\u00e7\u00f5es ou cujo proceder funcional seja incompat\u00edvel com o bom desempenho das atividades do Poder Judici\u00e1rio.",
+                "id": "520886",
+                "nome": "PEC 86/2011"
+            },
+            {
+                "ementa": "Acrescenta novo \u00a7 7\u00ba ao art. 14 da Constitui\u00e7\u00e3o Federal, para oficializar o processo de transi\u00e7\u00e3o governamental no per\u00edodo que antecede a ren\u00fancia do titular do cargo eletivo nas hip\u00f3teses do \u00a7 6\u00ba, do art. 14, bem como em fun\u00e7\u00e3o do t\u00e9rmino do mandato e prepara\u00e7\u00e3o da posse no novo governo.",
+                "id": "540178",
+                "nome": "PEC 157/2012"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CEREFPOL",
+            "CSPCCO",
+            "PEC01095",
+            "PEC03299",
+            "PL602505",
+            "PL749506",
+            "PL767210",
+            "PL803510",
+            "SUBSEGPU",
+            "CCJC",
+            "COETICA",
+            "PEC40509",
+            "PL157211",
+            "PL742006"
+        ],
+        "estado": "PB",
+        "id": "141422",
+        "nome": "EFRAIM FILHO",
+        "partido": "DEM",
+        "proposicoes": [
+            {
+                "ementa": "Disp\u00f5e sobre a vaquejada como atividade desportiva formal.",
+                "id": "522555",
+                "nome": "PL 2452/2011"
+            },
+            {
+                "ementa": "D\u00e1 o nome de \"VIADUTO GENERAL LYRA TAVARES\"  ao  atual   viaduto do Km 86,2 na BR 101 NE.",
+                "id": "511871",
+                "nome": "PL 1799/2011"
+            },
+            {
+                "ementa": "Esta Lei altera a Lei n\u00ba 10.098, de 19 de dezembro de 2000, tornando obrigat\u00f3ria a adapta\u00e7\u00e3o dos portais institucionais mantidos pelo Poder P\u00fablico para uso pelas pessoas portadoras de defici\u00eancia visual.",
+                "id": "510847",
+                "nome": "PL 1739/2011"
+            },
+            {
+                "ementa": "Altera dispositivos da Lei n\u00ba\u00a09.503, de 23 de setembro de 1997 - C\u00f3digo de Tr\u00e2nsito Brasileiro e d\u00e1 outras provid\u00eancias.",
+                "id": "499857",
+                "nome": "PL 1192/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre as contribui\u00e7\u00f5es dos Conselhos Profissionais.",
+                "id": "498066",
+                "nome": "PL 1004/2011"
+            },
+            {
+                "ementa": "Da nova reda\u00e7\u00e3o ao art. 334 do C\u00f3digo Penal e acrescenta o art. 334-A,  tamb\u00e9m no Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal.\n\nNOVA EMENTA: D\u00e1 nova reda\u00e7\u00e3o ao art. 334 do Decreto-Lei n\u00ba 2.848, de 7 de dezembro de 1940 - C\u00f3digo Penal e acrescenta-lhe o art. 334-A.",
+                "id": "494004",
+                "nome": "PL 643/2011"
+            }
+        ]
+    },
+    {
+        "comissoes": [
+            "CCJC",
+            "CSPCCO",
+            "PEC01095",
+            "PEC03711",
+            "PEC40509",
+            "PEC44309",
+            "PEC47810",
+            "SUBPORTO",
+            "SUBSEGPU",
+            "CDHM",
+            "CEREFPOL",
+            "CESEGUR",
+            "CVT",
+            "SUBOPOL"
+        ],
+        "estado": "MA",
+        "id": "160555",
+        "nome": "LOURIVAL MENDES",
+        "partido": "PTdoB",
+        "proposicoes": [
+            {
+                "ementa": "Institui o dia 3 de dezembro como Dia do Delegado de Pol\u00edcia.",
+                "id": "527577",
+                "nome": "PL 2728/2011"
+            },
+            {
+                "ementa": "Determina a participa\u00e7\u00e3o obrigat\u00f3ria de membros da Magistratura e do Minist\u00e9rio P\u00fablico em todas as fases do Exame de Ordem, sendo os respectivos representantes indicados pelo Conselho Nacional de Justi\u00e7a e pelo Conselho Nacional do Minist\u00e9rio P\u00fablico. Acrescenta o \u00a7 1\u00ba-A no art. 8\u00ba da Lei N\u00ba. 8.906, DE 4 DE JULHO DE 1994 que disp\u00f5e sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB). ",
+                "id": "525842",
+                "nome": "PL 2625/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a unifica\u00e7\u00e3o da data de realiza\u00e7\u00e3o das provas dos vestibulares para ingresso nas universidades p\u00fablicas federais e estaduais.",
+                "id": "525157",
+                "nome": "PL 2590/2011"
+            },
+            {
+                "ementa": "Institui o dia 3 de dezembro como Dia do Delegado de Pol\u00edcia.",
+                "id": "520711",
+                "nome": "PL 2370/2011"
+            },
+            {
+                "ementa": "Acrescenta o art.8-A na Lei 8112/1990 para reservar o percentual de 5% dos cargos comissionados \u00e0s pessoas portadoras de defici\u00eancia.",
+                "id": "519330",
+                "nome": "PL 2265/2011"
+            },
+            {
+                "ementa": "Altera o art. 55 da Lei n\u00ba 9.605, de 1998 que trata da extra\u00e7\u00e3o irregular de min\u00e9rio.",
+                "id": "517645",
+                "nome": "PL 2149/2011"
+            },
+            {
+                "ementa": "Torna obrigat\u00f3ria a cria\u00e7\u00e3o de pontos de coleta para recolhimento de res\u00edduos de medicamentos nas farm\u00e1cias e drogarias.",
+                "id": "517644",
+                "nome": "PL 2148/2011"
+            },
+            {
+                "ementa": "Determina o percentual de 5% de pessoas portadoras de necessidades especiais para provimento de cargo em comiss\u00e3o na esfera federal.",
+                "id": "512125",
+                "nome": "PL 1816/2011"
+            },
+            {
+                "ementa": "Altera o art. 26 da Lei n\u00ba 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educa\u00e7\u00e3o nacional para incluir a disciplina Seguran\u00e7a Cidad\u00e3.",
+                "id": "509797",
+                "nome": "PL 1632/2011"
+            },
+            {
+                "ementa": "Inclui  no art. 6\u00ba da Lei n\u00ba 7.713,  de 22 de dezembro de 1988, a isen\u00e7\u00e3o de imposto de renda sobre sal\u00e1rios e proventos  de Portadores de doen\u00e7as graves que n\u00e3o se aposentem.",
+                "id": "503949",
+                "nome": "PL 1449/2011"
+            },
+            {
+                "ementa": "Altera o Decreto Lei n\u00ba 9.760, de 5 de setembro de 1946. Modifica o conceito de terrenos de marinha e terrenos acrescidos de marinha, e d\u00e1 outras provid\u00eancias.",
+                "id": "498959",
+                "nome": "PL 1117/2011"
+            },
+            {
+                "ementa": "Inclui  a al\u00ednea \"h\" ao inciso II do art. 8\u00ba da Lei n\u00ba 9.250, de 26 de dezembro de 1995, prevendo a dedu\u00e7\u00e3o, no imposto de renda, dos gastos com livros de autores brasileiros at\u00e9 o teto de R$ 1.500,00 (hum mil e quinhentos reais).",
+                "id": "498954",
+                "nome": "PL 1116/2011"
+            },
+            {
+                "ementa": "Altera o art. 20  par\u00e1grafo \u00fanico e acrescenta o art.20-A, da Lei n\u00ba 8.429, 02 de junho  de 1992.",
+                "id": "497036",
+                "nome": "PL 893/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre a obrigatoriedade da destina\u00e7\u00e3o do percentual de 1.5% sobre o valor bruto da Compensa\u00e7\u00e3o Financeira - CFEM para os estados da federa\u00e7\u00e3o e munic\u00edpios impactados no processo de minera\u00e7\u00e3o.",
+                "id": "496129",
+                "nome": "PL 841/2011"
+            },
+            {
+                "ementa": "Autoriza o Poder Executivo a criar Col\u00e9gio Militar nas cidades que espec\u00edfica.",
+                "id": "494858",
+                "nome": "PL 726/2011"
+            },
+            {
+                "ementa": "Disp\u00f5e sobre o reconhecimento da arte evang\u00e9lica como cultura no Brasil e d\u00e1 outras Provid\u00eancias.",
+                "id": "490976",
+                "nome": "PL 58/2011"
+            },
+            {
+                "ementa": "Altera a Constitui\u00e7\u00e3o Federal para incluir as Carreiras dos Defensores P\u00fablicos e dos Delegados de Pol\u00edcia no Quinto Constitucional.",
+                "id": "525129",
+                "nome": "PEC 102/2011"
+            },
+            {
+                "ementa": "Acrescenta o inciso LXXIX do art. 5\u00ba da Constitui\u00e7\u00e3o Federal, para instituir como direito individual um sistema de Seguran\u00e7a P\u00fablica eficiente e de qualidade.",
+                "id": "522019",
+                "nome": "PEC 89/2011"
+            },
+            {
+                "ementa": "Acrescenta o \u00a7 10 ao art. 144 da Constitui\u00e7\u00e3o Federal para definir a compet\u00eancia para a investiga\u00e7\u00e3o criminal pelas pol\u00edcias federal e civis dos Estados e do Distrito Federal.",
+                "id": "507965",
+                "nome": "PEC 37/2011"
+            },
+            {
+                "ementa": "D\u00e1 nova reda\u00e7\u00e3o ao art. 27 do ADCT da Constitui\u00e7\u00e3o Federal.\n",
+                "id": "494919",
+                "nome": "PEC 7/2011"
+            },
+            {
+                "ementa": "Altera o art. 203, V e acrescenta o inciso VI e o par\u00e1grafo \u00fanico no art. 203 da Constitui\u00e7\u00e3o Federal. Cria a garantia de um sal\u00e1rio m\u00ednimo \u00e0s v\u00edtimas de viol\u00eancia que comprovem n\u00e3o possuir meios de prover a pr\u00f3pria manuten\u00e7\u00e3o ou de t\u00ea-la provida por sua fam\u00edlia.",
+                "id": "534565",
+                "nome": "PEC 134/2012"
+            },
+            {
+                "ementa": "Altera o art. 197 da Constitui\u00e7\u00e3o Federal para proibir a terceiriza\u00e7\u00e3o e a privatiza\u00e7\u00e3o da m\u00e3o de obra das a\u00e7\u00f5es e de servi\u00e7os de sa\u00fade.",
+                "id": "534127",
+                "nome": "PEC 133/2012"
+            }
+        ]
+    }
+]

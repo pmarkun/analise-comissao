@@ -2,17 +2,32 @@
 <html>
   
   <head>
-    <title>CDHM</title>
+    <title>Membros das Comissões</title>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/bootstrap-responsive.css"> 
+    <link rel="stylesheet" href="vendor/css/bootstrap.css">
+    <link rel="stylesheet" href="vendor/css/bootstrap-responsive.css"> 
     <script src="vendor/js/jquery.min.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
     <script src="vendor/js/tempo.js"></script>
+    
+    <style>
+        .row {
+            border-bottom:1px solid #000;
+        }
+        
+        .projetos {
+            margin-top:18px;
+        }
+        
+        .projeto {
+            padding:2px;
+        }
+    </style>
+
 </head>
     <body>
         <div class="container">
-            <h1>CDHM - Membros e PLs (2011/2012)</h1>
+            <h1><span id="comissao"></span> - Membros e PLs (2011/2012)</h1>
             
             <div id="parlamentares">
                 <div id="{{id}}"class="row" data-template>
@@ -22,6 +37,19 @@
             </div>
         </div>
     <script>
+    //roubado do acontecenacamara
+    function gup( name ) {
+      name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+      var regexS = "[\\?&]"+name+"=([^&#]*)";
+      var regex = new RegExp( regexS );
+      var results = regex.exec( window.location.href );
+      if( results == null )
+        return "";
+      else
+        var result = results[1].substring(0,results[1].length);
+        return decodeURIComponent(result).replace(/\+/g, " ")
+    }
+    
     function loadJson(url) {
             var json = '';
             $.ajax({
@@ -37,12 +65,22 @@
         };
 	
      $(document).ready(function() {
-        data = loadJson('cdhm.json');
+        comissao = gup("comissao").split("/")[0];
+        if (!comissao) {
+            comissao = "CDHM"
+        }
+        
+        data = loadJson('data/' + comissao + '.json');
+        //Alterando o texto com Jquery!
+        $("#comissao").text(comissao);
+        
+        //Usando o Tempo.js para renderizar um layout complexo.
         Tempo.prepare("parlamentares").render(data);
      
+        //Usando Jquery novamente para inserir informação dentro de cada parlamentar.
         $.each(data, function(x, parlamentar) {
             $.each(parlamentar.proposicoes, function (x, proposicao) {
-                $("#"+parlamentar.id+ " .projetos").append("<b>"+proposicao.nome+":</b> <span>"+proposicao.ementa+"</span><br />");
+                $("#"+parlamentar.id+ " .projetos").append("<div class='projeto'><b>"+proposicao.nome+":</b> <span>"+proposicao.ementa+"</span></div>");
             });
             
         });
