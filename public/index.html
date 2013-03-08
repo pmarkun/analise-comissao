@@ -7,9 +7,10 @@
     <link rel="stylesheet" href="vendor/css/bootstrap.css">
     <link rel="stylesheet" href="vendor/css/bootstrap-responsive.css"> 
     <script src="vendor/js/jquery.min.js"></script>
+    <script src="vendor/js/jquery.tagcloud.min.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
     <script src="vendor/js/tempo.js"></script>
-    
+    <script src="js/misc.js"></script>
     <style>
         .row {
             border-bottom:1px solid #000;
@@ -22,6 +23,16 @@
         .projeto {
             padding:2px;
         }
+        .tagcloud li {
+            display:none;
+        }
+        
+        .tagholder {
+            width:100%;
+            text-align:center;
+        }
+        button.tagcloud {
+        }
     </style>
 
 </head>
@@ -31,39 +42,18 @@
             
             <div id="parlamentares">
                 <div id="{{id}}"class="row" data-template>
-                    <div class="span4 parlamentar"><h3>{{nome}} - {{partido}}/{{estado}}</h3></div>
+                    <div class="span4 parlamentar">
+                        <h3>{{nome}} - {{partido}}/{{estado}}</h3>
+                        <div class="tagholder">
+                        <button class="tagcloud btn">tagcloud</button>
+                        <ul class="tagcloud"></ul>
+                        </div>
+                    </div>
                     <div class="span8 projetos"></div>
                 </div>
             </div>
         </div>
     <script>
-    //roubado do acontecenacamara
-    function gup( name ) {
-      name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-      var regexS = "[\\?&]"+name+"=([^&#]*)";
-      var regex = new RegExp( regexS );
-      var results = regex.exec( window.location.href );
-      if( results == null )
-        return "";
-      else
-        var result = results[1].substring(0,results[1].length);
-        return decodeURIComponent(result).replace(/\+/g, " ")
-    }
-    
-    function loadJson(url) {
-            var json = '';
-            $.ajax({
-            'async': false,
-            'global': false,
-            'url': url,
-            'dataType': "json",
-            'success': function (data) {
-                    json = data;
-                }
-            });
-            return json;
-        };
-	
      $(document).ready(function() {
         comissao = gup("comissao").split("/")[0];
         if (!comissao) {
@@ -79,14 +69,25 @@
      
         //Usando Jquery novamente para inserir informação dentro de cada parlamentar.
         $.each(data, function(x, parlamentar) {
+            var tagtext = [];
             $.each(parlamentar.proposicoes, function (x, proposicao) {
                 $("#"+parlamentar.id+ " .projetos").append("<div class='projeto'><b><a href='http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao="+proposicao.id+"'>"+proposicao.nome+"</a>:</b> <span>"+proposicao.ementa+"</span></div>");
+                tagtext.push(proposicao.ementa);
             });
             
+            tagtext = countWords(tagtext.join(' '));
+            $.each(tagtext, function (tagname, tagcount) {
+                $("#"+parlamentar.id+" ul.tagcloud").append("<li title='"+tagname+"' value='"+tagcount+"'><a href='#'>"+tagname+" </a></li>");
+            });
+            
+            $("#"+parlamentar.id+" button.tagcloud").click(function () {
+                $("#"+parlamentar.id+" button.tagcloud").hide('slow');
+                $("#"+parlamentar.id+" ul.tagcloud").tagcloud({type:"list",sizemin:12});
+            });
         });
      });
     
     </script>
-    <a href="https://github.com/pmarkun/analise-comissao"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+    <a href="https://github.com/pmarkun/analise-comissao"><img style="position: absolute; top: 0; right: 0; border: 0;" src="static/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
     </body>
 </html>
